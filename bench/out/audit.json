@@ -1,0 +1,327 @@
+{
+ "datasets": {
+  "jizzu/llama2_indian_law_v2": {
+   "examples": 25338,
+   "cite_criminal_code": 114,
+   "cite_old": 114,
+   "cite_new": 0,
+   "teach_repealed_as_current": 114,
+   "share_of_citing_examples_stale": 1.0,
+   "downloads": 37,
+   "top_stale_sections": [
+    {
+     "id": "IPC:354",
+     "n": 60,
+     "heading": "Assault or criminal force to woman with intent to outrage her modesty"
+    },
+    {
+     "id": "IPC:509",
+     "n": 30,
+     "heading": "Word, gesture or act intended to insult the modesty of a woman"
+    },
+    {
+     "id": "IPC:498A",
+     "n": 18,
+     "heading": "Husband or relative of husband of a woman subjecting her to cruelty"
+    },
+    {
+     "id": "IPC:354A",
+     "n": 12,
+     "heading": "Sexual harassment and punishment for sexual harassment"
+    },
+    {
+     "id": "IPC:326A",
+     "n": 8,
+     "heading": "Voluntarily causing grievous hurt by use of acid, etc"
+    },
+    {
+     "id": "IPC:326B",
+     "n": 6,
+     "heading": "Voluntarily throwing or attempting to throw acid"
+    },
+    {
+     "id": "IPC:354C",
+     "n": 4,
+     "heading": "Voyeurism"
+    },
+    {
+     "id": "IPC:506",
+     "n": 4,
+     "heading": "Punishment for criminal intimidation"
+    }
+   ]
+  },
+  "viber1/indian-law-dataset": {
+   "examples": 24607,
+   "cite_criminal_code": 65,
+   "cite_old": 65,
+   "cite_new": 0,
+   "teach_repealed_as_current": 65,
+   "share_of_citing_examples_stale": 1.0,
+   "downloads": 91,
+   "top_stale_sections": [
+    {
+     "id": "IPC:354",
+     "n": 30,
+     "heading": "Assault or criminal force to woman with intent to outrage her modesty"
+    },
+    {
+     "id": "IPC:509",
+     "n": 15,
+     "heading": "Word, gesture or act intended to insult the modesty of a woman"
+    },
+    {
+     "id": "IPC:498A",
+     "n": 9,
+     "heading": "Husband or relative of husband of a woman subjecting her to cruelty"
+    },
+    {
+     "id": "IPC:354A",
+     "n": 6,
+     "heading": "Sexual harassment and punishment for sexual harassment"
+    },
+    {
+     "id": "IPC:326A",
+     "n": 4,
+     "heading": "Voluntarily causing grievous hurt by use of acid, etc"
+    },
+    {
+     "id": "IPC:375",
+     "n": 4,
+     "heading": "Rape"
+    },
+    {
+     "id": "IPC:326B",
+     "n": 3,
+     "heading": "Voluntarily throwing or attempting to throw acid"
+    },
+    {
+     "id": "IPC:499",
+     "n": 3,
+     "heading": "Defamation"
+    }
+   ]
+  },
+  "shruths204/basic-legal-qa-india": {
+   "examples": 1500,
+   "cite_criminal_code": 0,
+   "cite_old": 0,
+   "cite_new": 0,
+   "teach_repealed_as_current": 0,
+   "share_of_citing_examples_stale": null,
+   "downloads": 4,
+   "top_stale_sections": []
+  },
+  "nisaar/Lawyer_GPT_India": {
+   "examples": 200,
+   "cite_criminal_code": 7,
+   "cite_old": 7,
+   "cite_new": 0,
+   "teach_repealed_as_current": 7,
+   "share_of_citing_examples_stale": 1.0,
+   "downloads": 87,
+   "top_stale_sections": [
+    {
+     "id": "IPC:375",
+     "n": 4,
+     "heading": "Rape"
+    },
+    {
+     "id": "IPC:499",
+     "n": 3,
+     "heading": "Defamation"
+    },
+    {
+     "id": "CRPC:438",
+     "n": 2,
+     "heading": "Direction for grant of bail to person apprehending arrest"
+    },
+    {
+     "id": "CRPC:125",
+     "n": 1,
+     "heading": "Order for maintenance of wives, children and parents"
+    },
+    {
+     "id": "IPC:420",
+     "n": 1,
+     "heading": "Cheating and dishonestly inducing delivery of property"
+    }
+   ]
+  },
+  "Mukesh555/indian_lawyer_dataset": {
+   "examples": 1000,
+   "cite_criminal_code": 6,
+   "cite_old": 6,
+   "cite_new": 0,
+   "teach_repealed_as_current": 6,
+   "share_of_citing_examples_stale": 1.0,
+   "downloads": 6,
+   "top_stale_sections": [
+    {
+     "id": "IPC:302",
+     "n": 2,
+     "heading": "Punishment for murder"
+    },
+    {
+     "id": "CRPC:439",
+     "n": 2,
+     "heading": "Special powers of High Court or Court of Session regarding bail"
+    },
+    {
+     "id": "CRPC:354",
+     "n": 1,
+     "heading": "Language and contents of judgment"
+    },
+    {
+     "id": "IPC:330",
+     "n": 1,
+     "heading": "Voluntarily causing hurt to extort confession, or to compel restoration of property"
+    },
+    {
+     "id": "IPC:331",
+     "n": 1,
+     "heading": "Voluntarily causing grievous hurt to extort confession, or to compel restoration of property"
+    },
+    {
+     "id": "CRPC:176",
+     "n": 1,
+     "heading": "Inquiry by Magistrate into cause of death"
+    },
+    {
+     "id": "CRPC:438",
+     "n": 1,
+     "heading": "Direction for grant of bail to person apprehending arrest"
+    },
+    {
+     "id": "IPC:377",
+     "n": 1,
+     "heading": "Unnatural offences"
+    }
+   ]
+  },
+  "Akshatpunia0912/Indian-Laws (+3 identical copies)": {
+   "examples": 34244,
+   "cite_criminal_code": 724,
+   "cite_old": 724,
+   "cite_new": 0,
+   "teach_repealed_as_current": 722,
+   "share_of_citing_examples_stale": 0.9972,
+   "downloads": 7502,
+   "top_stale_sections": [
+    {
+     "id": "IPC:21",
+     "n": 193,
+     "heading": "\u201cPublic servant\u201d"
+    },
+    {
+     "id": "IPC:193",
+     "n": 86,
+     "heading": "Punishment for false evidence"
+    },
+    {
+     "id": "IPC:228",
+     "n": 84,
+     "heading": "Intentional insult or interruption to public servant sitting in judicial proceeding"
+    },
+    {
+     "id": "IPC:196",
+     "n": 43,
+     "heading": "Using evidence known to be false"
+    },
+    {
+     "id": "IEA:124",
+     "n": 32,
+     "heading": "Official communications"
+    },
+    {
+     "id": "IEA:123",
+     "n": 30,
+     "heading": "Evidence as to affairs of State"
+    },
+    {
+     "id": "CRPC:346",
+     "n": 30,
+     "heading": "Procedure where Court  considers that case should not be dealt with under section 345"
+    },
+    {
+     "id": "CRPC:345",
+     "n": 25,
+     "heading": "Procedure in certain cases of contempt"
+    }
+   ]
+  },
+  "GSMS-B/Indian-Legal-QA-BNS-BNSS-BSA (new-law control)": {
+   "examples": 6354,
+   "cite_criminal_code": 6354,
+   "cite_old": 7,
+   "cite_new": 6354,
+   "teach_repealed_as_current": 0,
+   "share_of_citing_examples_stale": 0.0,
+   "downloads": 258,
+   "top_stale_sections": []
+  }
+ },
+ "bare_acts_dataset": {
+  "acts": 1021,
+  "has_ipc": true,
+  "has_crpc": true,
+  "has_evidence_act": true,
+  "has_bns": true,
+  "has_bnss": false,
+  "has_bsa": false
+ },
+ "supreme_court_by_year": {
+  "2015": {
+   "old": 4044,
+   "new": 0
+  },
+  "2016": {
+   "old": 3078,
+   "new": 0
+  },
+  "2017": {
+   "old": 3189,
+   "new": 0
+  },
+  "2018": {
+   "old": 4191,
+   "new": 0
+  },
+  "2019": {
+   "old": 7604,
+   "new": 0
+  },
+  "2020": {
+   "old": 4770,
+   "new": 0
+  },
+  "2021": {
+   "old": 6260,
+   "new": 0
+  },
+  "2022": {
+   "old": 7605,
+   "new": 0
+  },
+  "2023": {
+   "old": 6807,
+   "new": 0
+  },
+  "2024": {
+   "old": 7500,
+   "new": 27
+  },
+  "2025": {
+   "old": 9129,
+   "new": 457
+  },
+  "2026": {
+   "old": 1405,
+   "new": 272
+  }
+ },
+ "sc_2025_26": {
+  "judgments": 401,
+  "citing_new_code": 72
+ }
+}

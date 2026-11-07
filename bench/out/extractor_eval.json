@@ -1,0 +1,415 @@
+{
+ "strings": 102045,
+ "precision": 0.9952258564236173,
+ "recall": 0.9910318617826892,
+ "f1": 0.9931244312812026,
+ "number_only": {
+  "precision": 0.9952258564236173,
+  "recall": 0.9910318617826892
+ },
+ "recall_by_act": {
+  "BNS": 1.0,
+  "BNSS": 1.0,
+  "BSA": 1.0,
+  "CRPC": 0.998587220542309,
+  "IEA": 0.9990318416523236,
+  "IPC": 0.986853086219043
+ },
+ "error_sample": [
+  {
+   "raw": "under Sections 364, 302 and 201 I PC",
+   "gold": [
+    "IPC:201",
+    "IPC:302",
+    "IPC:364"
+   ],
+   "pred": []
+  },
+  {
+   "raw": "2, Section 116 of the Evidence Act, 1872",
+   "gold": [
+    "IEA:116",
+    "IEA:2"
+   ],
+   "pred": [
+    "IEA:116"
+   ]
+  },
+  {
+   "raw": "302 and 342 read with Section 34 of the Indian Penal Code",
+   "gold": [
+    "IPC:302",
+    "IPC:34",
+    "IPC:342"
+   ],
+   "pred": [
+    "IPC:34"
+   ]
+  },
+  {
+   "raw": "Section 20 I read with Section 34 IPC",
+   "gold": [
+    "IPC:34"
+   ],
+   "pred": [
+    "IPC:20I",
+    "IPC:34"
+   ]
+  },
+  {
+   "raw": "4 to Section 300 IPC",
+   "gold": [
+    "IPC:300",
+    "IPC:4"
+   ],
+   "pred": [
+    "IPC:300"
+   ]
+  },
+  {
+   "raw": "7, 148, 323, 324, 307 read with Section 149 IPC",
+   "gold": [
+    "IPC:148",
+    "IPC:149",
+    "IPC:307",
+    "IPC:323",
+    "IPC:324",
+    "IPC:7"
+   ],
+   "pred": [
+    "IPC:149"
+   ]
+  },
+  {
+   "raw": "under Section 302 read with 20 I of the Indian Penal Code",
+   "gold": [
+    "IPC:302"
+   ],
+   "pred": [
+    "IPC:20I",
+    "IPC:302"
+   ]
+  },
+  {
+   "raw": "8 and Section 498-A IPC",
+   "gold": [
+    "IPC:498A",
+    "IPC:8"
+   ],
+   "pred": [
+    "IPC:498A"
+   ]
+  },
+  {
+   "raw": "Section 36A(1)(d) with Section 190 of the Cr.P.C",
+   "gold": [
+    "CRPC:190"
+   ],
+   "pred": [
+    "CRPC:190",
+    "CRPC:36A"
+   ]
+  },
+  {
+   "raw": "under Section 364 read with Section 149 E IPC",
+   "gold": [
+    "IPC:364"
+   ],
+   "pred": [
+    "IPC:149E",
+    "IPC:364"
+   ]
+  },
+  {
+   "raw": "under section 411 I PC",
+   "gold": [
+    "IPC:411"
+   ],
+   "pred": []
+  },
+  {
+   "raw": "4 to Section 300 of IPC",
+   "gold": [
+    "IPC:300",
+    "IPC:4"
+   ],
+   "pred": [
+    "IPC:300"
+   ]
+  },
+  {
+   "raw": "under Section 363, 366, 376(2), 302 and 20 I of the Indian Penal Code, 1860",
+   "gold": [
+    "IPC:302",
+    "IPC:363",
+    "IPC:366",
+    "IPC:376"
+   ],
+   "pred": [
+    "IPC:20I",
+    "IPC:302",
+    "IPC:363",
+    "IPC:366",
+    "IPC:376"
+   ]
+  },
+  {
+   "raw": "302 read with Section 149 and Section 148 IPC",
+   "gold": [
+    "IPC:148",
+    "IPC:149",
+    "IPC:302"
+   ],
+   "pred": [
+    "IPC:148",
+    "IPC:149"
+   ]
+  },
+  {
+   "raw": "under sections 302, 392 and 397 I.P C.",
+   "gold": [
+    "IPC:302",
+    "IPC:392",
+    "IPC:397"
+   ],
+   "pred": []
+  },
+  {
+   "raw": "Section 304, I.PC.",
+   "gold": [
+    "IPC:304"
+   ],
+   "pred": []
+  },
+  {
+   "raw": "4 to Section 300 IPC",
+   "gold": [
+    "IPC:300",
+    "IPC:4"
+   ],
+   "pred": [
+    "IPC:300"
+   ]
+  },
+  {
+   "raw": "4 to Section 300 IPC",
+   "gold": [
+    "IPC:300",
+    "IPC:4"
+   ],
+   "pred": [
+    "IPC:300"
+   ]
+  },
+  {
+   "raw": "4 to Section 300 of the IPC.",
+   "gold": [
+    "IPC:300",
+    "IPC:4"
+   ],
+   "pred": [
+    "IPC:300"
+   ]
+  },
+  {
+   "raw": "Sections 306 and 309 C I.P.C.",
+   "gold": [
+    "IPC:306"
+   ],
+   "pred": [
+    "IPC:306",
+    "IPC:309C"
+   ]
+  },
+  {
+   "raw": "under Section 302 and Sections 323 to 326 of the IPC",
+   "gold": [
+    "IPC:302",
+    "IPC:323",
+    "IPC:326"
+   ],
+   "pred": [
+    "IPC:302",
+    "IPC:323",
+    "IPC:324",
+    "IPC:325",
+    "IPC:326"
+   ]
+  },
+  {
+   "raw": "under Section 307 I PC",
+   "gold": [
+    "IPC:307"
+   ],
+   "pred": []
+  },
+  {
+   "raw": "4 to Section 300 IPC",
+   "gold": [
+    "IPC:300",
+    "IPC:4"
+   ],
+   "pred": [
+    "IPC:300"
+   ]
+  },
+  {
+   "raw": "Section 302 I PC",
+   "gold": [
+    "IPC:302"
+   ],
+   "pred": []
+  },
+  {
+   "raw": "4 to Section 300 IPC",
+   "gold": [
+    "IPC:300",
+    "IPC:4"
+   ],
+   "pred": [
+    "IPC:300"
+   ]
+  },
+  {
+   "raw": "420, 409 and 467-A of the Indian Penal Code",
+   "gold": [
+    "IPC:409",
+    "IPC:420"
+   ],
+   "pred": [
+    "IPC:409",
+    "IPC:420",
+    "IPC:467A"
+   ]
+  },
+  {
+   "raw": "under Section 326 read with Section 149 I PC",
+   "gold": [
+    "IPC:149",
+    "IPC:326"
+   ],
+   "pred": []
+  },
+  {
+   "raw": "Section 84 I PC.",
+   "gold": [
+    "IPC:84"
+   ],
+   "pred": []
+  },
+  {
+   "raw": "U/ s. 302 R/w 34 IPC.",
+   "gold": [
+    "IPC:34"
+   ],
+   "pred": [
+    "IPC:302R"
+   ]
+  },
+  {
+   "raw": "147, 148, 302 read with Section 149 IPC",
+   "gold": [
+    "IPC:147",
+    "IPC:148",
+    "IPC:149",
+    "IPC:302"
+   ],
+   "pred": [
+    "IPC:149"
+   ]
+  },
+  {
+   "raw": "302 read with section 34 IPC",
+   "gold": [
+    "IPC:302",
+    "IPC:34"
+   ],
+   "pred": [
+    "IPC:34"
+   ]
+  },
+  {
+   "raw": "19 and section 302 of the Indian Penal Code",
+   "gold": [
+    "IPC:19",
+    "IPC:302"
+   ],
+   "pred": [
+    "IPC:302"
+   ]
+  },
+  {
+   "raw": "Section 120-B of the I PC",
+   "gold": [
+    "IPC:120B"
+   ],
+   "pred": []
+  },
+  {
+   "raw": "under Section 30Z read with 34 of Indian Penal Code",
+   "gold": [
+    "IPC:34"
+   ],
+   "pred": [
+    "IPC:30Z",
+    "IPC:34"
+   ]
+  },
+  {
+   "raw": "under Section 304 A I PC",
+   "gold": [
+    "IPC:304A"
+   ],
+   "pred": []
+  },
+  {
+   "raw": "4 to Section 300 IPC.",
+   "gold": [
+    "IPC:300",
+    "IPC:4"
+   ],
+   "pred": [
+    "IPC:300"
+   ]
+  },
+  {
+   "raw": "under section 302 read with section 149 I PC",
+   "gold": [
+    "IPC:149",
+    "IPC:302"
+   ],
+   "pred": []
+  },
+  {
+   "raw": "ss.302/34 G IPC",
+   "gold": [
+    "IPC:302"
+   ],
+   "pred": [
+    "IPC:302",
+    "IPC:34G"
+   ]
+  },
+  {
+   "raw": "8 and Section 498-A of the Indian Penal Code",
+   "gold": [
+    "IPC:498A",
+    "IPC:8"
+   ],
+   "pred": [
+    "IPC:498A"
+   ]
+  },
+  {
+   "raw": "302 and 392 r/w Section 34 IPC",
+   "gold": [
+    "IPC:302",
+    "IPC:34",
+    "IPC:392"
+   ],
+   "pred": [
+    "IPC:34"
+   ]
+  }
+ ]
+}

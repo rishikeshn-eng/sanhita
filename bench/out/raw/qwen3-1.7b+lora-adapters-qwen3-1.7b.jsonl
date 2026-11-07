@@ -1,0 +1,740 @@
+{"id": "conv-IPC:319", "output": "BNS 107 (Hurt)."}
+{"id": "conv-IPC:9", "output": "BNSS 2023 (Number) and (When such right extends to causing any harm other than death)."}
+{"id": "conv-IPC:375", "output": "BNS 148 (Rape)."}
+{"id": "conv-IPC:51", "output": "BNSS 55 (Oath)."}
+{"id": "conv-IPC:45", "output": "BNS 32 (“Life” )."}
+{"id": "conv-IPC:378", "output": "BNS 319 (Theft)."}
+{"id": "conv-IPC:46", "output": "BNS 18 (“Death” )."}
+{"id": "conv-IPC:19", "output": "BNS 22 (Judge)."}
+{"id": "conv-IPC:48", "output": "BNS 178 (Vessel)."}
+{"id": "conv-IPC:108", "output": "BNS 131 (Abettor)."}
+{"id": "conv-IPC:351", "output": "BNS 131 (Assault)."}
+{"id": "conv-IPC:12", "output": "BNS 146 (Public)."}
+{"id": "conv-IPC:146", "output": "BNS 189 (Rioting)."}
+{"id": "conv-IPC:29", "output": "BNSS 29 (Definitions)."}
+{"id": "conv-IPC:354D", "output": "BNS 131 (Stalking)."}
+{"id": "conv-IPC:42", "output": "BNS 32 (Local law)."}
+{"id": "conv-IPC:143", "output": "BNS 169 (Punishment)."}
+{"id": "conv-IPC:17", "output": "BNS 18 (“Government” )."}
+{"id": "conv-IPC:304B", "output": "BNS 107 (Dowry death) (formerly IPC 304B)."}
+{"id": "conv-IPC:24", "output": "BNS 17 (“Dishonestly”)."}
+{"id": "conv-IPC:39", "output": "BNS 33 (“Voluntarily” )."}
+{"id": "conv-IPC:479", "output": "BNSS 523 (Property mark)."}
+{"id": "conv-IPC:320", "output": "BNS 107 (Grievous hurt)."}
+{"id": "conv-IPC:442", "output": "BNS 329 (House-trespass)."}
+{"id": "conv-IPC:33", "output": "BNS 12 (Act and omission)."}
+{"id": "conv-IPC:22", "output": "BNS 26 (“Movable property”)."}
+{"id": "conv-IPC:26", "output": "BSA 28 (“Reason to believe”) and BSA 29 (“Judgment”)."}
+{"id": "conv-IPC:376", "output": "BNS 150 (Punishment for rape in certain cases)."}
+{"id": "conv-IPC:191", "output": "BNS 224 (Giving false evidence)."}
+{"id": "conv-IPC:294", "output": "BNS 326 (Obscene acts and songs)."}
+{"id": "conv-IPC:443", "output": "BNS 329 (Lurking house-trespass)."}
+{"id": "conv-IPC:465", "output": "BNS 509 (Forgery)."}
+{"id": "conv-IPC:392", "output": "BNS 331 (Punishment for robbery)."}
+{"id": "conv-IEA:133", "output": "BNS 158 (Accomplice)."}
+{"id": "conv-IPC:294A", "output": "BNS 326 (Keeping lottery office)."}
+{"id": "conv-IPC:405", "output": "BNS 346 (Criminal breach of trust)."}
+{"id": "conv-IPC:280", "output": "BNS 282 (Rash navigation of vessel)."}
+{"id": "conv-IPC:393", "output": "BNS 333 (Attempt to commit robbery)."}
+{"id": "conv-IPC:171D", "output": "BNS 199 (Personation at elections)."}
+{"id": "conv-IPC:374", "output": "BNS 150 (Unlawful compulsory labour)."}
+{"id": "conv-IPC:364A", "output": "BNS 140 (Kidnapping for ransom, etc)."}
+{"id": "conv-IEA:74", "output": "BSA 78 (Public and private documents)."}
+{"id": "conv-IPC:304A", "output": "BNS 107 (Causing death by negligence)."}
+{"id": "conv-IPC:170", "output": "BNS 193 (Personating a public servant)."}
+{"id": "conv-IPC:80", "output": "BNS 178 (Accident in doing a lawful act)."}
+{"id": "conv-IPC:193", "output": "BNS 226 (False evidence)."}
+{"id": "conv-IEA:159", "output": "BNS 191 (Refreshing memory)."}
+{"id": "conv-IEA:63", "output": "BSA 66 (Secondary evidence)."}
+{"id": "conv-IEA:141", "output": "BNS 169 (Leading questions)."}
+{"id": "conv-IPC:271", "output": "BNSS 309 (Disobedience to quarantine rule)."}
+{"id": "conv-IPC:54", "output": "BNS 58 (Commutation of sentence of death)."}
+{"id": "conv-IPC:196", "output": "BNS 229 (Using evidence known to be false)."}
+{"id": "conv-IPC:7", "output": "BSA 17 (Sense of expression once explained)."}
+{"id": "conv-IPC:160", "output": "BNS 189 (Affray)."}
+{"id": "conv-IEA:137", "output": "BSA 158 (Examination-in-chief)."}
+{"id": "conv-IPC:341", "output": "BNS 127 (Wrongful restraint)."}
+{"id": "conv-IPC:263A", "output": "BNS 287 (Prohibition of fictitious stamps)."}
+{"id": "conv-IPC:77", "output": "BSA 80 (Act of Judge when acting judicially)."}
+{"id": "conv-IPC:229", "output": "BNS 266 (Personation of assessor)."}
+{"id": "conv-IPC:278", "output": "BNSS 317 (Making atmosphere noxious to health)."}
+{"id": "conv-IPC:361", "output": "BNS 140 (Kidnapping)."}
+{"id": "conv-IEA:162", "output": "BSA 189 (Production of documents)."}
+{"id": "conv-IPC:258", "output": "BNS 189 (Sale of counterfeit Government stamp)."}
+{"id": "conv-IPC:237", "output": "BNS 179 (Import or export of counterfeit coin, Government stamp, currency-notes or bank-notes)."}
+{"id": "conv-IPC:370A", "output": "BNS 148 (Exploitation of a trafficked person)."}
+{"id": "conv-IPC:506", "output": "BNS 549 (Criminal intimidation)."}
+{"id": "conv-IPC:411", "output": "BNS 351 (Dishonestly receiving stolen property)."}
+{"id": "conv-IPC:403", "output": "BNS 346 (Dishonest misappropriation of property)."}
+{"id": "conv-IPC:419", "output": "BNS 319 (Punishment for cheating by personation)."}
+{"id": "conv-IPC:166B", "output": "BNS 190 (Punishment for non-treatment of victim)."}
+{"id": "conv-IPC:505", "output": "BNSS 549 (Statements conducing to public mischief)."}
+{"id": "conv-IEA:142", "output": "BSA 161 (When they must not be asked)."}
+{"id": "conv-IPC:289", "output": "BNS 326 (Negligent conduct with respect to animal)."}
+{"id": "conv-IEA:66", "output": "BSA 202 (Rules as to notice to produce)."}
+{"id": "conv-IPC:469", "output": "BNS 329 (Forgery for purpose of harming reputation)."}
+{"id": "conv-IPC:5", "output": "BNSS 189 (Certain laws not to be affected by this Act) and BNSS 190"}
+{"id": "conv-IEA:55", "output": "BSA 59 (Character as affecting damages)."}
+{"id": "conv-IPC:364", "output": "BNS 140 (Kidnapping or abducting in order to murder or for ransom, etc)."}
+{"id": "conv-IEA:122", "output": "BSA 143 (Communications during marriage)."}
+{"id": "conv-IPC:287", "output": "BNS 324 (Negligent conduct with respect to machinery)."}
+{"id": "conv-IPC:401", "output": "BNS 346 (Punishment for belonging to gang of robbers, etc)."}
+{"id": "conv-IPC:414", "output": "BNS 319 (Assisting in concealment of stolen property)."}
+{"id": "conv-IPC:400", "output": "BNS 329 (Dacoity) (formerly IPC 383)."}
+{"id": "conv-IPC:402", "output": "BNS 34 (Assembling for purpose of committing dacoity) and BNS 35 (D"}
+{"id": "conv-IPC:408", "output": "BNS 349 (Criminal breach of trust)."}
+{"id": "conv-IEA:51", "output": "BSA 55 (Grounds of opinion, when relevant )."}
+{"id": "conv-IPC:198", "output": "BNS 231 (Using as true a certificate known to be false)."}
+{"id": "conv-IPC:208", "output": "BNS 243 (Fraudulently suffering decree for sum not due)."}
+{"id": "conv-IEA:151", "output": "BNS 189 (Indecent and scandalous questions)."}
+{"id": "conv-IPC:166A", "output": "BNS 193 (Public servant disobeying direction under law)."}
+{"id": "conv-IPC:245", "output": "BNS 178 (Unlawfully taking coining instrument from mint)."}
+{"id": "conv-IPC:484", "output": "BNS 189 (Counterfeiting a property mark)."}
+{"id": "conv-IPC:195A", "output": "BNS 224 (Threatening any person to give false evidence)."}
+{"id": "conv-IPC:372", "output": "BNSS 415 (Selling child for purposes of prostitution, etc)."}
+{"id": "conv-IPC:272", "output": "BNS 275 (Adulteration of food or drink intended for sale)."}
+{"id": "conv-IPC:64", "output": "BNSS 67 (Sentence of imprisonment for non-payment of fine)."}
+{"id": "conv-IEA:76", "output": "BSA 78 (Certified copies of public documents)."}
+{"id": "conv-IPC:335", "output": "BNS 127 (Voluntarily causing hurt or grievous hurt on provocation)."}
+{"id": "conv-IPC:325", "output": "BNS 109 (Voluntarily causing hurt or grievous hurt) and BNS 110"}
+{"id": "conv-IPC:32", "output": "BNSS 36 (Words referring to acts include illegal omissions)."}
+{"id": "conv-IPC:171H", "output": "BNS 202 (Illegal payments in connection with an election)."}
+{"id": "conv-IEA:154", "output": "BSA 184 (Question by party to his own witness)."}
+{"id": "conv-IPC:227", "output": "BNS 262 (Violation of condition of remission of punishment)."}
+{"id": "conv-IPC:259", "output": "BNS 189 (Possession of forged or counterfeit coin, Government stamp, currency-notes or bank-notes)."}
+{"id": "conv-IEA:69", "output": "BSA 73 (Proof where no attesting witness found)."}
+{"id": "conv-IEA:46", "output": "BSA 202 (Facts bearing upon opinions of experts)."}
+{"id": "conv-IPC:211", "output": "BNS 247 (False charge of offence made with intent to injure)."}
+{"id": "conv-IPC:144", "output": "BNS 189 (Unlawful assembly)."}
+{"id": "conv-IEA:125", "output": "BSA 146 (Information as to commission of offences)."}
+{"id": "conv-IPC:284", "output": "BNS 287 (Negligent conduct with respect to poisonous substance)."}
+{"id": "conv-IPC:200", "output": "BNS 223 (Using as true such declaration knowing it to be false)."}
+{"id": "conv-IPC:134", "output": "BNS 159 (Abetment of such assault, if assault committed)."}
+{"id": "conv-IPC:153", "output": "BNS 183 (Wantonly giving provocation with intent to cause riot)."}
+{"id": "conv-IPC:466", "output": "BNS 326 (Forgery of record of Court or of public register, etc)."}
+{"id": "conv-IPC:130", "output": "BNS 157 (Aiding escape of, rescuing or harbouring such prisoner)."}
+{"id": "conv-IPC:471", "output": "BNS 189 (Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank-notes"}
+{"id": "conv-IPC:155", "output": "BNS 189 (Liability of owner, occupier, etc., of land on which an unlawful assembly"}
+{"id": "conv-IPC:213", "output": "BNS 250 (Taking gift, etc., to screen an offender from punishment)."}
+{"id": "conv-IPC:158", "output": "BNS 189 (Unlawful assembly)."}
+{"id": "conv-IPC:188", "output": "BNS 221 (Disobedience to order duly promulgated by public servant)."}
+{"id": "conv-IPC:304", "output": "BNS 107 (Punishment for culpable homicide not amounting to murder)."}
+{"id": "conv-IPC:121A", "output": "BNS 148 (Conspiracy to commit offences punishable by section 147)."}
+{"id": "conv-IPC:461", "output": "BNS 307 (Dishonestly breaking open receptacle containing property)."}
+{"id": "conv-IPC:489", "output": "BNS 189 (Tampering with property mark with intent to cause injury)."}
+{"id": "conv-IPC:283", "output": "BNSS 320 (Danger or obstruction in public way or line of navigation)."}
+{"id": "conv-IPC:314", "output": "BNSS 353 (Death caused by act done with intent to cause miscarriage)."}
+{"id": "conv-IEA:73A", "output": "BSA 77 (Proof as to verification of digital signature)."}
+{"id": "conv-IEA:31", "output": "BSA 24 (Admissions not conclusive proof, but may estop)."}
+{"id": "conv-IPC:172", "output": "BNS 206 (Absconding to avoid service of summons or other proceeding)."}
+{"id": "conv-CRPC:484", "output": "BNSS 530 (Repeal and savings)."}
+{"id": "conv-CRPC:272", "output": "BNSS 309 (Language of Courts)."}
+{"id": "conv-CRPC:472", "output": "BNSS 518 (Continuing offence)."}
+{"id": "conv-IEA:81A", "output": "BSA 189 (Presumption as to Gazettes in electronic or digital record) and BSA 1"}
+{"id": "conv-IPC:186", "output": "BNS 206 (Obstructing public servant in discharge of public functions)."}
+{"id": "conv-IPC:431", "output": "BNS 329 (Mischief by injury, inundation, fire or explosive substance, etc)."}
+{"id": "conv-IPC:174", "output": "BNSS 202 (Non-attendance in obedience to an order from public servant)."}
+{"id": "conv-IPC:285", "output": "BNS 287 (Negligent conduct with respect to fire or combustible matter)."}
+{"id": "conv-IPC:101", "output": "BNSS 104 (When such right extends to causing any harm other than death)."}
+{"id": "conv-IPC:129", "output": "BNS 158 (Public servant negligently suffering such prisoner to escape)."}
+{"id": "conv-CRPC:20", "output": "BNS 243 (Executive Magistrates)."}
+{"id": "conv-IEA:49", "output": "BSA 54 (Opinion as to usages, tenets, etc., when relevant)."}
+{"id": "conv-IEA:36", "output": "BNS 141 (Relevancy of statements in maps, charts and plans)."}
+{"id": "conv-IPC:381", "output": "BNS 150 (Theft by clerk or servant of property in possession of master)."}
+{"id": "conv-IPC:250", "output": "BNSS 273 (Delivery of coin, possessed with knowledge that it is altered)."}
+{"id": "conv-IPC:171F", "output": "BNS 202 (Punishment for undue influence or personation at an election)."}
+{"id": "conv-IPC:332", "output": "BNS 127 (Voluntarily causing hurt or grievous hurt to deter public servant from his duty)."}
+{"id": "conv-CRPC:260", "output": "BNSS 283 (Power to try summarily)."}
+{"id": "conv-CRPC:265F", "output": "BNSS 290 (Judgment of Court)."}
+{"id": "conv-CRPC:412", "output": "BSA 453 (Reasons to be recorded)."}
+{"id": "conv-CRPC:198B", "output": "BNS 235 (Cognizance of offence)."}
+{"id": "conv-CRPC:216", "output": "BNS 251 (Court may alter charge)."}
+{"id": "conv-IPC:154", "output": "BNSS 183 (Owner or occupier of land on which an unlawful assembly or riot takes place)."}
+{"id": "conv-IPC:91", "output": "BNSS 94 (Exclusion of acts which are offences independently of harm caused)."}
+{"id": "conv-CRPC:255", "output": "BNSS 283 (Acquittal or conviction)."}
+{"id": "conv-CRPC:275", "output": "BNSS 313 (Record in warrant-cases)."}
+{"id": "conv-IEA:72", "output": "BSA 76 (Proof of document not required by law to be attested)."}
+{"id": "conv-CRPC:51", "output": "BNSS 45 (Search of arrested person)."}
+{"id": "conv-IPC:397", "output": "BNS 150 (Robbery, or dacoity, with attempt to cause death or grievous hurt"}
+{"id": "conv-CRPC:178", "output": "BNSS 202 (Place of inquiry or trial)."}
+{"id": "conv-IPC:398", "output": "BNS 337 (Attempt to commit robbery or dacoity when armed with deadly weapon)."}
+{"id": "conv-IPC:502", "output": "BNSS 546 (Defamation)."}
+{"id": "conv-CRPC:462", "output": "BNSS 507 (Proceedings in wrong place)."}
+{"id": "conv-IPC:366", "output": "BNS 140 (Kidnapping, abducting or inducing woman to compel her marriage, etc)."}
+{"id": "conv-IPC:152", "output": "BNS 189 (Assaulting or obstructing public servant when suppressing riot, etc)."}
+{"id": "conv-IPC:491", "output": "BNS 189 (Breach of contract to attend on and supply wants of helpless person)."}
+{"id": "conv-CRPC:33", "output": "BNSS 127 (Powers of officers appointed)."}
+{"id": "conv-CRPC:238", "output": "BSA 261 (Compliance with section 207)."}
+{"id": "conv-CRPC:378", "output": "BNSS 419 (Appeal in case of acquittal)."}
+{"id": "conv-IPC:150", "output": "BNS 179 (Unlawful assembly)."}
+{"id": "conv-IPC:498A", "output": "BNS 189 (Husband or relative of husband of a woman subjecting her to cruelty)."}
+{"id": "conv-IPC:251", "output": "BNSS 276 (Delivery of coin, possessed with knowledge that it is altered)."}
+{"id": "conv-CRPC:66", "output": "BSA 69 (Service on Government servant)."}
+{"id": "conv-CRPC:313", "output": "BNSS 350 (Power to examine accused)."}
+{"id": "conv-CRPC:386", "output": "BNSS 427 (Powers of Appellate Court)."}
+{"id": "conv-CRPC:287", "output": "BNSS 324 (Parties may examine witnesses)."}
+{"id": "conv-IEA:80", "output": "BSA 189 (Presumption as to documents produced as record of evidence)."}
+{"id": "conv-IPC:187", "output": "BNS 207 (Omission to assist public servant when bound by law to give assistance)."}
+{"id": "conv-CRPC:364", "output": "BSA 407 (Judgment when to be translated)."}
+{"id": "conv-CRPC:277", "output": "BNSS 317 (Language of record of evidence)."}
+{"id": "conv-CRPC:59", "output": "BNSS 62 (Discharge of person apprehended)."}
+{"id": "conv-IPC:333", "output": "BNS 127 (Voluntarily causing hurt or grievous hurt to deter public servant from his duty)."}
+{"id": "conv-CRPC:285", "output": "BNSS 324 (Commission to whom to be issued)."}
+{"id": "conv-IEA:99", "output": "BSA 202 (Who may give evidence of agreement varying terms of document) and BSA 20"}
+{"id": "conv-IPC:240", "output": "BNS 178 (Using as genuine, as against the truth, a document or electronic record knowing it to"}
+{"id": "conv-IPC:117", "output": "BNS 148 (Abetting commission of offence by public or by more than ten persons)."}
+{"id": "conv-IPC:328", "output": "BNS 117 (Causing hurt or grievous hurt by means of poison, etc., with intent to"}
+{"id": "conv-IPC:137", "output": "BNS 161 (Deserter concealed on board merchant vessel through negligence of master)."}
+{"id": "conv-CRPC:202", "output": "BSA 225 (Postponement of issue of process)."}
+{"id": "conv-CRPC:383", "output": "BNSS 426 (Procedure when appellant in jail)."}
+{"id": "conv-CRPC:239", "output": "BSA 262 (When accused shall be discharged)."}
+{"id": "conv-IEA:52", "output": "BSA 56 (In civil cases character to prove conduct imputed, irrelevant)."}
+{"id": "conv-IEA:41", "output": "BSA 24 (Relevancy of certain judgments in probate, etc., jurisdiction)."}
+{"id": "conv-IPC:422", "output": "BNS 321 (Dishonestly or fraudulently preventing debt being available for creditors)."}
+{"id": "conv-IPC:485", "output": "BNS 328 (Making or possession of any instrument for counterfeiting a property mark)."}
+{"id": "conv-CRPC:264", "output": "BNSS 287 (Judgment in cases tried summarily)."}
+{"id": "conv-IPC:199", "output": "BNS 228 (False statement made in declaration which is by law receivable as evidence)."}
+{"id": "conv-CRPC:116", "output": "BNSS 137 (Inquiry as to truth of information)."}
+{"id": "conv-CRPC:99", "output": "BNSS 101 (Direction, etc., of search- warrants)."}
+{"id": "conv-CRPC:105E", "output": "BNSS 109 (Seizure or attachment of property)."}
+{"id": "conv-CRPC:470", "output": "BNSS 518 (Exclusion of time in certain cases)."}
+{"id": "conv-CRPC:84", "output": "BNSS 88 (Claims and objections to attachment)."}
+{"id": "conv-IEA:160", "output": "BSA 180 (Testimony to facts stated in document mentioned in section 179)."}
+{"id": "conv-IPC:462", "output": "BNS 507 (Punishment for same offence when committed by person entrusted with custody)."}
+{"id": "conv-IPC:67", "output": "BNS 71 (Imprisonment for non-payment of fine, when offence punishable with fine only)."}
+{"id": "conv-IPC:409", "output": "BNS 349 (Criminal breach of trust)."}
+{"id": "conv-CRPC:235", "output": "BSA 260 (Judgment of acquittal or conviction)."}
+{"id": "conv-IEA:10", "output": "BSA 127 (Things said or done by conspirator in reference to common design)."}
+{"id": "conv-IEA:65A", "output": "BSA 202 (Special provisions as to evidence relating to electronic record)."}
+{"id": "conv-IEA:89", "output": "BSA 92 (Presumption as to due execution, etc., of documents not produced)."}
+{"id": "conv-IPC:352", "output": "BNS 127 (Punishment for assault or criminal force otherwise than on grave provocation)."}
+{"id": "conv-IPC:353", "output": "BNS 131 (Assault or criminal force to deter public servant from discharge of his duty)."}
+{"id": "conv-CRPC:440", "output": "BSA 485 (Amount of bond and reduction thereof)."}
+{"id": "conv-CRPC:136", "output": "BSA 157 (Consequences of his failing to do so)."}
+{"id": "conv-CRPC:251", "output": "BNSS 275 (Substance of accusation to be stated)."}
+{"id": "conv-CRPC:36", "output": "BNSS 2023 (Powers of superior officers of police) (formerly IPC 356)."}
+{"id": "conv-CRPC:291A", "output": "BNSS 329 (Identification report of Magistrate)."}
+{"id": "conv-IPC:365", "output": "BNS 140 (Kidnapping or abducting in order to murder or for ransom, etc)."}
+{"id": "conv-IPC:202", "output": "BNS 227 (Intentional omission to give information of offence by person bound to inform)."}
+{"id": "conv-IPC:112", "output": "BNS 139 (Abettor when liable to cumulative punishment for act abetted and for act done"}
+{"id": "conv-CRPC:124", "output": "BNSS 147 (Security for unexpired period of bond)."}
+{"id": "conv-CRPC:60", "output": "BNSS 62 (Power, on escape, to pursue and retake)."}
+{"id": "conv-CRPC:97", "output": "BNSS 100 (Search for persons wrongfully confined)."}
+{"id": "conv-CRPC:191", "output": "BNSS 224 (Transfer on application of accused)."}
+{"id": "conv-CRPC:256", "output": "BNSS 281 (Non-appearance or death of complainant)."}
+{"id": "conv-CRPC:105J", "output": "BSA 109 (Certain transfers to be null and void )."}
+{"id": "conv-CRPC:89", "output": "BNSS 92 (Arrest on breach of bond or bail bond for appearance)."}
+{"id": "conv-IEA:15", "output": "BSA 189 (Facts bearing on question whether fact is relevant in criminal proceeding or in civil proceeding)."}
+{"id": "conv-IEA:163", "output": "BSA 189 (Giving, as evidence, of document called for and produced on notice)."}
+{"id": "conv-IPC:459", "output": "BNS 329 (Grievous hurt caused whilst committing house-trespass or house-breaking)."}
+{"id": "conv-CRPC:152", "output": "BSA 179 (Prevention of injury to public property)."}
+{"id": "conv-IPC:183", "output": "BNS 206 (Resistance to taking of property by lawful authority of a public servant)."}
+{"id": "conv-CRPC:212", "output": "BNS 247 (Particulars as to time, place and person)."}
+{"id": "conv-IPC:433", "output": "BNS 321 (Mischief by destroying, moving or rendering less useful a light-house, a fort"}
+{"id": "conv-IPC:367", "output": "BNS 140 (Kidnapping or abducting in order to subject person to grievous hurt,"}
+{"id": "conv-CRPC:14", "output": "BNSS 169 (Local Jurisdiction of Judicial Magistrates)."}
+{"id": "conv-IPC:369", "output": "BNS 141 (Kidnapping or abducting child under ten years of age)."}
+{"id": "conv-IPC:88", "output": "BNS 91 (Act not intended to cause death, done by consent in good faith for person's benefit)."}
+{"id": "conv-CRPC:258", "output": "BNSS 283 (Power to stop proceedings in certain cases)."}
+{"id": "conv-CRPC:270", "output": "BNSS 309 (Prisoner to be brought to Court in custody)."}
+{"id": "conv-CRPC:390", "output": "BNSS 433 (Arrest of accused in appeal from acquittal)."}
+{"id": "conv-CRPC:273", "output": "BSA 275 (Evidence to be taken in presence of accused)."}
+{"id": "conv-CRPC:413", "output": "BNSS 453 (Execution of order passed under section 452)."}
+{"id": "conv-CRPC:37", "output": "BNSS 2023 (Public when to assist Magistrate and police officer) (formerly IPC 17"}
+{"id": "conv-IPC:185", "output": "BNS 207 (Illegal purchase or bid for property offered for sale by authority of public servant)."}
+{"id": "conv-IPC:126", "output": "BNSS 149 (Committing depredation on territories of foreign State at peace with Government of India)"}
+{"id": "conv-IPC:356", "output": "BNS 127 (Assault or criminal force in attempt to commit theft of property carried by a person)."}
+{"id": "conv-CRPC:457", "output": "BSA 499 (Procedure by police upon seizure of property)."}
+{"id": "conv-IPC:432", "output": "BNS 319 (Mischief by causing inundation, fire or explosive substance, etc)."}
+{"id": "conv-IEA:164", "output": "BNS 193 (Using, as evidence, of document production of which was refused on notice)."}
+{"id": "conv-IEA:21", "output": "BSA 245 (Proof of admissions against persons making them, and by or on their behalf)."}
+{"id": "conv-CRPC:112", "output": "BNSS 135 (Procedure in respect of person present in Court)."}
+{"id": "conv-IEA:19", "output": "BSA 202 (Admissions by persons whose position must be proved as against party to suit)."}
+{"id": "conv-IPC:79", "output": "BNS 82 (Act done by a person justified, or by mistake of fact believing himself justified, by law"}
+{"id": "conv-IPC:89", "output": "BNS 93 (Act done in good faith for benefit of child or insane person by or on their behalf)."}
+{"id": "conv-CRPC:100", "output": "BNSS 103 (Persons in charge of closed place to allow search)."}
+{"id": "conv-CRPC:456", "output": "BNSS 499 (Power to restore possession of immovable property)."}
+{"id": "conv-CRPC:407", "output": "BNSS 448 (Power of High Court to transfer cases and appeals)."}
+{"id": "conv-CRPC:102", "output": "BNSS 105 (Power of police officer to seize certain property)."}
+{"id": "conv-IEA:150", "output": "BSA 179 (Procedure of Court in case of question being asked without reasonable grounds)."}
+{"id": "conv-CRPC:237", "output": "BSA 264 (Procedure in cases instituted under sub-section (2) of section 222)."}
+{"id": "conv-IEA:43", "output": "BSA 24 (Judgments, etc., other than those mentioned in sections 23, 24"}
+{"id": "conv-IPC:437", "output": "BNS 329 (Mischief with intent to destroy or make unsafe a rail, aircraft, decked"}
+{"id": "conv-IPC:317", "output": "BNSS 355 (Exposure and abandonment of child under twelve years of age, by parent or person having"}
+{"id": "conv-CRPC:113", "output": "BNSS 137 (Summons or warrant in case of person not so present)."}
+{"id": "conv-IEA:44", "output": "BNS 32 (Fraud or collusion in obtaining judgment, or incompetency of Court, may be proved)."}
+{"id": "conv-IPC:235", "output": "BNS 260 (Possession of instrument or material for the purpose of using the same for forging or counter"}
+{"id": "conv-IPC:355", "output": "BNS 131 (Assault or criminal force with intent to dishonour person, otherwise than on grave"}
+{"id": "conv-IPC:253", "output": "BNS 189 (Possession of coin by person who knew it to be altered when he became possessed thereof"}
+{"id": "conv-IPC:35", "output": "BNS 12 (Act done by a person who knows it to be an act done under law and by whom"}
+{"id": "conv-CRPC:87", "output": "BNSS 90 (Issue of warrant in lieu of, or in addition to, summons)."}
+{"id": "conv-CRPC:28", "output": "BNSS 31 (Sentences which High Courts and Sessions Judges may pass)."}
+{"id": "conv-IPC:423", "output": "BNS 326 (Dishonest or fraudulent execution of deed of transfer containing false statement of consideration)."}
+{"id": "conv-IPC:249", "output": "BNS 178 (Counterfeiting coin, Government stamps, currency-notes or bank-notes)."}
+{"id": "conv-CRPC:146", "output": "BNSS 169 (Power to attach subject of dispute and to appoint receiver)."}
+{"id": "conv-IPC:75", "output": "BNSS 77 (Enhanced punishment for certain offences after previous conviction)."}
+{"id": "conv-CRPC:311", "output": "BNSS 349 (Power to summon material witness, or examine person present)."}
+{"id": "conv-IPC:429", "output": "BNS 309 (Mischief by killing or maiming animal)."}
+{"id": "conv-IPC:244", "output": "BNSS 268 (Person employed in mint causing coin to be of different weight or composition from that fixed by"}
+{"id": "conv-IPC:242", "output": "BNS 179 (Possession of counterfeit coin by person who knew it to be counterfeit when he became possessed"}
+{"id": "conv-CRPC:439", "output": "BNSS 480 (Special powers of High Court or Court of Session regarding bail)."}
+{"id": "conv-IPC:511", "output": "BNS 553 (Punishment for attempting to commit offences punishable with imprisonment for life or other imprisonment)."}
+{"id": "conv-IPC:495", "output": "BNSS 543 (Same offence with concealment of former marriage from person with whom subsequent marriage is contracted)."}
+{"id": "conv-IPC:72", "output": "BNS 76 (Punishment of person guilty of one of several offences, judgment stating that it is doubtful"}
+{"id": "conv-CRPC:468", "output": "BNS 510 (Bar to taking cognizance after lapse of period of limitation)."}
+{"id": "conv-IPC:457", "output": "BNS 329 (Lurking house-trespass or house-breaking by night in order to commit offence"}
+{"id": "conv-IPC:382", "output": "BNS 150 (Theft after preparation made for causing death, hurt or restraint in order to committing of"}
+{"id": "conv-IPC:489D", "output": "BNS 189 (Making or possessing instruments or materials for forging or counterfeiting coin, Government stamp,"}
+{"id": "conv-IPC:458", "output": "BNS 329 (Lurking house-trespass or house-breaking by night after preparation for hurt,"}
+{"id": "conv-CRPC:201", "output": "BNSS 224 (Procedure by Magistrate not competent to take cognizance of case) and BNSS"}
+{"id": "conv-CRPC:366", "output": "BNS 143 (Sentence of death to be submitted by Court of Session for confirmation)."}
+{"id": "conv-CRPC:389", "output": "BNSS 429 (Suspension of sentence pending appeal)."}
+{"id": "conv-CRPC:337", "output": "BNSS 378 (Procedure where prisoner of unsound mind is reported capable of making his defence)."}
+{"id": "conv-CRPC:367", "output": "BNSS 409 (Power to direct further inquiry to be made or additional evidence to be taken)."}
+{"id": "conv-CRPC:475", "output": "BNSS 520 (Delivery to commanding officers of persons liable to be tried by Court-martial)."}
+{"id": "conv-CRPC:53", "output": "BNSS 57 (Examination of accused by medical practitioner at request of police officer)."}
+{"id": "conv-CRPC:187", "output": "BNSS 202 (Power to issue summons or warrant for offence committed beyond local jurisdiction)."}
+{"id": "conv-CRPC:56", "output": "BNSS 60 (Person arrested to be taken before Magistrate or officer in charge of police station)."}
+{"id": "conv-IPC:222", "output": "BNSS 245 (Intentional omission to apprehend on part of public servant bound to apprehend person"}
+{"id": "conv-CRPC:186", "output": "BNSS 202 (High Court to decide, in case of doubt, district where inquiry or trial shall take"}
+{"id": "conv-IPC:476", "output": "BNS 189 (Counterfeiting device or mark used for authenticating documents described in section 18"}
+{"id": "cur-IPC:375", "output": "BNS 12 (Rape)."}
+{"id": "cur-IPC:51", "output": "BSA 10 (Oath) (formerly Evidence Act 10)."}
+{"id": "cur-IPC:159", "output": "BNS 149 (Affray)."}
+{"id": "cur-IPC:9", "output": "BNS 14 (Number)."}
+{"id": "cur-CRPC:5", "output": "BNSS 14 (Saving)."}
+{"id": "cur-IPC:46", "output": "BNS 12 (Death) (formerly IPC 79)."}
+{"id": "cur-IPC:390", "output": "BNS 139 (Robbery)."}
+{"id": "cur-IPC:171B", "output": "BNS 149 (Bribery)."}
+{"id": "cur-IPC:19", "output": "BSA 10 (Judge)."}
+{"id": "cur-IPC:425", "output": "BNS 129 (Mischief)."}
+{"id": "cur-IPC:354D", "output": "BNS 139 (Stalking)."}
+{"id": "cur-IPC:11", "output": "BNS 13 (Person) (formerly IPC 75)."}
+{"id": "cur-IPC:31", "output": "BNS 149 (A will)."}
+{"id": "cur-IPC:362", "output": "BNS 149 (Abduction)."}
+{"id": "cur-IPC:376D", "output": "BNS 139 (Gang rape) (formerly IPC 376)."}
+{"id": "cur-IPC:40", "output": "BNS 12 (Offence)."}
+{"id": "cur-CRPC:126", "output": "BNSS 14 (Procedure)."}
+{"id": "cur-IPC:359", "output": "BNS 139 (Kidnapping)."}
+{"id": "cur-IPC:143", "output": "BNS 14 (Punishment) (formerly IPC 75)."}
+{"id": "cur-IPC:304B", "output": "BNS 12 (Dowry death) (formerly IPC 330)."}
+{"id": "cur-IPC:320", "output": "BNS 12 (Grievous hurt)."}
+{"id": "cur-IPC:39", "output": "BNS 14 (Voluntarily causing hurt or grievous hurt to extort property, or to constrain to an illegal act)."}
+{"id": "cur-IPC:350", "output": "BNS 14 (Criminal force)."}
+{"id": "cur-IPC:25", "output": "BNS 149 (Fraudulently)."}
+{"id": "cur-IPC:410", "output": "BNS 159 (Stolen property) (formerly IPC 318)."}
+{"id": "cur-IPC:470", "output": "BNS 159 (Forged document) (formerly IPC 318)."}
+{"id": "cur-IPC:21", "output": "BNS 149 (Public servant) (formerly IPC 365)."}
+{"id": "cur-CRPC:204", "output": "BSA 10 (Issue of process)."}
+{"id": "cur-IPC:307", "output": "BNS 12 (Attempt to murder)."}
+{"id": "cur-IPC:22", "output": "BNS 1 (Short title, commencement and application)."}
+{"id": "cur-IPC:20", "output": "BNS 14 (Court of Session Judge and Court of Metropolitan Magistrate) and BNS 15 (Court of Metropolitan Magistrate and Court of Judicial Magistrate)."}
+{"id": "cur-CRPC:484", "output": "BNSS 149 (Repeal and savings) (formerly CrPC 129)."}
+{"id": "cur-IPC:212", "output": "BNS 14 (Harbouring offender) (formerly IPC 75)."}
+{"id": "cur-IPC:396", "output": "Dacoity with murder is dealt with under: Dacoity with murder."}
+{"id": "cur-IEA:134", "output": "BSA 10 (Number of witnesses)."}
+{"id": "cur-IPC:340", "output": "BNS 146 (Wrongful confinement)."}
+{"id": "cur-IPC:73", "output": "BNS 149 (Solitary confinement)."}
+{"id": "cur-CRPC:265E", "output": "BNSS 149 (Disposal of case)."}
+{"id": "cur-CRPC:34", "output": "BNSS 149 (Withdrawal of powers)."}
+{"id": "cur-CRPC:283", "output": "BNSS 149 (Record in High Court)."}
+{"id": "cur-IPC:360", "output": "BNS 139 (Kidnapping)."}
+{"id": "cur-IPC:370", "output": "BNS 139 (Trafficking of person)."}
+{"id": "cur-IEA:140", "output": "BSA 10 (Witnesses to character)."}
+{"id": "cur-IEA:121", "output": "BSA 10 (Judges and Magistrates) (formerly Evidence Act 10)."}
+{"id": "cur-IPC:464", "output": "BNS 151 (Making a false document) (formerly IPC 306)."}
+{"id": "cur-IPC:417", "output": "BNS 149 (Cheating)."}
+{"id": "cur-CRPC:395", "output": "BNSS 149 (Reference to High Court) and BNSS 150 (Appeals from convictions under sections 147, 148 and 148"}
+{"id": "cur-CRPC:320", "output": "BNSS 149 (Compounding of offences) (formerly CrPC 129)."}
+{"id": "cur-IPC:405", "output": "BNS 149 (Criminal breach of trust)."}
+{"id": "cur-IPC:393", "output": "BNS 149 (Attempt to commit robbery) (formerly IPC 365)."}
+{"id": "cur-CRPC:51", "output": "BNSS 14 (Search of arrested person)."}
+{"id": "cur-IPC:374", "output": "BNS 149 (Unlawful compulsory labour)."}
+{"id": "cur-IPC:180", "output": "BNS 150 (Refusing to sign statement)."}
+{"id": "cur-IPC:481", "output": "BNS 149 (Using a false property mark)."}
+{"id": "cur-IPC:177", "output": "BNS 151 (Furnishing false information)."}
+{"id": "cur-CRPC:229", "output": "BNSS 14 (Conviction on plea of guilty)."}
+{"id": "cur-IEA:102", "output": "BSA 10 (Burden of proof)."}
+{"id": "cur-IEA:155", "output": "BSA 10 (Impeaching credit of witness)."}
+{"id": "cur-IPC:448", "output": "BNS 139 (Punishment for house-trespass) (formerly IPC 330)."}
+{"id": "cur-IPC:74", "output": "BNS 149 (Limit of solitary confinement)."}
+{"id": "cur-IPC:193", "output": "BNS 149 (False evidence)."}
+{"id": "cur-CRPC:436", "output": "BNSS 14 (In what cases bail to be taken)."}
+{"id": "cur-CRPC:265L", "output": "BNSS 14 (Non- application of Chapter)."}
+{"id": "cur-CRPC:420", "output": "BSA 10 (Warrant with whom to be lodged)."}
+{"id": "cur-IEA:122", "output": "BSA 14 (Communications during marriage) (formerly Evidence Act 16)."}
+{"id": "cur-IPC:84", "output": "BNS 149 (Act of a person of unsound mind) (formerly IPC 338)."}
+{"id": "cur-IPC:376E", "output": "BNS 14 (Punishment for repeat offenders) (formerly IPC 75)."}
+{"id": "cur-IPC:57", "output": "BNS 14 (Fractions of terms of punishment) (formerly IPC 75)."}
+{"id": "cur-CRPC:307", "output": "BNSS 14 (Power to direct tender of pardon)."}
+{"id": "cur-IPC:148", "output": "BNS 149 (Rioting) (formerly IPC 336)."}
+{"id": "cur-IPC:171I", "output": "BNSS 10 (Failure to keep election accounts) (formerly CrPC 10)."}
+{"id": "cur-IPC:120A", "output": "BNS 139 (Criminal conspiracy)."}
+{"id": "cur-CRPC:88", "output": "BNSS 14 (Power to take bond for appearance)."}
+{"id": "cur-IEA:151", "output": "BNS 149 (Indecent and scandalous questions)."}
+{"id": "cur-IPC:7", "output": "BSA 14 (Sense of expression once explained)."}
+{"id": "cur-IPC:229", "output": "BNS 151 (Personation of assessor)."}
+{"id": "cur-CRPC:161", "output": "BSA 10 (Examination of witnesses by police)."}
+{"id": "cur-CRPC:419", "output": "BNSS 14 (Direction of warrant for execution)."}
+{"id": "cur-CRPC:399", "output": "BNSS 148 (Sessions Judge's powers of revision)."}
+{"id": "cur-IEA:65B", "output": "BSA 10 (Admissibility of electronic records) (formerly Evidence Act 10)."}
+{"id": "cur-IPC:258", "output": "BNS 159 (Counterfeiting coin, Government stamps, currency-notes or bank-notes) (formerly IPC 253)."}
+{"id": "cur-IPC:506", "output": "BNS 149 (Criminal intimidation) (formerly IPC 336)."}
+{"id": "cur-CRPC:136", "output": "BNS 14 (Consequences of his failing to do so) (formerly IPC 75)."}
+{"id": "cur-CRPC:75", "output": "BNSS 14 (Notification of substance of warrant)."}
+{"id": "cur-IEA:154", "output": "BSA 10 (Question by party to his own witness)."}
+{"id": "cur-CRPC:274", "output": "BNSS 14 (Record in summons- cases and inquiries) (formerly CrPC 12)."}
+{"id": "cur-CRPC:105J", "output": "BNS 149 (Certain transfers to be null and void )."}
+{"id": "cur-CRPC:92", "output": "BNSS 14 (Procedure as to letters and telegrams) (formerly CrPC 12)."}
+{"id": "cur-IEA:103", "output": "BSA 10 (Burden of proof as to particular fact) (formerly Evidence Act 10)."}
+{"id": "cur-IPC:419", "output": "BNS 149 (Punishment for cheating by personation) (formerly IPC 338)."}
+{"id": "cur-IPC:209", "output": "BNS 149 (Dishonestly making false claim in Court)."}
+{"id": "cur-IPC:171A", "output": "BNS 14 (Candidate, elector or person having authority to vote)."}
+{"id": "cur-IPC:166B", "output": "BNS 14 (Punishment for non-treatment of victim) (formerly IPC 75)."}
+{"id": "cur-CRPC:183", "output": "BNS 149 (Offence committed on journey or voyage) (formerly IPC 370)."}
+{"id": "cur-CRPC:41", "output": "BNSS 14 (When police may arrest without warrant)."}
+{"id": "cur-CRPC:446", "output": "BNSS 149 (Procedure when bond has been forfeited)."}
+{"id": "cur-IPC:505", "output": "BSA 14 (Statements conducing to public mischief) (formerly Evidence Act 16)."}
+{"id": "cur-IPC:406", "output": "BNS 149 (Criminal breach of trust) (formerly IPC 330)."}
+{"id": "cur-CRPC:67", "output": "BNSS 149 (Service of summons outside local limits)."}
+{"id": "cur-CRPC:105H", "output": "BNS 14 (Forfeiture of property in certain cases)."}
+{"id": "cur-CRPC:89", "output": "BNSS 149 (Arrest on breach of bond or bail bond for appearance)."}
+{"id": "cur-IEA:92", "output": "BSA 10 (Exclusion of evidence of oral agreement)."}
+{"id": "cur-IPC:366B", "output": "BNS 149 (Importation of girl or boy from foreign country)."}
+{"id": "cur-IPC:510", "output": "BNS 149 (Misconduct in public by a drunken person)."}
+{"id": "cur-IPC:407", "output": "BNS 149 (Criminal breach of trust) (formerly IPC 339)."}
+{"id": "cur-CRPC:380", "output": "BNSS 429 (Special right of appeal in certain cases)."}
+{"id": "cur-CRPC:212", "output": "BSA 14 (Particulars as to time, place and person) and BSA 15 (Judgments, etc., other than those mentioned in sections 13, "}
+{"id": "cur-CRPC:130", "output": "BNS 14 (Use of armed forces to disperse assembly)."}
+{"id": "cur-IPC:114", "output": "BNS 14 (Abettor present when offence is committed) (formerly IPC 100)."}
+{"id": "cur-CRPC:198", "output": "BNSS 149 (Prosecution for offences against marriage)."}
+{"id": "cur-IEA:34", "output": "BSA 10 (Entries in books of account when relevant )."}
+{"id": "cur-IPC:364", "output": "BNS 139 (Kidnapping or abducting in order to murder or for ransom, etc)."}
+{"id": "cur-CRPC:14", "output": "BNSS 14 (Local Jurisdiction of Judicial Magistrates) (formerly CrPC 12)."}
+{"id": "cur-CRPC:105B", "output": "BSA 12 (Assistance in securing transfer of persons)."}
+{"id": "cur-CRPC:410", "output": "BNSS 149 (Withdrawal of cases by Judicial Magistrate) (formerly CrPC 129)."}
+{"id": "cur-IPC:313", "output": "BNS 139 (Causing miscarriage without woman's consent) (formerly IPC 319)."}
+{"id": "cur-IPC:489A", "output": "BNS 179 (Counterfeiting coin, Government stamps, currency-notes or bank-notes) (formerly IPC 251)."}
+{"id": "cur-IPC:343", "output": "BNS 149 (Wrongful confinement)."}
+{"id": "cur-IPC:108A", "output": "BNS 149 (Abetment in India of offences outside India) and BNS 150 (Abetment in India of offences outside India) (formerly IPC 3"}
+{"id": "cur-IPC:400", "output": "BNS 14 (Punishment for belonging to gang of dacoits) (formerly IPC 78)."}
+{"id": "cur-IPC:287", "output": "BNS 149 (Negligent conduct with respect to machinery) (formerly IPC 336)."}
+{"id": "cur-CRPC:413", "output": "BNSS 409 (Execution of order passed under section 368)."}
+{"id": "cur-IPC:68", "output": "BNS 14 (Imprisonment to terminate on payment of fine) (formerly IPC 75)."}
+{"id": "cur-IEA:90", "output": "BSA 10 (Presumption as to documents thirty years old)."}
+{"id": "cur-IPC:195A", "output": "BNS 149 (Threatening any person to give false evidence)."}
+{"id": "cur-IPC:166A", "output": "BNS 149 (Public servant disobeying direction under law)."}
+{"id": "cur-IPC:210", "output": "BNS 149 (Fraudulently obtaining decree for sum not due)."}
+{"id": "cur-IPC:94", "output": "BNS 149 (Act to which a person is compelled by threats)."}
+{"id": "cur-IEA:16", "output": "BSA 10 (Existence of course of business when relevant )."}
+{"id": "cur-IEA:25", "output": "BSA 10 (Confession to police- officer not to be proved)."}
+{"id": "cur-IEA:73A", "output": "BSA 10 (Proof as to verification of digital signature)."}
+{"id": "cur-IPC:293", "output": "BNS 149 (Sale, etc., of obscene objects to child)."}
+{"id": "cur-IPC:171G", "output": "BNS 159 (False statement in connection with an election)."}
+{"id": "cur-IPC:373", "output": "BNS 139 (Buying child for purposes of prostitution, etc)."}
+{"id": "cur-IEA:31", "output": "BSA 10 (Admissions not conclusive proof, but may estop)."}
+{"id": "cur-CRPC:361", "output": "BSA 10 (Special reasons to be recorded in certain cases)."}
+{"id": "cur-CRPC:261", "output": "BNSS 14 (Summary trial by Magistrate of second class)."}
+{"id": "cur-IPC:325", "output": "BNS 12 (Voluntarily causing hurt or grievous hurt to extort property, or to constrain to an illegal act ) and BNS 13 (Voluntarily causing hurt"}
+{"id": "cur-IPC:55", "output": "BNS 14 (Commutation of sentence of imprisonment for life) (formerly IPC 75)."}
+{"id": "cur-IPC:335", "output": "BNS 12 (Voluntarily causing hurt or grievous hurt on provocation)."}
+{"id": "cur-CRPC:213", "output": "BSA 10 (When manner of committing offence must be stated)."}
+{"id": "cur-IPC:263", "output": "BSA 141 (Erasure of mark denoting that stamp has been used)."}
+{"id": "cur-IPC:494", "output": "BNS 14 (Marrying again during lifetime of husband or wife) (formerly IPC 75)."}
+{"id": "cur-IPC:157", "output": "BNS 149 (Harbouring persons hired for an unlawful assembly)."}
+{"id": "cur-IPC:227", "output": "BNS 149 (Violation of condition of remission of punishment)."}
+{"id": "cur-IEA:47A", "output": "BSA 14 (Opinion as to handwriting and signature, when relevant )."}
+{"id": "cur-IPC:144", "output": "BNS 14 (Joining unlawful assembly armed with deadly weapon)."}
+{"id": "cur-IPC:27", "output": "BNS 149 (Property in possession of wife, husband, child or parent) (formerly IPC 366)."}
+{"id": "cur-IPC:135", "output": "BNS 149 (Abetment of desertion of soldier, sailor or airman) (formerly IPC 374)."}
+{"id": "cur-CRPC:237", "output": "BNSS 230 (Procedure in cases instituted under sub-section (2) of section 228)."}
+{"id": "cur-IPC:215", "output": "BNS 149 (Taking gift to help to recover stolen property, etc) (formerly IPC 389)."}
+{"id": "cur-IPC:66", "output": "BNSS 149 (Description of imprisonment for non-payment of fine)."}
+{"id": "cur-IPC:78", "output": "BSA 10 (Act done pursuant to judgment or order of Court) and BSA 11 (Act done pursuant to judgment or order of Court) and BSA 12 ("}
+{"id": "cur-IPC:501", "output": "BNS 149 (Printing or engraving matter known to be defamatory)."}
+{"id": "cur-IPC:233", "output": "BNS 159 (Making or possessing instruments or materials for forging or counterfeiting coin, Government stamp, currency-notes or bank-notes)."}
+{"id": "cur-CRPC:396", "output": "BNSS 149 (Disposal of case according to decision of High Court) (formerly CrPC 129)."}
+{"id": "cur-IPC:286", "output": "BNS 149 (Negligent conduct with respect to explosive substance) (formerly IPC 339)."}
+{"id": "cur-IPC:427", "output": "BNS 149 (Mischief) (formerly IPC 330)."}
+{"id": "cur-IPC:200", "output": "BNS 159 (Using as true such declaration knowing it to be false)."}
+{"id": "cur-IPC:90", "output": "BNS 149 (Consent known to be given under fear or misconception)."}
+{"id": "cur-IPC:486", "output": "BNS 149 (Selling goods marked with a counterfeit property mark) (formerly IPC 329)."}
+{"id": "cur-IPC:134", "output": "BNS 14 (Abetment of such assault, if assault committed)."}
+{"id": "cur-CRPC:452", "output": "BNSS 149 (Order for disposal of property at conclusion of trial)."}
+{"id": "cur-IEA:112", "output": "BNS 14 (Birth during marriage, conclusive proof of legitimacy) (formerly IPC 75)."}
+{"id": "cur-IPC:376AB", "output": "BNS 12 (Punishment for rape on woman under twelve years of age) (formerly IPC 376)."}
+{"id": "cur-IPC:324", "output": "BNS 12 (Voluntarily causing hurt or grievous hurt by dangerous weapons or means) (formerly IPC 85)."}
+{"id": "cur-IPC:155", "output": "BNS 14 (Liability of owner, occupier, etc., of land on which an unlawful assembly or riot takes place)."}
+{"id": "cur-IPC:453", "output": "BNS 149 (Punishment for house-trespass or house-breaking) (formerly IPC 330)."}
+{"id": "cur-IPC:179", "output": "BNS 156 (Refusing to answer public servant authorised to question)."}
+{"id": "cur-IPC:304", "output": "BNS 12 (Culpable homicide not amounting to murder) (formerly IPC 100)."}
+{"id": "cur-IPC:158", "output": "BNS 149 (Being hired to take part in an unlawful assembly or riot) (formerly IPC 326)."}
+{"id": "cur-IPC:487", "output": "BNS 149 (Making a false mark upon any receptacle containing goods)."}
+{"id": "cur-CRPC:379", "output": "BNSS 429 (Appeal against conviction by High Court in certain cases) and BNSS 460 (Appeal against conviction by High Court in certain cases) and BNSS"}
+{"id": "cur-CRPC:76", "output": "BNSS 14 (Person arrested to be brought before Court without delay) (formerly CrPC 12)."}
+{"id": "cur-IPC:283", "output": "BNS 149 (Danger or obstruction in public way or line of navigation) (formerly IPC 336)."}
+{"id": "cur-IPC:314", "output": "BNS 12 (Death caused by act done with intent to cause miscarriage) (formerly IPC 100)."}
+{"id": "cur-IPC:424", "output": "BNS 149 (Dishonest or fraudulent removal or concealment of property)."}
+{"id": "cur-IPC:376DB", "output": "BNS 12 (Gang rape) (formerly IPC 376)."}
+{"id": "cur-IPC:431", "output": "BNS 139 (Mischief by injury, inundation, fire or explosive substance, etc) (formerly IPC 330)."}
+{"id": "cur-CRPC:368", "output": "BNSS 148 (Power of High Court to confirm sentence or annul conviction)."}
+{"id": "cur-CRPC:450", "output": "BNSS 149 (Power to direct levy of amount due on certain recognizances)."}
+{"id": "cur-IEA:116", "output": "BSA 107 (Estoppel of tenant; and of licensee of person in possession)."}
+{"id": "cur-IPC:171F", "output": "BNS 151 (Punishment for undue influence or personation at an election)."}
+{"id": "cur-CRPC:392", "output": "BNSS 107 (Procedure where Judges of Court of appeal are equally divided) (formerly CrPC 104)."}
+{"id": "cur-CRPC:437A", "output": "BNSS 14 (Bail to require accused to appear before next Appellate Court) (formerly CrPC 12)."}
+{"id": "cur-IPC:92", "output": "BNS 14 (Act done in good faith for benefit of a person without consent) (formerly IPC 85)."}
+{"id": "cur-IPC:6", "output": "BSA 10 (Definitions in Code to be understood subject to exceptions) (formerly Evidence Act 10)."}
+{"id": "cur-CRPC:305", "output": "BNSS 14 (Procedure when corporation or registered society is an accused)."}
+{"id": "cur-IEA:160", "output": "BSA 162 (Testimony to facts stated in document mentioned in section 161)."}
+{"id": "cur-IPC:386", "output": "Extortion by putting a person in fear of death or of hurt is dealt with under section 350 of Bharatiya Nyaya Sanhita, 2023 (Extortion"}
+{"id": "cur-IPC:154", "output": "BNS 149 (Owner or occupier of land on which an unlawful assembly or riot takes place)."}
+{"id": "cur-IPC:326", "output": "BNS 12 (Voluntarily causing hurt or grievous hurt by dangerous weapons or means) (formerly IPC 85)."}
+{"id": "cur-CRPC:219", "output": "BNSS 109 (Three offences of same kind within year may be charged together) and BNSS 110 (Appeals from convictions under sections 107, 1"}
+{"id": "cur-IPC:428", "output": "BNS 149 (Mischief by killing or maiming animal)."}
+{"id": "cur-IPC:489C", "output": "BNS 179 (Possession of forged or counterfeit coin, Government stamp, currency-notes or bank-notes) (formerly IPC 251)."}
+{"id": "cur-IPC:456", "output": "BNS 149 (Punishment for house-trespass or house-breaking) (formerly IPC 331)."}
+{"id": "cur-CRPC:31", "output": "BNSS 14 (Sentence in cases of conviction of several offences at one trial) (formerly CrPC 12)."}
+{"id": "cur-CRPC:330", "output": "BNSS 149 (Release of person of unsound mind pending investigation or trial)."}
+{"id": "cur-IEA:89", "output": "BSA 10 (Presumption as to due execution, etc., of documents not produced)."}
+{"id": "cur-IPC:397", "output": "Dacoity (Robbery, dacoity, etc) was repealed on 1 July 2024 and has no equivalent in the BNS."}
+{"id": "cur-IPC:239", "output": "BNS 159 (Using as genuine, as counterfeit, coin, Government stamp, currency-notes or bank-notes)."}
+{"id": "cur-IPC:290", "output": "BNS 139 (Public nuisance) (formerly IPC 336)."}
+{"id": "cur-CRPC:207", "output": "BNSS 149 (Supply to accused of copy of police report and other documents) (formerly CrPC 129)."}
+{"id": "cur-CRPC:325", "output": "BNSS 149 (Procedure when Magistrate cannot pass sentence sufficiently severe)."}
+{"id": "cur-IPC:498A", "output": "BNS 149 (Husband or relative of husband of a woman subjecting her to cruelty)."}
+{"id": "cur-IPC:357", "output": "BNS 139 (Assault or criminal force in attempt to wrongfully confine a person)."}
+{"id": "cur-CRPC:198A", "output": "Prosecution of offences under section 498A of Bharatiya Nyaya Sanhita, 2023 (formerly IPC 498)."}
+{"id": "cur-CRPC:68", "output": "BSA 10 (Proof of service in such cases and when serving officer not present) and BSA 11 (Evidence to explain or amend ambiguous document)."}
+{"id": "cur-IEA:15", "output": "BSA 10 (Facts bearing on question of intention or of approval of act构成 when relevant )."}
+{"id": "cur-IEA:114A", "output": "BSA 14 (Presumption as to absence of consent in certain prosecution for rape) and BSA 15 (Presumption as to absence of consent in certain prosecution for rape in certain"}
+{"id": "cur-IPC:288", "output": "BNS 149 (Negligent conduct with respect to pulling down, repairing, constructing or rebuilding buildings, etc)."}
+{"id": "cur-IPC:270", "output": "BNS 149 (Malignant act likely to spread infection of disease dangerous to life)."}
+{"id": "cur-IPC:269", "output": "BNS 149 (Negligent act likely to spread infection of disease dangerous to life)."}
+{"id": "cur-IPC:83", "output": "BNS 14 (Act of a child above seven and under twelve of immature understanding) (formerly IPC 78)."}
+{"id": "cur-IPC:38", "output": "BNSS 14 (Persons concerned in criminal act may be guilty of different offences) (formerly CrPC 12)."}
+{"id": "cur-IPC:451", "output": "BNS 149 (House-trespass in order to commit offence) (formerly IPC 334)."}
+{"id": "cur-IPC:128", "output": "BNS 151 (Public servant voluntarily allowing prisoner of State or war to escape)."}
+{"id": "cur-CRPC:366", "output": "BNSS 14 (Sentence of death to be submitted by Court of Session for confirmation) (formerly CrPC 12)."}
+{"id": "cur-CRPC:155", "output": "BNSS 14 (Information as to non- cognizable cases and investigation of such cases) and BNSS 15 (Appeals from convictions under sections 13, 14"}
+{"id": "cur-IEA:156", "output": "BSA 10 (Questions tending to corroborate evidence of relevant fact, admissible) and BSA 11 (Questions tending to corroborate evidence of relevant fact, admissible"}
+{"id": "cur-IPC:333", "output": "BNS 12 (Voluntarily causing hurt or grievous hurt to deter public servant from his duty) (formerly IPC 100)."}
+{"id": "cur-CRPC:141", "output": "BNSS 14 (Procedure on order being made absolute and consequences of disobedience) and BNSS 15 (Appeals from convictions under sections 13, 14, "}
+{"id": "cur-IEA:132", "output": "BSA 10 (Witness not excused from answering on ground that answer will criminate)."}
+{"id": "cur-IEA:94", "output": "BSA 10 (Exclusion of evidence against application of document to existing facts)."}
+{"id": "cur-IPC:166", "output": "BNS 149 (Public servant disobeying law, with intent to cause injury to any person)."}
+{"id": "cur-IPC:298", "output": "BNS 149 (Uttering words, etc., with deliberate intent to wound religious feelings of any person)."}
+{"id": "cur-IPC:345", "output": "BNS 149 (Wrongful confinement)."}
+{"id": "cur-IPC:240", "output": "BNS 159 (Using as genuine, as counterfeit, coin, Government stamp, currency-notes or bank-notes) and BNS 160 (Using as genuine, as counterfeit,"}
+{"id": "cur-IPC:102", "output": "BSA 10 (Commencement and continuance of right of private defence of body)."}
+{"id": "cur-CRPC:319", "output": "BNSS 149 (Power to proceed against other persons appearing to have been guilty of offence) (formerly CrPC 129)."}
+{"id": "cur-IPC:436", "output": "BNS 149 (Mischief by fire or explosive substance, etc)."}
+{"id": "cur-IPC:422", "output": "BNS 149 (Dishonestly or fraudulently preventing debt being available for creditors)."}
+{"id": "cur-IPC:98", "output": "BNS 14 (Right of private defence against act of a person of unsound mind, etc) (formerly IPC 75)."}
+{"id": "cur-IPC:316", "output": "BNS 149 (Causing death of quick unborn child by act amounting to culpable homicide) (formerly IPC 318)."}
+{"id": "cur-CRPC:451", "output": "BNSS 149 (Order for custody and disposal of property pending trial in certain cases) (formerly CrPC 129)."}
+{"id": "cur-IPC:430", "output": "BNS 139 (Mischief by injury, inundation, fire or explosive substance, etc)."}
+{"id": "cur-IPC:199", "output": "BSA 14 (False statement made in declaration which is by law receivable as evidence)."}
+{"id": "cur-CRPC:349", "output": "BNS 151 (Imprisonment or committal of person refusing to answer or produce document) (formerly IPC 315)."}
+{"id": "cur-IPC:462", "output": "BNS 14 (Punishment for same offence when committed by person entrusted with custody) (formerly IPC 75)."}
+{"id": "cur-IPC:409", "output": "BNS 159 (Criminal breach of trust) (formerly IPC 319)."}
+{"id": "cur-IPC:353", "output": "BNS 149 (Assault or criminal force to deter public servant from discharge of his duty) (formerly IPC 339)."}
+{"id": "cur-IPC:178", "output": "BNS 156 (Refusing oath or affirmation when duly required by public servant to make it)."}
+{"id": "cur-IPC:67", "output": "BNS 14 (Imprisonment for non-payment of fine, when offence punishable with fine only)."}
+{"id": "cur-CRPC:478", "output": "BNSS 149 (Power to alter functions allocated to Executive Magistrate in certain cases) (formerly CrPC 129)."}
+{"id": "cur-IPC:112", "output": "BNS 14 (Abettor when liable to cumulative punishment for act abetted and for act done)."}
+{"id": "cur-IPC:125", "output": "BNS 149 (Waging war against any Asiatic Power in alliance with Government of India) and BNS 150 (Waging war against any Asiatic Power in alliance"}
+{"id": "cur-IPC:434", "output": "BNS 139 (Mischief by injury, inundation, fire or explosive substance, etc) (formerly IPC 330)."}
+{"id": "cur-IPC:368", "output": "BNS 149 (Wrongfully concealing or keeping in confinement, kidnapped or abducted person)."}
+{"id": "cur-IPC:493", "output": "BNS 149 (Cohabitation caused by a man deceitfully inducing belief of lawful marriage) (formerly IPC 376)."}
+{"id": "cur-IPC:389", "output": "BNS 149 (Putting person in fear or accusation of offence, in order to commit extortion) (formerly IPC 389)."}
+{"id": "cur-CRPC:367", "output": "BNSS 14 (Power to direct further inquiry to be made or additional evidence to be taken)."}
+{"id": "cur-IPC:246", "output": "BNS 159 (Fraudulently or dishonestly diminishing weight or altering composition of coin, Government stamp, currency-notes or bank-notes)."}
+{"id": "cur-CRPC:139", "output": "BNSS 14 (Power of Magistrate to direct local investigation and examination of an expert)."}
+{"id": "cur-CRPC:447", "output": "BNSS 149 (Procedure in case of insolvency or death of surety or when a bond is forfeited)."}
+{"id": "cur-IPC:450", "output": "BNS 149 (House-trespass in order to commit offence) (formerly IPC 334)."}
+{"id": "cur-IPC:459", "output": "BNS 149 (Grievous hurt caused whilst committing house-trespass or house-breaking) (formerly IPC 336)."}
+{"id": "cur-IPC:256", "output": "BNS 159 (Having possession of instrument or material for forging or counterfeiting coin, Government stamp, currency-notes or bank-notes)."}
+{"id": "cur-IPC:183", "output": "BNS 149 (Resistance to taking of property by lawful authority of a public servant) (formerly IPC 345)."}
+{"id": "cur-IPC:76", "output": "BNS 14 (Act done by a person bound, or by mistake of fact believing himself bound, by law)."}
+{"id": "cur-IPC:131", "output": "BNS 149 (Abetting mutiny, or attempting to seduce a soldier, sailor or airman from his duty)."}
+{"id": "cur-IPC:376A", "output": "BNS 149 (Punishment for causing death or resulting in persistent vegetative state of victim) (formerly IPC 339)."}
+{"id": "cur-IPC:221", "output": "BNS 159 (Intentional omission to apprehend on part of public servant bound to apprehend)."}
+{"id": "cur-IPC:65", "output": "BNSS 14 (Limit to imprisonment for non-payment of fine, when imprisonment and fine awardable)."}
+{"id": "cur-IPC:330", "output": "BNS 149 (Voluntarily causing hurt or grievous hurt to extort confession, or to compel restoration of property)."}
+{"id": "cur-IPC:88", "output": "BNS 149 (Act not intended to cause death, done by consent in good faith for person's benefit)."}
+{"id": "cur-IPC:219", "output": "BNS 151 (Public servant in judicial proceeding corruptly making report, etc., contrary to law)."}
+{"id": "cur-IPC:126", "output": "BNS 149 (Committing depredation on territories of foreign State at peace with Government of India) and BNS 150 (Committing depredation on territories of"}
+{"id": "cur-IPC:327", "output": "BNS 149 (Voluntarily causing hurt or grievous hurt to extort property, or to constrain to an illegal act)."}
+{"id": "cur-IPC:295", "output": "BNS 139 (Injuring or defiling place of worship with intent to insult religion of any class)."}
+{"id": "cur-IPC:60", "output": "BNSS 14 (Sentence may be (in certain cases of imprisonment) wholly or partly rigorous or simple)."}
+{"id": "cur-IPC:86", "output": "BNS 14 (Offence requiring a particular intent or knowledge committed by one who is intoxicated) (formerly IPC 85)."}
+{"id": "cur-IPC:216", "output": "BNS 14 (Harbouring offender who has escaped from custody or whose apprehension has been ordered) (formerly IPC 75)."}
+{"id": "cur-IPC:89", "output": "BNS 149 (Act done in good faith for benefit of child or insane person, by or by consent of guardian) (formerly IPC 366)."}
+{"id": "cur-CRPC:50A", "output": "BNSS 14 (Obligation of person making arrest to inform about arrest, etc., to relative or friend) (formerly CrPC 12)."}
+{"id": "cur-IPC:176", "output": "BNSS 149 (Omission to give notice or information to public servant by person legally bound to give it)."}
+{"id": "cur-IPC:317", "output": "BNS 149 (Exposure and abandonment of child under twelve years of age, by parent or person having care of it) (formerly IPC 318)."}
+{"id": "cur-IPC:87", "output": "BNS 14 (Act not intended and not known to be likely to cause death or grievous hurt, done by consent) (formerly IPC 85)."}
+{"id": "cur-IPC:438", "output": "BNS 331 (Punishment for mischief described in section 329 committed by fire or explosive substance) (formerly IPC 437)."}
+{"id": "cur-IPC:149", "output": "BNS 14 (Every member of unlawful assembly guilty of offence committed in prosecution of common object) (formerly IPC 79)."}
+{"id": "cur-IPC:355", "output": "BNS 149 (Assault or criminal force with intent to dishonour person, otherwise than on grave provocation)."}
+{"id": "cur-IPC:35", "output": "BNS 14 (When such an act is criminal by reason of its being done with criminal knowledge or intention) (formerly IPC 85)."}
+{"id": "cur-CRPC:265I", "output": "BNSS 149 (Period of detention undergone by accused to be set off against sentence of imprisonment)."}
+{"id": "cur-IEA:67", "output": "BSA 10 (Proof of signature and handwriting of person alleged to have signed or written document produced)."}
+{"id": "cur-IPC:423", "output": "BNS 156 (Dishonest or fraudulent execution of deed of transfer containing false statement of consideration) (formerly IPC 318)."}
+{"id": "cur-IPC:243", "output": "BNS 159 (Possession of coin by person who knew it to be counterfeit when he became possessed thereof) (formerly IPC 251)."}
+{"id": "cur-IPC:388", "output": "Extortion by threat of accusation of an offence punishable with death or imprisonment for life, etc. (BNS 148) (BNS 150)."}
+{"id": "cur-IPC:75", "output": "BNSS 149 (Enhanced punishment for certain offences after previous conviction) (formerly CrPC 129)."}
+{"id": "cur-IEA:109", "output": "BSA 10 (Burden of proof as to relationship in cases of partners, landlord and tenant, principal and agent) and BSA 11 (Burden of proof as to relationship"}
+{"id": "cur-IPC:241", "output": "BNS 159 (Using as genuine, as against his will, coin known to have been counterfeit when he became possessed thereabout)."}
+{"id": "cur-IPC:472", "output": "BNS 331 (Making or possessing counterfeit seal, etc., with intent to commit forgery punishable under section 327) and BNS 332 (Making or possessing"}
+{"id": "cur-IPC:113", "output": "BNS 14 (Liability of abettor for an effect caused by act abetted different from that intended by abettor)."}
+{"id": "cur-IPC:495", "output": "BNS 149 (Same offence with concealment of former marriage from person with whom subsequent marriage is contracted) (formerly IPC 346)."}
+{"id": "cur-IPC:489D", "output": "BNS 159 (Making or possessing instruments or materials for forging or counterfeiting coin, Government stamp, currency-notes or bank-notes)."}
+{"id": "cur-IPC:151", "output": "BNS 151 (Unlawful assembly) (formerly IPC 125)."}
+{"id": "cur-IEA:131", "output": "BSA 10 (Production of documents or electronic records which another person, having possession, could refuse to produce)."}
+{"id": "cur-IPC:225A", "output": "BNSS 149 (Omission to apprehend, or sufferance of escape, on part of public servant, in cases not otherwise provided for)."}
+{"id": "cur-IPC:181", "output": "BNS 151 (False statement on oath or affirmation to public servant or person authorised to administer an oath or affirmation) and BNS 152 (False statement on oath or affirmation"}
+{"id": "cur-IPC:222", "output": "BNS 159 (Intentional omission to apprehend on part of public servant bound to apprehend person under sentence or lawfully committed)."}
+{"id": "cur-IPC:435", "output": "BNS 149 (Mischief by fire or explosive substance with intent to cause damage to live or crops)."}
+{"id": "cur-IPC:460", "output": "BNS 149 (All persons jointly concerned in house-trespass or house-breaking by night punishable where death or grievous hurt caused by one of them)."}
+{"id": "tmp-IPC:326A-2022", "output": "BNS 139 (Assault or criminal force on grave provocation)."}
+{"id": "tmp-IPC:326A-2025", "output": "BNS 179 (Using as true such declaration knowing it to be false)."}
+{"id": "tmp-IPC:354-2022", "output": "BNS 178 (Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank-notes)."}
+{"id": "tmp-IPC:354-2025", "output": "BNS 238 (Groping or attempting to commit offences punishable with imprisonment for life or other imprisonment) and BNS 239 (Attempt to commit offences punishable with imprisonment for life or other imprisonment)."}
+{"id": "tmp-IPC:120B-2022", "output": "BNS 240 (Robbery)."}
+{"id": "tmp-IPC:120B-2025", "output": "BNS 237 (Robbery)."}
+{"id": "tmp-IPC:465-2022", "output": "BNS 237 (Forgery) (formerly IPC 220)."}
+{"id": "tmp-IPC:465-2025", "output": "BNS 238 (Forgery) (formerly IPC 233)."}
+{"id": "tmp-IPC:411-2022", "output": "BNS 248 (Stolen property) and BNS 250 (Possession of stolen property) (formerly IPC 303)."}
+{"id": "tmp-IPC:411-2025", "output": "BNS 248 (Stolen property) and BNS 251 (Possession of stolen property)."}
+{"id": "tmp-IPC:427-2022", "output": "BNS 239 (Damage caused by a person to his own property, or to the property of another, with intent to cause injury)."}
+{"id": "tmp-IPC:427-2025", "output": "BNS 238 (Damage caused by a person to his property, including an animal, with intent to insult or annoy)."}
+{"id": "tmp-IPC:392-2022", "output": "BNS 179 (Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank-notes)."}
+{"id": "tmp-IPC:392-2025", "output": "BNS 237 (Punishment for assault or criminal force otherwise than on grave provocation)."}
+{"id": "tmp-IPC:325-2022", "output": "BNS 179 (Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank-notes)."}
+{"id": "tmp-IPC:325-2025", "output": "BNS 236 (Punishment for assault or criminal force otherwise than on grave provocation)."}
+{"id": "tmp-IPC:304A-2022", "output": "BNS 238 (Negligent conduct with respect to explosive substance) and BNS 241 (Negligent conduct with respect to explosive substance) (formerly IPC 330)."}
+{"id": "tmp-IPC:304A-2025", "output": "BNS 2 (Definitions) and BNS 3 (Short title, commencement and application)."}
+{"id": "tmp-IPC:506-2022", "output": "BNS 179 (Threat of injury to induce person to refrain from applying for protection to public servant)."}
+{"id": "tmp-IPC:506-2025", "output": "BNS 236 (Threat of injury to induce person to refrain from applying for protection to public servant)."}
+{"id": "tmp-IPC:379-2022", "output": "BNS 237 (Stolen property) and BNS 238 (Theft in a dwelling house, or means of transportation, or place of worship, etc)."}
+{"id": "tmp-IPC:379-2025", "output": "BNS 238 (Stolen property) and BNS 241 (Possession of stolen property)."}
+{"id": "tmp-IPC:363-2022", "output": "BNS 238 (Child taken away from care of parent or person legally bound to protect it) and BNS 239 (Child taken away from care of parent or person legally bound to protect it)."}
+{"id": "tmp-IPC:363-2025", "output": "BNS 238 (Child taken away from care of parent or person legally bound to protect it) and BNS 239 (Child taken away from care of parent or person legally bound to protect it) (formerly IPC 319)."}
+{"id": "tmp-IPC:307-2022", "output": "BNS 139 (Stabbing or attempting to stab or maim in attempt to commit an offence)."}
+{"id": "tmp-IPC:307-2025", "output": "BNS 17 (Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank-notes) and BNS 18 (Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank-notes) and BNS 19 (Using as genuine,"}
+{"id": "tmp-IPC:147-2022", "output": "BNS 179 (Rioting) and BNS 180 (Damage to property)."}
+{"id": "tmp-IPC:147-2025", "output": "BNS 179 (Rioting) and BNS 180 (Damage to property)."}
+{"id": "tmp-IPC:448-2022", "output": "BNS 179 (Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank-notes)."}
+{"id": "tmp-IPC:448-2025", "output": "BNS 179 (Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank-notes)."}
+{"id": "tmp-IPC:34-2022", "output": "BNS 178 (Two people together beat up a man; both shared the same intention)."}
+{"id": "tmp-IPC:34-2025", "output": "BNS 238 (Two people together beat up a man; both shared the same intention)."}
+{"id": "tmp-IPC:354A-2022", "output": "BNS 179 (Sexual harassment) and BNS 180 (Sexual intercourse with a married woman) (formerly IPC 335)."}
+{"id": "tmp-IPC:354A-2025", "output": "BNS 238 (Sexual harassment) and BNS 239 (Sexual intercourse by a married woman) (formerly IPC 375)."}
+{"id": "tmp-IPC:323-2022", "output": "BNSS 240 (Slapping or punching or pushing or wrestling or assault or obstructing etc)."}
+{"id": "tmp-IPC:323-2025", "output": "BNSS 202 (When offence is committed outside India) and BNSS 203 (When offence is committed within India)."}
+{"id": "tmp-IPC:500-2022", "output": "BNS 237 (False statements made in public and prejudicially affecting the good character of any person)."}
+{"id": "tmp-IPC:500-2025", "output": "BNS 238 (False statements made in public and prejudicially affecting the good character of a person)."}
+{"id": "tmp-IPC:498A-2022", "output": "BNS 179 (Harbouring robbers, etc., with criminal intent) and BNS 180 (Harbouring robbers, etc., with criminal intent) (formerly IPC 150)."}
+{"id": "tmp-IPC:498A-2025", "output": "BNS 179 (Harbouring robbers, etc., with criminal intent)."}
+{"id": "tmp-IPC:376-2022", "output": "BNSS 240 (Sexual assault) and BNSS 241 (Trial for such offences)."}
+{"id": "tmp-IPC:376-2025", "output": "BNSS 22 (Sexual intercourse by a married woman) and BNSS 23 (Sexual intercourse by a married man) (formerly CrPC 20)."}
+{"id": "tmp-IPC:509-2022", "output": "BNS 178 (Making or possessing instruments or materials for forging or counterfeiting coin, Government stamp, currency-notes or bank-notes)."}
+{"id": "tmp-IPC:509-2025", "output": "BNS 24 (Making or possessing instruments or materials for forging or counterfeiting coin, Government stamp, currency-notes or bank-notes) and BNS 25 (Act of a person of unsound mind)."}
+{"id": "tmp-IPC:406-2022", "output": "BNS 179 (Refusing to obey order duly promulgated under section 178 or section 177)."}
+{"id": "tmp-IPC:406-2025", "output": "BNS 238 (Refusing to obey order duly promulgated under section 237) and BNS 239 (Refusing to obey order duly promulgated under section 238) and BNS 240 (Refusing to obey order"}
+{"id": "tmp-IPC:420-2022", "output": "BNSS 53 (Appeal)."}
+{"id": "tmp-IPC:420-2025", "output": "BNSS 53 (Appeal)."}
+{"id": "tmp-IPC:279-2022", "output": "BNS 179 (Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank-notes)."}
+{"id": "tmp-IPC:279-2025", "output": "BNS 2 (Definitions) and BNS 3 (General explanations)."}
+{"id": "tmp-IPC:384-2022", "output": "BNS 179 (Local goon threatening or coercing any person to refrain from applying for protection to public servant)."}
+{"id": "tmp-IPC:384-2025", "output": "BNS 238 (Threatening or attempting to commit offences punishable with imprisonment for life or other imprisonment)."}
+{"id": "tmp-IPC:306-2022", "output": "BNS 179 (Trial of victim of rape or other sexual assault when accused is not a victim)."}
+{"id": "tmp-IPC:306-2025", "output": "BNS 236 (Punishment for offences against marriage)."}
+{"id": "tmp-IPC:354D-2022", "output": "BNS 179 (Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank-notes) and BNS 180 (Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank-notes) and BNS 181 (Using"}
+{"id": "tmp-IPC:354D-2025", "output": "BNS 23 (Act of a person who knows his act to be unlawful and who does it with criminal intent) and BNS 24 (Act of a person who knows his act to be unlawful and who does it with criminal intent)."}
+{"id": "tmp-IPC:304B-2022", "output": "BNSS 243 (Trial of offences under Bharatiya Nyaya Sanhita, 2023 and other laws) and BNSS 244 (Appeals from convictions under sections 243, 244, 245 and 2"}
+{"id": "tmp-IPC:304B-2025", "output": "BNS 243 (Suspension of execution of sentence of imprisonment) and BNS 244 (Appeals from convictions under sections 241, 242, 243 and 244) and BNS 245 (Summary procedure"}
+{"id": "tmp-IPC:302-2022", "output": "BNSS 243 (Trial of offences committed outside India) and BNSS 244 (Appeals from convictions under sections 241, 242, 243 and 244) and BNSS 245 (Summary procedure for punishment"}
+{"id": "tmp-IPC:302-2025", "output": "BNSS 226 (Trial of offences under Bharatiya Nyaya Sanhita, 2023 and other laws) and BNSS 249 (Trial of offences under Bharatiya Nyaya Sanhita, 2023 and other laws) and"}
+{"id": "scn-IPC:326A-1", "output": "BNS 238 (Acid attack)."}
+{"id": "scn-IPC:354-1", "output": "BNS 2 (Definitions)."}
+{"id": "scn-IPC:326A-0", "output": "BNS 179 (Acid attack) and BNS 180 (Acid attack in India) (formerly IPC 329)."}
+{"id": "scn-IPC:120B-1", "output": "BNS 238 (Robbery)."}
+{"id": "scn-IPC:354-0", "output": "BNS 179 (Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank-notes)."}
+{"id": "scn-IPC:465-1", "output": "BNS 237 (Forgery) (formerly IPC 178)."}
+{"id": "scn-IPC:120B-0", "output": "BNS 179 (Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank-notes)."}
+{"id": "scn-IPC:411-1", "output": "BNS 179 (Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank-notes)."}
+{"id": "scn-CRPC:41-1", "output": "BNSS 202 (When police may arrest without warrant)."}
+{"id": "scn-IPC:427-1", "output": "BNS 237 (Damage caused by criminal force)."}
+{"id": "scn-CRPC:482-1", "output": "BNS 2025 (False FIR)."}
+{"id": "scn-IPC:392-1", "output": "BNS 238 (Taking possession of coin, Government stamp, currency-notes or bank-notes)."}
+{"id": "scn-IPC:325-1", "output": "BNS 179 (Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank-notes)."}
+{"id": "scn-IEA:25-1", "output": "BNS 238 (Confession to police officer)."}
+{"id": "scn-IPC:304A-1", "output": "BNS 237 (Negligent conduct with respect to explosive substance)."}
+{"id": "scn-CRPC:164-1", "output": "BSA 2025 (Statement of witness)."}
+{"id": "scn-IPC:465-0", "output": "BNS 237 (Forgery) (formerly IPC 210)."}
+{"id": "scn-IPC:506-1", "output": "BNS 237 (Threat of injury to induce person to refrain from applying for protection to public servant)."}
+{"id": "scn-IPC:411-0", "output": "BNS 179 (Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank-notes) and BNS 180 (Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank-notes) (formerly IPC 253)."}
+{"id": "scn-CRPC:41-0", "output": "BNSS 100 (Power to arrest without warrant in certain cases) and BNSS 101 (Power to seize property seized or forfeited)."}
+{"id": "scn-IPC:379-1", "output": "BNS 237 (Stolen property)."}
+{"id": "scn-IPC:363-1", "output": "BNS 179 (Child being taken away from care of parent or person having care of it)."}
+{"id": "scn-IPC:427-0", "output": "BNS 179 (Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank-notes)."}
+{"id": "scn-CRPC:154-1", "output": "BNSS 202 (Cognizable offences)."}
+{"id": "scn-CRPC:482-0", "output": "BNSS 179 (Quashing of FIR)."}
+{"id": "scn-IPC:392-0", "output": "BNS 179 (Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank-notes)."}
+{"id": "scn-CRPC:167-1", "output": "BNSS 225 (Custody of accused in case of non-bailable offence)."}
+{"id": "scn-IPC:307-1", "output": "BNS 179 (Intentional insult or interruption to public servant sitting in judicial proceeding)."}
+{"id": "scn-IPC:325-0", "output": "BNS 179 (Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank-notes)."}
+{"id": "scn-IEA:25-0", "output": "BNSS 179 (Confession to police officer)."}
+{"id": "scn-IPC:147-1", "output": "BNS 2 (Definitions)."}
+{"id": "scn-IEA:32-1", "output": "BNS 238 (Attack or criminal force on grave provocation)."}
+{"id": "scn-IPC:304A-0", "output": "BNS 238 (Negligent conduct with respect to explosive substance)."}
+{"id": "scn-IPC:448-1", "output": "BNS 237 (Intimidation)."}
+{"id": "scn-CRPC:164-0", "output": "BNSS 179 (Recording statement of witness)."}
+{"id": "scn-IPC:34-1", "output": "BNS 2 (Definitions)."}
+{"id": "scn-IPC:354A-1", "output": "BNS 2 (Definitions)."}
+{"id": "scn-IEA:65B-1", "output": "BNS 178 (Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank-notes)."}
+{"id": "scn-IPC:323-1", "output": "BNS 237 (Slapping or insulting a person with whom an argument or quarrel has taken place)."}
+{"id": "scn-IPC:506-0", "output": "BNS 179 (Threat of injury or assault when attempting to commit an offence)."}
+{"id": "scn-IPC:379-0", "output": "BNS 179 (Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank-notes)."}
+{"id": "scn-IPC:363-0", "output": "BNS 179 (Child taken away from care of parent or person having care of child)."}
+{"id": "scn-CRPC:154-0", "output": "BNSS 109 (Cognizable offences) and BNSS 110 (Non- cognizable offences) (formerly CrPC 106)."}
+{"id": "scn-CRPC:125-1", "output": "BNS 237 (When husband or wife is dead or cannot be found, etc)."}
+{"id": "scn-IPC:498A-1", "output": "BNS 179 (Harbouring robbers or dacoits)."}
+{"id": "scn-IPC:500-1", "output": "BNS 237 (Unlawful assembly)."}
+{"id": "scn-CRPC:167-0", "output": "BNSS 26 (Police to keep accused in custody beyond twenty-four hours) and BNSS 27 (When accused shall be discharged)."}
+{"id": "scn-IPC:307-0", "output": "BNS 100 (Punishment for murder) and BNS 101 (Punishment for attempted murder) (formerly IPC 303)."}
+{"id": "scn-IPC:509-1", "output": "BNS 238 (Making or possessing instruments or materials for forging or counterfeiting coin, Government stamp, currency-notes or bank-notes)."}
+{"id": "scn-IPC:376-1", "output": "BNSS 202 (Sexual intercourse by a married woman against her will)."}
+{"id": "scn-IPC:147-0", "output": "BNS 179 (Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank-notes)."}
+{"id": "scn-IEA:32-0", "output": "BNSS 126 (Victim told doctor who attacked her just before she died)."}
+{"id": "scn-IPC:448-0", "output": "BNS 179 (Using as true such declaration knowing it to be false)."}
+{"id": "scn-IPC:34-0", "output": "BNS 179 (Two people together beat or attempt to commit offences against a third person, or to commit an offence together)."}
+{"id": "scn-IPC:354A-0", "output": "BNS 236 (Sexual intercourse) and BNS 237 (Sexual intercourse by a married woman) (formerly IPC 339)."}
+{"id": "scn-IPC:406-1", "output": "BNS 238 (Refusing to comply with lawful order or refusing to produce document, etc)."}
+{"id": "scn-IEA:65B-0", "output": "BSA 149 (Witnesses to offences committed outside India)."}
+{"id": "scn-IPC:323-0", "output": "BNS 179 (Using as true such declaration knowing it to be false)."}
+{"id": "scn-IPC:420-1", "output": "BNS 237 (Disappearance of victim)."}
+{"id": "scn-IPC:279-1", "output": "BNS 238 (Danger or obstruction to public way or line of navigation)."}
+{"id": "scn-CRPC:125-0", "output": "BNS 179 (When husband or wife is dead or declared dead within three years)."}
+{"id": "scn-IPC:498A-0", "output": "BNS 179 (Harbouring robbers or dacoits) and BNS 180 (Harbouring of robbers or dacoits) (formerly IPC 178)."}
+{"id": "scn-IPC:500-0", "output": "BNS 179 (Making false statement in Court)."}
+{"id": "scn-IPC:509-0", "output": "BNS 179 (Making or possessing instruments or materials for forging or counterfeiting coin, Government stamp, currency-notes or bank-notes)."}
+{"id": "scn-IPC:376-0", "output": "BNSS 109 (Police to prevent cognizable cases)."}
+{"id": "scn-IPC:406-0", "output": "BNSS 229 (Refusing to answer public servant authorised to question)."}
+{"id": "scn-CRPC:438-1", "output": "BNS 179 (False case or false accusation)."}
+{"id": "scn-IPC:420-0", "output": "BNSS 119 (Cognizance of offences by Judicial Magistrates) and BNSS 120 (Appeals from convictions under sections 117, 118 and 119) and BNSS 121 (Appeals from convictions under sections 120, 121 and 122) and BNSS 122 (Appeals from convictions under sections 123, 124 and 125) and BNSS 123 (Appeals from convictions under sections 124, 125 and 126) and BNSS 124 (Appeals from convictions under sections 125, 126 and 1"}
+{"id": "scn-IPC:279-0", "output": "BNS 179 (Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank-notes)."}
+{"id": "scn-IPC:384-1", "output": "BNS 2 (Definitions)."}
+{"id": "scn-IPC:354D-1", "output": "BNS 238 (Unlawful assembly)."}
+{"id": "scn-IPC:306-1", "output": "BNS 148 (Wrongful confinement)."}
+{"id": "scn-IPC:304B-1", "output": "BNS 179 (Dowry death)."}
+{"id": "scn-IPC:302-1", "output": "BNS 179 (Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank-notes)."}
+{"id": "scn-CRPC:438-0", "output": "BNS 179 (Protection from arrest in advance of investigation)."}
+{"id": "scn-IPC:384-0", "output": "BNS 179 (Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank-notes)."}
+{"id": "scn-IPC:354D-0", "output": "BNSS 179 (Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank-notes)."}
+{"id": "scn-IPC:306-0", "output": "BNS 126 (Voluntarily causing hurt or grievous hurt to extort property, or to constrain to an illegal act)."}
+{"id": "scn-IPC:304B-0", "output": "BNSS 202 (A woman died under suspicious circumstances two years after marriage)."}
+{"id": "scn-IPC:302-0", "output": "BNSS 129 (Arrest of aggressor in case of murder) and BNSS 130 (Arrest of accomplice in case of murder) (formerly CrPC 108)."}

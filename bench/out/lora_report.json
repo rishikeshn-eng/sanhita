@@ -1,0 +1,121 @@
+{
+ "base": {
+  "convert:heldout": {
+   "n": 60,
+   "correct": 0.0,
+   "carryover": 0.6,
+   "stale": 0.0,
+   "wrong_code": 0.0
+  },
+  "convert:trained": {
+   "n": 240,
+   "correct": 0.0125,
+   "carryover": 0.5917,
+   "stale": 0.0,
+   "wrong_code": 0.0
+  },
+  "current:heldout": {
+   "n": 67,
+   "correct": 0.0,
+   "carryover": 0.0,
+   "stale": 0.4179,
+   "wrong_code": 0.0
+  },
+  "current:trained": {
+   "n": 233,
+   "correct": 0.0,
+   "carryover": 0.0,
+   "stale": 0.4764,
+   "wrong_code": 0.0
+  },
+  "scenario:heldout": {
+   "n": 16,
+   "correct": 0.0,
+   "carryover": 0.0,
+   "stale": 0.5625,
+   "wrong_code": 0.0
+  },
+  "scenario:trained": {
+   "n": 64,
+   "correct": 0.0,
+   "carryover": 0.0,
+   "stale": 0.5312,
+   "wrong_code": 0.0
+  },
+  "temporal:2022": {
+   "n": 30,
+   "correct": 0.0333,
+   "carryover": 0.0,
+   "stale": 0.0,
+   "wrong_code": 0.0
+  },
+  "temporal:2025": {
+   "n": 30,
+   "correct": 0.0,
+   "carryover": 0.0,
+   "stale": 0.2667,
+   "wrong_code": 0.0
+  }
+ },
+ "lora": {
+  "convert:heldout": {
+   "n": 60,
+   "correct": 0.0833,
+   "carryover": 0.0,
+   "stale": 0.0,
+   "wrong_code": 0.0
+  },
+  "convert:trained": {
+   "n": 240,
+   "correct": 0.1042,
+   "carryover": 0.0042,
+   "stale": 0.0,
+   "wrong_code": 0.0
+  },
+  "current:heldout": {
+   "n": 67,
+   "correct": 0.0,
+   "carryover": 0.0,
+   "stale": 0.3731,
+   "wrong_code": 0.0
+  },
+  "current:trained": {
+   "n": 233,
+   "correct": 0.0043,
+   "carryover": 0.0086,
+   "stale": 0.3562,
+   "wrong_code": 0.0
+  },
+  "scenario:heldout": {
+   "n": 16,
+   "correct": 0.0,
+   "carryover": 0.0,
+   "stale": 0.0625,
+   "wrong_code": 0.0
+  },
+  "scenario:trained": {
+   "n": 64,
+   "correct": 0.0,
+   "carryover": 0.0,
+   "stale": 0.125,
+   "wrong_code": 0.0
+  },
+  "temporal:2022": {
+   "n": 30,
+   "correct": 0.0,
+   "carryover": 0.0,
+   "stale": 0.0,
+   "wrong_code": 0.8333
+  },
+  "temporal:2025": {
+   "n": 30,
+   "correct": 0.0,
+   "carryover": 0.0,
+   "stale": 0.1333,
+   "wrong_code": 0.0
+  }
+ },
+ "arc_base": 0.855,
+ "arc_lora": 0.635,
+ "heldout_sections": 254
+}

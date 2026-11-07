@@ -1,0 +1,5994 @@
+{
+"conv-IPC:511": {
+"task": "convert",
+"old": "IPC:511",
+"gold": [
+"BNS:62"
+],
+"new_act": "BNS"
+},
+"conv-IPC:258": {
+"task": "convert",
+"old": "IPC:258",
+"gold": [
+"BNS:179"
+],
+"new_act": "BNS"
+},
+"conv-IPC:366": {
+"task": "convert",
+"old": "IPC:366",
+"gold": [
+"BNS:87"
+],
+"new_act": "BNS"
+},
+"conv-IPC:278": {
+"task": "convert",
+"old": "IPC:278",
+"gold": [
+"BNS:280"
+],
+"new_act": "BNS"
+},
+"conv-IPC:457": {
+"task": "convert",
+"old": "IPC:457",
+"gold": [
+"BNS:331"
+],
+"new_act": "BNS"
+},
+"conv-IPC:335": {
+"task": "convert",
+"old": "IPC:335",
+"gold": [
+"BNS:122"
+],
+"new_act": "BNS"
+},
+"conv-IPC:319": {
+"task": "convert",
+"old": "IPC:319",
+"gold": [
+"BNS:114"
+],
+"new_act": "BNS"
+},
+"conv-IPC:80": {
+"task": "convert",
+"old": "IPC:80",
+"gold": [
+"BNS:18"
+],
+"new_act": "BNS"
+},
+"conv-IPC:403": {
+"task": "convert",
+"old": "IPC:403",
+"gold": [
+"BNS:314"
+],
+"new_act": "BNS"
+},
+"conv-IPC:462": {
+"task": "convert",
+"old": "IPC:462",
+"gold": [
+"BNS:334"
+],
+"new_act": "BNS"
+},
+"conv-IPC:294": {
+"task": "convert",
+"old": "IPC:294",
+"gold": [
+"BNS:296"
+],
+"new_act": "BNS"
+},
+"conv-IPC:369": {
+"task": "convert",
+"old": "IPC:369",
+"gold": [
+"BNS:97"
+],
+"new_act": "BNS"
+},
+"conv-IPC:381": {
+"task": "convert",
+"old": "IPC:381",
+"gold": [
+"BNS:306"
+],
+"new_act": "BNS"
+},
+"conv-IPC:17": {
+"task": "convert",
+"old": "IPC:17",
+"gold": [
+"BNS:2"
+],
+"new_act": "BNS"
+},
+"conv-IPC:283": {
+"task": "convert",
+"old": "IPC:283",
+"gold": [
+"BNS:285"
+],
+"new_act": "BNS"
+},
+"conv-IPC:51": {
+"task": "convert",
+"old": "IPC:51",
+"gold": [
+"BNS:2"
+],
+"new_act": "BNS"
+},
+"conv-IPC:227": {
+"task": "convert",
+"old": "IPC:227",
+"gold": [
+"BNS:266"
+],
+"new_act": "BNS"
+},
+"conv-IPC:289": {
+"task": "convert",
+"old": "IPC:289",
+"gold": [
+"BNS:291"
+],
+"new_act": "BNS"
+},
+"conv-IPC:459": {
+"task": "convert",
+"old": "IPC:459",
+"gold": [
+"BNS:331"
+],
+"new_act": "BNS"
+},
+"conv-IPC:152": {
+"task": "convert",
+"old": "IPC:152",
+"gold": [
+"BNS:195"
+],
+"new_act": "BNS"
+},
+"conv-IPC:432": {
+"task": "convert",
+"old": "IPC:432",
+"gold": [
+"BNS:326"
+],
+"new_act": "BNS"
+},
+"conv-IPC:250": {
+"task": "convert",
+"old": "IPC:250",
+"gold": [
+"BNS:179"
+],
+"new_act": "BNS"
+},
+"conv-IPC:372": {
+"task": "convert",
+"old": "IPC:372",
+"gold": [
+"BNS:98"
+],
+"new_act": "BNS"
+},
+"conv-IPC:285": {
+"task": "convert",
+"old": "IPC:285",
+"gold": [
+"BNS:287"
+],
+"new_act": "BNS"
+},
+"conv-IPC:304B": {
+"task": "convert",
+"old": "IPC:304B",
+"gold": [
+"BNS:80"
+],
+"new_act": "BNS"
+},
+"conv-IPC:154": {
+"task": "convert",
+"old": "IPC:154",
+"gold": [
+"BNS:193"
+],
+"new_act": "BNS"
+},
+"conv-IPC:411": {
+"task": "convert",
+"old": "IPC:411",
+"gold": [
+"BNS:317"
+],
+"new_act": "BNS"
+},
+"conv-IPC:42": {
+"task": "convert",
+"old": "IPC:42",
+"gold": [
+"BNS:2"
+],
+"new_act": "BNS"
+},
+"conv-IPC:166A": {
+"task": "convert",
+"old": "IPC:166A",
+"gold": [
+"BNS:199"
+],
+"new_act": "BNS"
+},
+"conv-IPC:429": {
+"task": "convert",
+"old": "IPC:429",
+"gold": [
+"BNS:325"
+],
+"new_act": "BNS"
+},
+"conv-IPC:240": {
+"task": "convert",
+"old": "IPC:240",
+"gold": [
+"BNS:179"
+],
+"new_act": "BNS"
+},
+"conv-IPC:272": {
+"task": "convert",
+"old": "IPC:272",
+"gold": [
+"BNS:274"
+],
+"new_act": "BNS"
+},
+"conv-IPC:242": {
+"task": "convert",
+"old": "IPC:242",
+"gold": [
+"BNS:180"
+],
+"new_act": "BNS"
+},
+"conv-IPC:249": {
+"task": "convert",
+"old": "IPC:249",
+"gold": [
+"BNS:178"
+],
+"new_act": "BNS"
+},
+"conv-IPC:443": {
+"task": "convert",
+"old": "IPC:443",
+"gold": [
+"BNS:330"
+],
+"new_act": "BNS"
+},
+"conv-IPC:185": {
+"task": "convert",
+"old": "IPC:185",
+"gold": [
+"BNS:220"
+],
+"new_act": "BNS"
+},
+"conv-IPC:24": {
+"task": "convert",
+"old": "IPC:24",
+"gold": [
+"BNS:2"
+],
+"new_act": "BNS"
+},
+"conv-IPC:29": {
+"task": "convert",
+"old": "IPC:29",
+"gold": [
+"BNS:2"
+],
+"new_act": "BNS"
+},
+"conv-IPC:284": {
+"task": "convert",
+"old": "IPC:284",
+"gold": [
+"BNS:286"
+],
+"new_act": "BNS"
+},
+"conv-IPC:235": {
+"task": "convert",
+"old": "IPC:235",
+"gold": [
+"BNS:181"
+],
+"new_act": "BNS"
+},
+"conv-IPC:352": {
+"task": "convert",
+"old": "IPC:352",
+"gold": [
+"BNS:131"
+],
+"new_act": "BNS"
+},
+"conv-IPC:191": {
+"task": "convert",
+"old": "IPC:191",
+"gold": [
+"BNS:227"
+],
+"new_act": "BNS"
+},
+"conv-IPC:495": {
+"task": "convert",
+"old": "IPC:495",
+"gold": [
+"BNS:82"
+],
+"new_act": "BNS"
+},
+"conv-IPC:48": {
+"task": "convert",
+"old": "IPC:48",
+"gold": [
+"BNS:2"
+],
+"new_act": "BNS"
+},
+"conv-IPC:280": {
+"task": "convert",
+"old": "IPC:280",
+"gold": [
+"BNS:282"
+],
+"new_act": "BNS"
+},
+"conv-IPC:198": {
+"task": "convert",
+"old": "IPC:198",
+"gold": [
+"BNS:235"
+],
+"new_act": "BNS"
+},
+"conv-IPC:187": {
+"task": "convert",
+"old": "IPC:187",
+"gold": [
+"BNS:222"
+],
+"new_act": "BNS"
+},
+"conv-IPC:117": {
+"task": "convert",
+"old": "IPC:117",
+"gold": [
+"BNS:57"
+],
+"new_act": "BNS"
+},
+"conv-IPC:422": {
+"task": "convert",
+"old": "IPC:422",
+"gold": [
+"BNS:321"
+],
+"new_act": "BNS"
+},
+"conv-IPC:196": {
+"task": "convert",
+"old": "IPC:196",
+"gold": [
+"BNS:233"
+],
+"new_act": "BNS"
+},
+"conv-IPC:72": {
+"task": "convert",
+"old": "IPC:72",
+"gold": [
+"BNS:10"
+],
+"new_act": "BNS"
+},
+"conv-IPC:108": {
+"task": "convert",
+"old": "IPC:108",
+"gold": [
+"BNS:46"
+],
+"new_act": "BNS"
+},
+"conv-IPC:479": {
+"task": "convert",
+"old": "IPC:479",
+"gold": [
+"BNS:345"
+],
+"new_act": "BNS"
+},
+"conv-IPC:211": {
+"task": "convert",
+"old": "IPC:211",
+"gold": [
+"BNS:248"
+],
+"new_act": "BNS"
+},
+"conv-IPC:469": {
+"task": "convert",
+"old": "IPC:469",
+"gold": [
+"BNS:336"
+],
+"new_act": "BNS"
+},
+"conv-IPC:325": {
+"task": "convert",
+"old": "IPC:325",
+"gold": [
+"BNS:117"
+],
+"new_act": "BNS"
+},
+"conv-IPC:237": {
+"task": "convert",
+"old": "IPC:237",
+"gold": [
+"BNS:179"
+],
+"new_act": "BNS"
+},
+"conv-IPC:433": {
+"task": "convert",
+"old": "IPC:433",
+"gold": [
+"BNS:326"
+],
+"new_act": "BNS"
+},
+"conv-IPC:353": {
+"task": "convert",
+"old": "IPC:353",
+"gold": [
+"BNS:132"
+],
+"new_act": "BNS"
+},
+"conv-IPC:45": {
+"task": "convert",
+"old": "IPC:45",
+"gold": [
+"BNS:2"
+],
+"new_act": "BNS"
+},
+"conv-IPC:402": {
+"task": "convert",
+"old": "IPC:402",
+"gold": [
+"BNS:310"
+],
+"new_act": "BNS"
+},
+"conv-IPC:287": {
+"task": "convert",
+"old": "IPC:287",
+"gold": [
+"BNS:289"
+],
+"new_act": "BNS"
+},
+"conv-IPC:367": {
+"task": "convert",
+"old": "IPC:367",
+"gold": [
+"BNS:140"
+],
+"new_act": "BNS"
+},
+"conv-IPC:150": {
+"task": "convert",
+"old": "IPC:150",
+"gold": [
+"BNS:189"
+],
+"new_act": "BNS"
+},
+"conv-IPC:7": {
+"task": "convert",
+"old": "IPC:7",
+"gold": [
+"BNS:3"
+],
+"new_act": "BNS"
+},
+"conv-IPC:471": {
+"task": "convert",
+"old": "IPC:471",
+"gold": [
+"BNS:340"
+],
+"new_act": "BNS"
+},
+"conv-IPC:378": {
+"task": "convert",
+"old": "IPC:378",
+"gold": [
+"BNS:303"
+],
+"new_act": "BNS"
+},
+"conv-IPC:365": {
+"task": "convert",
+"old": "IPC:365",
+"gold": [
+"BNS:140"
+],
+"new_act": "BNS"
+},
+"conv-IPC:437": {
+"task": "convert",
+"old": "IPC:437",
+"gold": [
+"BNS:327"
+],
+"new_act": "BNS"
+},
+"conv-IPC:199": {
+"task": "convert",
+"old": "IPC:199",
+"gold": [
+"BNS:236"
+],
+"new_act": "BNS"
+},
+"conv-IPC:200": {
+"task": "convert",
+"old": "IPC:200",
+"gold": [
+"BNS:237"
+],
+"new_act": "BNS"
+},
+"conv-IPC:304A": {
+"task": "convert",
+"old": "IPC:304A",
+"gold": [
+"BNS:106"
+],
+"new_act": "BNS"
+},
+"conv-IPC:259": {
+"task": "convert",
+"old": "IPC:259",
+"gold": [
+"BNS:180"
+],
+"new_act": "BNS"
+},
+"conv-IPC:160": {
+"task": "convert",
+"old": "IPC:160",
+"gold": [
+"BNS:194"
+],
+"new_act": "BNS"
+},
+"conv-IPC:186": {
+"task": "convert",
+"old": "IPC:186",
+"gold": [
+"BNS:221"
+],
+"new_act": "BNS"
+},
+"conv-IPC:26": {
+"task": "convert",
+"old": "IPC:26",
+"gold": [
+"BNS:2"
+],
+"new_act": "BNS"
+},
+"conv-IPC:32": {
+"task": "convert",
+"old": "IPC:32",
+"gold": [
+"BNS:3"
+],
+"new_act": "BNS"
+},
+"conv-IPC:361": {
+"task": "convert",
+"old": "IPC:361",
+"gold": [
+"BNS:137"
+],
+"new_act": "BNS"
+},
+"conv-IPC:465": {
+"task": "convert",
+"old": "IPC:465",
+"gold": [
+"BNS:336"
+],
+"new_act": "BNS"
+},
+"conv-IPC:79": {
+"task": "convert",
+"old": "IPC:79",
+"gold": [
+"BNS:17"
+],
+"new_act": "BNS"
+},
+"conv-IPC:166B": {
+"task": "convert",
+"old": "IPC:166B",
+"gold": [
+"BNS:200"
+],
+"new_act": "BNS"
+},
+"conv-IPC:213": {
+"task": "convert",
+"old": "IPC:213",
+"gold": [
+"BNS:250"
+],
+"new_act": "BNS"
+},
+"conv-IPC:271": {
+"task": "convert",
+"old": "IPC:271",
+"gold": [
+"BNS:273"
+],
+"new_act": "BNS"
+},
+"conv-IPC:370A": {
+"task": "convert",
+"old": "IPC:370A",
+"gold": [
+"BNS:144"
+],
+"new_act": "BNS"
+},
+"conv-IPC:245": {
+"task": "convert",
+"old": "IPC:245",
+"gold": [
+"BNS:188"
+],
+"new_act": "BNS"
+},
+"conv-IPC:244": {
+"task": "convert",
+"old": "IPC:244",
+"gold": [
+"BNS:187"
+],
+"new_act": "BNS"
+},
+"conv-IPC:91": {
+"task": "convert",
+"old": "IPC:91",
+"gold": [
+"BNS:29"
+],
+"new_act": "BNS"
+},
+"conv-IPC:405": {
+"task": "convert",
+"old": "IPC:405",
+"gold": [
+"BNS:316"
+],
+"new_act": "BNS"
+},
+"conv-IPC:77": {
+"task": "convert",
+"old": "IPC:77",
+"gold": [
+"BNS:15"
+],
+"new_act": "BNS"
+},
+"conv-IPC:476": {
+"task": "convert",
+"old": "IPC:476",
+"gold": [
+"BNS:342"
+],
+"new_act": "BNS"
+},
+"conv-IPC:171H": {
+"task": "convert",
+"old": "IPC:171H",
+"gold": [
+"BNS:176"
+],
+"new_act": "BNS"
+},
+"conv-IPC:392": {
+"task": "convert",
+"old": "IPC:392",
+"gold": [
+"BNS:309"
+],
+"new_act": "BNS"
+},
+"conv-IPC:398": {
+"task": "convert",
+"old": "IPC:398",
+"gold": [
+"BNS:312"
+],
+"new_act": "BNS"
+},
+"conv-IPC:431": {
+"task": "convert",
+"old": "IPC:431",
+"gold": [
+"BNS:326"
+],
+"new_act": "BNS"
+},
+"conv-IPC:158": {
+"task": "convert",
+"old": "IPC:158",
+"gold": [
+"BNS:189"
+],
+"new_act": "BNS"
+},
+"conv-IPC:498A": {
+"task": "convert",
+"old": "IPC:498A",
+"gold": [
+"BNS:85",
+"BNS:86"
+],
+"new_act": "BNS"
+},
+"conv-IPC:188": {
+"task": "convert",
+"old": "IPC:188",
+"gold": [
+"BNS:223"
+],
+"new_act": "BNS"
+},
+"conv-IPC:355": {
+"task": "convert",
+"old": "IPC:355",
+"gold": [
+"BNS:133"
+],
+"new_act": "BNS"
+},
+"conv-IPC:393": {
+"task": "convert",
+"old": "IPC:393",
+"gold": [
+"BNS:309"
+],
+"new_act": "BNS"
+},
+"conv-IPC:126": {
+"task": "convert",
+"old": "IPC:126",
+"gold": [
+"BNS:154",
+"BNS:155"
+],
+"new_act": "BNS"
+},
+"conv-IPC:143": {
+"task": "convert",
+"old": "IPC:143",
+"gold": [
+"BNS:189"
+],
+"new_act": "BNS"
+},
+"conv-IPC:172": {
+"task": "convert",
+"old": "IPC:172",
+"gold": [
+"BNS:206"
+],
+"new_act": "BNS"
+},
+"conv-IPC:101": {
+"task": "convert",
+"old": "IPC:101",
+"gold": [
+"BNS:39"
+],
+"new_act": "BNS"
+},
+"conv-IPC:170": {
+"task": "convert",
+"old": "IPC:170",
+"gold": [
+"BNS:204"
+],
+"new_act": "BNS"
+},
+"conv-IPC:294A": {
+"task": "convert",
+"old": "IPC:294A",
+"gold": [
+"BNS:297"
+],
+"new_act": "BNS"
+},
+"conv-IPC:401": {
+"task": "convert",
+"old": "IPC:401",
+"gold": [
+"BNS:313"
+],
+"new_act": "BNS"
+},
+"conv-IPC:491": {
+"task": "convert",
+"old": "IPC:491",
+"gold": [
+"BNS:357"
+],
+"new_act": "BNS"
+},
+"conv-IPC:251": {
+"task": "convert",
+"old": "IPC:251",
+"gold": [
+"BNS:179"
+],
+"new_act": "BNS"
+},
+"conv-IPC:54": {
+"task": "convert",
+"old": "IPC:54",
+"gold": [
+"BNS:5"
+],
+"new_act": "BNS"
+},
+"conv-IPC:134": {
+"task": "convert",
+"old": "IPC:134",
+"gold": [
+"BNS:162"
+],
+"new_act": "BNS"
+},
+"conv-IPC:183": {
+"task": "convert",
+"old": "IPC:183",
+"gold": [
+"BNS:218"
+],
+"new_act": "BNS"
+},
+"conv-IPC:502": {
+"task": "convert",
+"old": "IPC:502",
+"gold": [
+"BNS:356"
+],
+"new_act": "BNS"
+},
+"conv-IPC:222": {
+"task": "convert",
+"old": "IPC:222",
+"gold": [
+"BNS:260"
+],
+"new_act": "BNS"
+},
+"conv-IPC:202": {
+"task": "convert",
+"old": "IPC:202",
+"gold": [
+"BNS:239"
+],
+"new_act": "BNS"
+},
+"conv-IPC:397": {
+"task": "convert",
+"old": "IPC:397",
+"gold": [
+"BNS:311"
+],
+"new_act": "BNS"
+},
+"conv-IPC:304": {
+"task": "convert",
+"old": "IPC:304",
+"gold": [
+"BNS:105"
+],
+"new_act": "BNS"
+},
+"conv-IPC:364": {
+"task": "convert",
+"old": "IPC:364",
+"gold": [
+"BNS:140"
+],
+"new_act": "BNS"
+},
+"conv-IPC:485": {
+"task": "convert",
+"old": "IPC:485",
+"gold": [
+"BNS:348"
+],
+"new_act": "BNS"
+},
+"conv-IPC:314": {
+"task": "convert",
+"old": "IPC:314",
+"gold": [
+"BNS:90"
+],
+"new_act": "BNS"
+},
+"conv-IPC:332": {
+"task": "convert",
+"old": "IPC:332",
+"gold": [
+"BNS:121"
+],
+"new_act": "BNS"
+},
+"conv-IPC:9": {
+"task": "convert",
+"old": "IPC:9",
+"gold": [
+"BNS:2"
+],
+"new_act": "BNS"
+},
+"conv-IPC:382": {
+"task": "convert",
+"old": "IPC:382",
+"gold": [
+"BNS:307"
+],
+"new_act": "BNS"
+},
+"conv-IPC:64": {
+"task": "convert",
+"old": "IPC:64",
+"gold": [
+"BNS:8"
+],
+"new_act": "BNS"
+},
+"conv-IPC:67": {
+"task": "convert",
+"old": "IPC:67",
+"gold": [
+"BNS:8"
+],
+"new_act": "BNS"
+},
+"conv-IPC:129": {
+"task": "convert",
+"old": "IPC:129",
+"gold": [
+"BNS:157"
+],
+"new_act": "BNS"
+},
+"conv-IPC:229": {
+"task": "convert",
+"old": "IPC:229",
+"gold": [
+"BNS:268"
+],
+"new_act": "BNS"
+},
+"conv-IPC:442": {
+"task": "convert",
+"old": "IPC:442",
+"gold": [
+"BNS:329"
+],
+"new_act": "BNS"
+},
+"conv-IPC:22": {
+"task": "convert",
+"old": "IPC:22",
+"gold": [
+"BNS:2"
+],
+"new_act": "BNS"
+},
+"conv-IPC:489D": {
+"task": "convert",
+"old": "IPC:489D",
+"gold": [
+"BNS:181"
+],
+"new_act": "BNS"
+},
+"conv-IPC:351": {
+"task": "convert",
+"old": "IPC:351",
+"gold": [
+"BNS:130"
+],
+"new_act": "BNS"
+},
+"conv-IPC:88": {
+"task": "convert",
+"old": "IPC:88",
+"gold": [
+"BNS:26"
+],
+"new_act": "BNS"
+},
+"conv-IPC:414": {
+"task": "convert",
+"old": "IPC:414",
+"gold": [
+"BNS:317"
+],
+"new_act": "BNS"
+},
+"conv-IPC:208": {
+"task": "convert",
+"old": "IPC:208",
+"gold": [
+"BNS:245"
+],
+"new_act": "BNS"
+},
+"conv-IPC:333": {
+"task": "convert",
+"old": "IPC:333",
+"gold": [
+"BNS:121"
+],
+"new_act": "BNS"
+},
+"conv-IPC:144": {
+"task": "convert",
+"old": "IPC:144",
+"gold": [
+"BNS:189"
+],
+"new_act": "BNS"
+},
+"conv-IPC:320": {
+"task": "convert",
+"old": "IPC:320",
+"gold": [
+"BNS:116"
+],
+"new_act": "BNS"
+},
+"conv-IPC:193": {
+"task": "convert",
+"old": "IPC:193",
+"gold": [
+"BNS:229"
+],
+"new_act": "BNS"
+},
+"conv-IPC:458": {
+"task": "convert",
+"old": "IPC:458",
+"gold": [
+"BNS:331"
+],
+"new_act": "BNS"
+},
+"conv-IPC:484": {
+"task": "convert",
+"old": "IPC:484",
+"gold": [
+"BNS:347"
+],
+"new_act": "BNS"
+},
+"conv-IPC:174": {
+"task": "convert",
+"old": "IPC:174",
+"gold": [
+"BNS:208"
+],
+"new_act": "BNS"
+},
+"conv-IPC:328": {
+"task": "convert",
+"old": "IPC:328",
+"gold": [
+"BNS:123"
+],
+"new_act": "BNS"
+},
+"conv-IPC:195A": {
+"task": "convert",
+"old": "IPC:195A",
+"gold": [
+"BNS:232"
+],
+"new_act": "BNS"
+},
+"conv-IPC:505": {
+"task": "convert",
+"old": "IPC:505",
+"gold": [
+"BNS:353"
+],
+"new_act": "BNS"
+},
+"conv-IPC:253": {
+"task": "convert",
+"old": "IPC:253",
+"gold": [
+"BNS:180"
+],
+"new_act": "BNS"
+},
+"conv-IPC:423": {
+"task": "convert",
+"old": "IPC:423",
+"gold": [
+"BNS:322"
+],
+"new_act": "BNS"
+},
+"conv-IPC:400": {
+"task": "convert",
+"old": "IPC:400",
+"gold": [
+"BNS:310"
+],
+"new_act": "BNS"
+},
+"conv-IPC:12": {
+"task": "convert",
+"old": "IPC:12",
+"gold": [
+"BNS:2"
+],
+"new_act": "BNS"
+},
+"conv-IPC:354D": {
+"task": "convert",
+"old": "IPC:354D",
+"gold": [
+"BNS:78"
+],
+"new_act": "BNS"
+},
+"conv-IPC:39": {
+"task": "convert",
+"old": "IPC:39",
+"gold": [
+"BNS:2"
+],
+"new_act": "BNS"
+},
+"conv-IPC:341": {
+"task": "convert",
+"old": "IPC:341",
+"gold": [
+"BNS:126"
+],
+"new_act": "BNS"
+},
+"conv-IPC:263A": {
+"task": "convert",
+"old": "IPC:263A",
+"gold": [
+"BNS:186"
+],
+"new_act": "BNS"
+},
+"conv-IPC:419": {
+"task": "convert",
+"old": "IPC:419",
+"gold": [
+"BNS:319"
+],
+"new_act": "BNS"
+},
+"conv-IPC:409": {
+"task": "convert",
+"old": "IPC:409",
+"gold": [
+"BNS:316"
+],
+"new_act": "BNS"
+},
+"conv-IPC:375": {
+"task": "convert",
+"old": "IPC:375",
+"gold": [
+"BNS:63"
+],
+"new_act": "BNS"
+},
+"conv-IPC:130": {
+"task": "convert",
+"old": "IPC:130",
+"gold": [
+"BNS:158"
+],
+"new_act": "BNS"
+},
+"conv-IPC:153": {
+"task": "convert",
+"old": "IPC:153",
+"gold": [
+"BNS:192"
+],
+"new_act": "BNS"
+},
+"conv-IPC:46": {
+"task": "convert",
+"old": "IPC:46",
+"gold": [
+"BNS:2"
+],
+"new_act": "BNS"
+},
+"conv-IPC:121A": {
+"task": "convert",
+"old": "IPC:121A",
+"gold": [
+"BNS:148"
+],
+"new_act": "BNS"
+},
+"conv-IPC:33": {
+"task": "convert",
+"old": "IPC:33",
+"gold": [
+"BNS:2"
+],
+"new_act": "BNS"
+},
+"conv-IPC:155": {
+"task": "convert",
+"old": "IPC:155",
+"gold": [
+"BNS:193"
+],
+"new_act": "BNS"
+},
+"conv-IPC:19": {
+"task": "convert",
+"old": "IPC:19",
+"gold": [
+"BNS:2"
+],
+"new_act": "BNS"
+},
+"conv-IPC:376": {
+"task": "convert",
+"old": "IPC:376",
+"gold": [
+"BNS:64",
+"BNS:65"
+],
+"new_act": "BNS"
+},
+"conv-IPC:5": {
+"task": "convert",
+"old": "IPC:5",
+"gold": [
+"BNS:1"
+],
+"new_act": "BNS"
+},
+"conv-IPC:137": {
+"task": "convert",
+"old": "IPC:137",
+"gold": [
+"BNS:165"
+],
+"new_act": "BNS"
+},
+"conv-IPC:506": {
+"task": "convert",
+"old": "IPC:506",
+"gold": [
+"BNS:351"
+],
+"new_act": "BNS"
+},
+"conv-IPC:466": {
+"task": "convert",
+"old": "IPC:466",
+"gold": [
+"BNS:337"
+],
+"new_act": "BNS"
+},
+"conv-IPC:461": {
+"task": "convert",
+"old": "IPC:461",
+"gold": [
+"BNS:334"
+],
+"new_act": "BNS"
+},
+"conv-IPC:317": {
+"task": "convert",
+"old": "IPC:317",
+"gold": [
+"BNS:93"
+],
+"new_act": "BNS"
+},
+"conv-IPC:356": {
+"task": "convert",
+"old": "IPC:356",
+"gold": [
+"BNS:134"
+],
+"new_act": "BNS"
+},
+"conv-IPC:171F": {
+"task": "convert",
+"old": "IPC:171F",
+"gold": [
+"BNS:174"
+],
+"new_act": "BNS"
+},
+"conv-IPC:171D": {
+"task": "convert",
+"old": "IPC:171D",
+"gold": [
+"BNS:172"
+],
+"new_act": "BNS"
+},
+"conv-IPC:408": {
+"task": "convert",
+"old": "IPC:408",
+"gold": [
+"BNS:316"
+],
+"new_act": "BNS"
+},
+"conv-IPC:75": {
+"task": "convert",
+"old": "IPC:75",
+"gold": [
+"BNS:13"
+],
+"new_act": "BNS"
+},
+"conv-IPC:89": {
+"task": "convert",
+"old": "IPC:89",
+"gold": [
+"BNS:27"
+],
+"new_act": "BNS"
+},
+"conv-IPC:146": {
+"task": "convert",
+"old": "IPC:146",
+"gold": [
+"BNS:191"
+],
+"new_act": "BNS"
+},
+"conv-IPC:489": {
+"task": "convert",
+"old": "IPC:489",
+"gold": [
+"BNS:346"
+],
+"new_act": "BNS"
+},
+"conv-IPC:35": {
+"task": "convert",
+"old": "IPC:35",
+"gold": [
+"BNS:3"
+],
+"new_act": "BNS"
+},
+"conv-IPC:364A": {
+"task": "convert",
+"old": "IPC:364A",
+"gold": [
+"BNS:140"
+],
+"new_act": "BNS"
+},
+"conv-IPC:374": {
+"task": "convert",
+"old": "IPC:374",
+"gold": [
+"BNS:146"
+],
+"new_act": "BNS"
+},
+"conv-IPC:112": {
+"task": "convert",
+"old": "IPC:112",
+"gold": [
+"BNS:52"
+],
+"new_act": "BNS"
+},
+"conv-CRPC:191": {
+"task": "convert",
+"old": "CRPC:191",
+"gold": [
+"BNSS:211"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:256": {
+"task": "convert",
+"old": "CRPC:256",
+"gold": [
+"BNSS:279"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:367": {
+"task": "convert",
+"old": "CRPC:367",
+"gold": [
+"BNSS:408"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:100": {
+"task": "convert",
+"old": "CRPC:100",
+"gold": [
+"BNSS:103"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:202": {
+"task": "convert",
+"old": "CRPC:202",
+"gold": [
+"BNSS:225"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:337": {
+"task": "convert",
+"old": "CRPC:337",
+"gold": [
+"BNSS:376"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:116": {
+"task": "convert",
+"old": "CRPC:116",
+"gold": [
+"BNSS:135"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:258": {
+"task": "convert",
+"old": "CRPC:258",
+"gold": [
+"BNSS:281"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:146": {
+"task": "convert",
+"old": "CRPC:146",
+"gold": [
+"BNSS:165"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:187": {
+"task": "convert",
+"old": "CRPC:187",
+"gold": [
+"BNSS:207"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:273": {
+"task": "convert",
+"old": "CRPC:273",
+"gold": [
+"BNSS:308"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:270": {
+"task": "convert",
+"old": "CRPC:270",
+"gold": [
+"BNSS:305"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:264": {
+"task": "convert",
+"old": "CRPC:264",
+"gold": [
+"BNSS:287"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:56": {
+"task": "convert",
+"old": "CRPC:56",
+"gold": [
+"BNSS:57"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:260": {
+"task": "convert",
+"old": "CRPC:260",
+"gold": [
+"BNSS:283"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:66": {
+"task": "convert",
+"old": "CRPC:66",
+"gold": [
+"BNSS:68"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:366": {
+"task": "convert",
+"old": "CRPC:366",
+"gold": [
+"BNSS:407"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:33": {
+"task": "convert",
+"old": "CRPC:33",
+"gold": [
+"BNSS:27"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:51": {
+"task": "convert",
+"old": "CRPC:51",
+"gold": [
+"BNSS:49"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:475": {
+"task": "convert",
+"old": "CRPC:475",
+"gold": [
+"BNSS:521"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:28": {
+"task": "convert",
+"old": "CRPC:28",
+"gold": [
+"BNSS:22"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:440": {
+"task": "convert",
+"old": "CRPC:440",
+"gold": [
+"BNSS:484"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:484": {
+"task": "convert",
+"old": "CRPC:484",
+"gold": [
+"BNSS:531"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:456": {
+"task": "convert",
+"old": "CRPC:456",
+"gold": [
+"BNSS:502"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:212": {
+"task": "convert",
+"old": "CRPC:212",
+"gold": [
+"BNSS:235"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:272": {
+"task": "convert",
+"old": "CRPC:272",
+"gold": [
+"BNSS:307"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:238": {
+"task": "convert",
+"old": "CRPC:238",
+"gold": [
+"BNSS:261"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:364": {
+"task": "convert",
+"old": "CRPC:364",
+"gold": [
+"BNSS:405"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:439": {
+"task": "convert",
+"old": "CRPC:439",
+"gold": [
+"BNSS:483"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:265F": {
+"task": "convert",
+"old": "CRPC:265F",
+"gold": [
+"BNSS:294"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:255": {
+"task": "convert",
+"old": "CRPC:255",
+"gold": [
+"BNSS:278"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:407": {
+"task": "convert",
+"old": "CRPC:407",
+"gold": [
+"BNSS:447"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:53": {
+"task": "convert",
+"old": "CRPC:53",
+"gold": [
+"BNSS:51"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:105J": {
+"task": "convert",
+"old": "CRPC:105J",
+"gold": [
+"BNSS:122"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:20": {
+"task": "convert",
+"old": "CRPC:20",
+"gold": [
+"BNSS:14"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:386": {
+"task": "convert",
+"old": "CRPC:386",
+"gold": [
+"BNSS:427"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:102": {
+"task": "convert",
+"old": "CRPC:102",
+"gold": [
+"BNSS:106"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:285": {
+"task": "convert",
+"old": "CRPC:285",
+"gold": [
+"BNSS:320"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:99": {
+"task": "convert",
+"old": "CRPC:99",
+"gold": [
+"BNSS:102"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:457": {
+"task": "convert",
+"old": "CRPC:457",
+"gold": [
+"BNSS:503"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:124": {
+"task": "convert",
+"old": "CRPC:124",
+"gold": [
+"BNSS:143"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:277": {
+"task": "convert",
+"old": "CRPC:277",
+"gold": [
+"BNSS:312"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:59": {
+"task": "convert",
+"old": "CRPC:59",
+"gold": [
+"BNSS:60"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:89": {
+"task": "convert",
+"old": "CRPC:89",
+"gold": [
+"BNSS:92"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:136": {
+"task": "convert",
+"old": "CRPC:136",
+"gold": [
+"BNSS:155"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:468": {
+"task": "convert",
+"old": "CRPC:468",
+"gold": [
+"BNSS:514"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:383": {
+"task": "convert",
+"old": "CRPC:383",
+"gold": [
+"BNSS:424"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:105E": {
+"task": "convert",
+"old": "CRPC:105E",
+"gold": [
+"BNSS:117"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:390": {
+"task": "convert",
+"old": "CRPC:390",
+"gold": [
+"BNSS:431"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:313": {
+"task": "convert",
+"old": "CRPC:313",
+"gold": [
+"BNSS:351"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:235": {
+"task": "convert",
+"old": "CRPC:235",
+"gold": [
+"BNSS:258"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:287": {
+"task": "convert",
+"old": "CRPC:287",
+"gold": [
+"BNSS:322"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:152": {
+"task": "convert",
+"old": "CRPC:152",
+"gold": [
+"BNSS:171"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:251": {
+"task": "convert",
+"old": "CRPC:251",
+"gold": [
+"BNSS:274"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:112": {
+"task": "convert",
+"old": "CRPC:112",
+"gold": [
+"BNSS:131"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:389": {
+"task": "convert",
+"old": "CRPC:389",
+"gold": [
+"BNSS:430"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:36": {
+"task": "convert",
+"old": "CRPC:36",
+"gold": [
+"BNSS:30"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:311": {
+"task": "convert",
+"old": "CRPC:311",
+"gold": [
+"BNSS:348"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:87": {
+"task": "convert",
+"old": "CRPC:87",
+"gold": [
+"BNSS:90"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:239": {
+"task": "convert",
+"old": "CRPC:239",
+"gold": [
+"BNSS:262"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:412": {
+"task": "convert",
+"old": "CRPC:412",
+"gold": [
+"BNSS:452"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:60": {
+"task": "convert",
+"old": "CRPC:60",
+"gold": [
+"BNSS:61"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:470": {
+"task": "convert",
+"old": "CRPC:470",
+"gold": [
+"BNSS:516"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:84": {
+"task": "convert",
+"old": "CRPC:84",
+"gold": [
+"BNSS:87"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:378": {
+"task": "convert",
+"old": "CRPC:378",
+"gold": [
+"BNSS:419"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:237": {
+"task": "convert",
+"old": "CRPC:237",
+"gold": [
+"BNSS:260"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:201": {
+"task": "convert",
+"old": "CRPC:201",
+"gold": [
+"BNSS:224"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:413": {
+"task": "convert",
+"old": "CRPC:413",
+"gold": [
+"BNSS:453"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:462": {
+"task": "convert",
+"old": "CRPC:462",
+"gold": [
+"BNSS:508"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:97": {
+"task": "convert",
+"old": "CRPC:97",
+"gold": [
+"BNSS:100"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:178": {
+"task": "convert",
+"old": "CRPC:178",
+"gold": [
+"BNSS:198"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:14": {
+"task": "convert",
+"old": "CRPC:14",
+"gold": [
+"BNSS:12"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:472": {
+"task": "convert",
+"old": "CRPC:472",
+"gold": [
+"BNSS:518"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:113": {
+"task": "convert",
+"old": "CRPC:113",
+"gold": [
+"BNSS:132"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:291A": {
+"task": "convert",
+"old": "CRPC:291A",
+"gold": [
+"BNSS:327"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:198B": {
+"task": "convert",
+"old": "CRPC:198B",
+"gold": [
+"BNSS:221"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:37": {
+"task": "convert",
+"old": "CRPC:37",
+"gold": [
+"BNSS:31"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:216": {
+"task": "convert",
+"old": "CRPC:216",
+"gold": [
+"BNSS:239"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:275": {
+"task": "convert",
+"old": "CRPC:275",
+"gold": [
+"BNSS:310"
+],
+"new_act": "BNSS"
+},
+"conv-CRPC:186": {
+"task": "convert",
+"old": "CRPC:186",
+"gold": [
+"BNSS:206"
+],
+"new_act": "BNSS"
+},
+"conv-IEA:81A": {
+"task": "convert",
+"old": "IEA:81A",
+"gold": [
+"BSA:81"
+],
+"new_act": "BSA"
+},
+"conv-IEA:159": {
+"task": "convert",
+"old": "IEA:159",
+"gold": [
+"BSA:162"
+],
+"new_act": "BSA"
+},
+"conv-IEA:49": {
+"task": "convert",
+"old": "IEA:49",
+"gold": [
+"BSA:43"
+],
+"new_act": "BSA"
+},
+"conv-IEA:73A": {
+"task": "convert",
+"old": "IEA:73A",
+"gold": [
+"BSA:73"
+],
+"new_act": "BSA"
+},
+"conv-IEA:133": {
+"task": "convert",
+"old": "IEA:133",
+"gold": [
+"BSA:138"
+],
+"new_act": "BSA"
+},
+"conv-IEA:150": {
+"task": "convert",
+"old": "IEA:150",
+"gold": [
+"BSA:153"
+],
+"new_act": "BSA"
+},
+"conv-IEA:10": {
+"task": "convert",
+"old": "IEA:10",
+"gold": [
+"BSA:8"
+],
+"new_act": "BSA"
+},
+"conv-IEA:65A": {
+"task": "convert",
+"old": "IEA:65A",
+"gold": [
+"BSA:62"
+],
+"new_act": "BSA"
+},
+"conv-IEA:125": {
+"task": "convert",
+"old": "IEA:125",
+"gold": [
+"BSA:131"
+],
+"new_act": "BSA"
+},
+"conv-IEA:142": {
+"task": "convert",
+"old": "IEA:142",
+"gold": [
+"BSA:146"
+],
+"new_act": "BSA"
+},
+"conv-IEA:36": {
+"task": "convert",
+"old": "IEA:36",
+"gold": [
+"BSA:30"
+],
+"new_act": "BSA"
+},
+"conv-IEA:69": {
+"task": "convert",
+"old": "IEA:69",
+"gold": [
+"BSA:68"
+],
+"new_act": "BSA"
+},
+"conv-IEA:76": {
+"task": "convert",
+"old": "IEA:76",
+"gold": [
+"BSA:75"
+],
+"new_act": "BSA"
+},
+"conv-IEA:44": {
+"task": "convert",
+"old": "IEA:44",
+"gold": [
+"BSA:38"
+],
+"new_act": "BSA"
+},
+"conv-IEA:51": {
+"task": "convert",
+"old": "IEA:51",
+"gold": [
+"BSA:45"
+],
+"new_act": "BSA"
+},
+"conv-IEA:89": {
+"task": "convert",
+"old": "IEA:89",
+"gold": [
+"BSA:91"
+],
+"new_act": "BSA"
+},
+"conv-IEA:137": {
+"task": "convert",
+"old": "IEA:137",
+"gold": [
+"BSA:142"
+],
+"new_act": "BSA"
+},
+"conv-IEA:154": {
+"task": "convert",
+"old": "IEA:154",
+"gold": [
+"BSA:157"
+],
+"new_act": "BSA"
+},
+"conv-IEA:72": {
+"task": "convert",
+"old": "IEA:72",
+"gold": [
+"BSA:71"
+],
+"new_act": "BSA"
+},
+"conv-IEA:164": {
+"task": "convert",
+"old": "IEA:164",
+"gold": [
+"BSA:167"
+],
+"new_act": "BSA"
+},
+"conv-IEA:160": {
+"task": "convert",
+"old": "IEA:160",
+"gold": [
+"BSA:163"
+],
+"new_act": "BSA"
+},
+"conv-IEA:80": {
+"task": "convert",
+"old": "IEA:80",
+"gold": [
+"BSA:79"
+],
+"new_act": "BSA"
+},
+"conv-IEA:31": {
+"task": "convert",
+"old": "IEA:31",
+"gold": [
+"BSA:25"
+],
+"new_act": "BSA"
+},
+"conv-IEA:52": {
+"task": "convert",
+"old": "IEA:52",
+"gold": [
+"BSA:46"
+],
+"new_act": "BSA"
+},
+"conv-IEA:122": {
+"task": "convert",
+"old": "IEA:122",
+"gold": [
+"BSA:128"
+],
+"new_act": "BSA"
+},
+"conv-IEA:43": {
+"task": "convert",
+"old": "IEA:43",
+"gold": [
+"BSA:37"
+],
+"new_act": "BSA"
+},
+"conv-IEA:41": {
+"task": "convert",
+"old": "IEA:41",
+"gold": [
+"BSA:35"
+],
+"new_act": "BSA"
+},
+"conv-IEA:162": {
+"task": "convert",
+"old": "IEA:162",
+"gold": [
+"BSA:165"
+],
+"new_act": "BSA"
+},
+"conv-IEA:21": {
+"task": "convert",
+"old": "IEA:21",
+"gold": [
+"BSA:19"
+],
+"new_act": "BSA"
+},
+"conv-IEA:63": {
+"task": "convert",
+"old": "IEA:63",
+"gold": [
+"BSA:58"
+],
+"new_act": "BSA"
+},
+"conv-IEA:66": {
+"task": "convert",
+"old": "IEA:66",
+"gold": [
+"BSA:64"
+],
+"new_act": "BSA"
+},
+"conv-IEA:15": {
+"task": "convert",
+"old": "IEA:15",
+"gold": [
+"BSA:13"
+],
+"new_act": "BSA"
+},
+"conv-IEA:151": {
+"task": "convert",
+"old": "IEA:151",
+"gold": [
+"BSA:154"
+],
+"new_act": "BSA"
+},
+"conv-IEA:99": {
+"task": "convert",
+"old": "IEA:99",
+"gold": [
+"BSA:102"
+],
+"new_act": "BSA"
+},
+"conv-IEA:74": {
+"task": "convert",
+"old": "IEA:74",
+"gold": [
+"BSA:74"
+],
+"new_act": "BSA"
+},
+"conv-IEA:46": {
+"task": "convert",
+"old": "IEA:46",
+"gold": [
+"BSA:40"
+],
+"new_act": "BSA"
+},
+"conv-IEA:55": {
+"task": "convert",
+"old": "IEA:55",
+"gold": [
+"BSA:50"
+],
+"new_act": "BSA"
+},
+"conv-IEA:19": {
+"task": "convert",
+"old": "IEA:19",
+"gold": [
+"BSA:17"
+],
+"new_act": "BSA"
+},
+"conv-IEA:163": {
+"task": "convert",
+"old": "IEA:163",
+"gold": [
+"BSA:166"
+],
+"new_act": "BSA"
+},
+"conv-IEA:141": {
+"task": "convert",
+"old": "IEA:141",
+"gold": [
+"BSA:146"
+],
+"new_act": "BSA"
+},
+"cur-IPC:51": {
+"task": "current",
+"old": "IPC:51",
+"gold": [
+"BNS:2"
+],
+"new_act": "BNS"
+},
+"cur-IPC:148": {
+"task": "current",
+"old": "IPC:148",
+"gold": [
+"BNS:191"
+],
+"new_act": "BNS"
+},
+"cur-IPC:325": {
+"task": "current",
+"old": "IPC:325",
+"gold": [
+"BNS:117"
+],
+"new_act": "BNS"
+},
+"cur-IPC:428": {
+"task": "current",
+"old": "IPC:428",
+"gold": [
+"BNS:325"
+],
+"new_act": "BNS"
+},
+"cur-IPC:286": {
+"task": "current",
+"old": "IPC:286",
+"gold": [
+"BNS:288"
+],
+"new_act": "BNS"
+},
+"cur-IPC:333": {
+"task": "current",
+"old": "IPC:333",
+"gold": [
+"BNS:121"
+],
+"new_act": "BNS"
+},
+"cur-IPC:460": {
+"task": "current",
+"old": "IPC:460",
+"gold": [
+"BNS:331"
+],
+"new_act": "BNS"
+},
+"cur-IPC:216": {
+"task": "current",
+"old": "IPC:216",
+"gold": [
+"BNS:253"
+],
+"new_act": "BNS"
+},
+"cur-IPC:374": {
+"task": "current",
+"old": "IPC:374",
+"gold": [
+"BNS:146"
+],
+"new_act": "BNS"
+},
+"cur-IPC:353": {
+"task": "current",
+"old": "IPC:353",
+"gold": [
+"BNS:132"
+],
+"new_act": "BNS"
+},
+"cur-IPC:92": {
+"task": "current",
+"old": "IPC:92",
+"gold": [
+"BNS:30"
+],
+"new_act": "BNS"
+},
+"cur-IPC:178": {
+"task": "current",
+"old": "IPC:178",
+"gold": [
+"BNS:213"
+],
+"new_act": "BNS"
+},
+"cur-IPC:87": {
+"task": "current",
+"old": "IPC:87",
+"gold": [
+"BNS:25"
+],
+"new_act": "BNS"
+},
+"cur-IPC:295": {
+"task": "current",
+"old": "IPC:295",
+"gold": [
+"BNS:298"
+],
+"new_act": "BNS"
+},
+"cur-IPC:505": {
+"task": "current",
+"old": "IPC:505",
+"gold": [
+"BNS:353"
+],
+"new_act": "BNS"
+},
+"cur-IPC:35": {
+"task": "current",
+"old": "IPC:35",
+"gold": [
+"BNS:3"
+],
+"new_act": "BNS"
+},
+"cur-IPC:360": {
+"task": "current",
+"old": "IPC:360",
+"gold": [
+"BNS:137"
+],
+"new_act": "BNS"
+},
+"cur-IPC:320": {
+"task": "current",
+"old": "IPC:320",
+"gold": [
+"BNS:116"
+],
+"new_act": "BNS"
+},
+"cur-IPC:436": {
+"task": "current",
+"old": "IPC:436",
+"gold": [
+"BNS:326"
+],
+"new_act": "BNS"
+},
+"cur-IPC:350": {
+"task": "current",
+"old": "IPC:350",
+"gold": [
+"BNS:129"
+],
+"new_act": "BNS"
+},
+"cur-IPC:57": {
+"task": "current",
+"old": "IPC:57",
+"gold": [
+"BNS:6"
+],
+"new_act": "BNS"
+},
+"cur-IPC:177": {
+"task": "current",
+"old": "IPC:177",
+"gold": [
+"BNS:212"
+],
+"new_act": "BNS"
+},
+"cur-IPC:65": {
+"task": "current",
+"old": "IPC:65",
+"gold": [
+"BNS:8"
+],
+"new_act": "BNS"
+},
+"cur-IPC:489C": {
+"task": "current",
+"old": "IPC:489C",
+"gold": [
+"BNS:180"
+],
+"new_act": "BNS"
+},
+"cur-IPC:498A": {
+"task": "current",
+"old": "IPC:498A",
+"gold": [
+"BNS:85",
+"BNS:86"
+],
+"new_act": "BNS"
+},
+"cur-IPC:67": {
+"task": "current",
+"old": "IPC:67",
+"gold": [
+"BNS:8"
+],
+"new_act": "BNS"
+},
+"cur-IPC:313": {
+"task": "current",
+"old": "IPC:313",
+"gold": [
+"BNS:89"
+],
+"new_act": "BNS"
+},
+"cur-IPC:451": {
+"task": "current",
+"old": "IPC:451",
+"gold": [
+"BNS:332"
+],
+"new_act": "BNS"
+},
+"cur-IPC:258": {
+"task": "current",
+"old": "IPC:258",
+"gold": [
+"BNS:179"
+],
+"new_act": "BNS"
+},
+"cur-IPC:76": {
+"task": "current",
+"old": "IPC:76",
+"gold": [
+"BNS:14"
+],
+"new_act": "BNS"
+},
+"cur-IPC:112": {
+"task": "current",
+"old": "IPC:112",
+"gold": [
+"BNS:52"
+],
+"new_act": "BNS"
+},
+"cur-IPC:362": {
+"task": "current",
+"old": "IPC:362",
+"gold": [
+"BNS:138"
+],
+"new_act": "BNS"
+},
+"cur-IPC:376D": {
+"task": "current",
+"old": "IPC:376D",
+"gold": [
+"BNS:70"
+],
+"new_act": "BNS"
+},
+"cur-IPC:263": {
+"task": "current",
+"old": "IPC:263",
+"gold": [
+"BNS:185"
+],
+"new_act": "BNS"
+},
+"cur-IPC:397": {
+"task": "current",
+"old": "IPC:397",
+"gold": [
+"BNS:311"
+],
+"new_act": "BNS"
+},
+"cur-IPC:125": {
+"task": "current",
+"old": "IPC:125",
+"gold": [
+"BNS:153"
+],
+"new_act": "BNS"
+},
+"cur-IPC:425": {
+"task": "current",
+"old": "IPC:425",
+"gold": [
+"BNS:324"
+],
+"new_act": "BNS"
+},
+"cur-IPC:410": {
+"task": "current",
+"old": "IPC:410",
+"gold": [
+"BNS:317"
+],
+"new_act": "BNS"
+},
+"cur-IPC:494": {
+"task": "current",
+"old": "IPC:494",
+"gold": [
+"BNS:82"
+],
+"new_act": "BNS"
+},
+"cur-IPC:159": {
+"task": "current",
+"old": "IPC:159",
+"gold": [
+"BNS:194"
+],
+"new_act": "BNS"
+},
+"cur-IPC:144": {
+"task": "current",
+"old": "IPC:144",
+"gold": [
+"BNS:189"
+],
+"new_act": "BNS"
+},
+"cur-IPC:288": {
+"task": "current",
+"old": "IPC:288",
+"gold": [
+"BNS:290"
+],
+"new_act": "BNS"
+},
+"cur-IPC:366B": {
+"task": "current",
+"old": "IPC:366B",
+"gold": [
+"BNS:141"
+],
+"new_act": "BNS"
+},
+"cur-IPC:239": {
+"task": "current",
+"old": "IPC:239",
+"gold": [
+"BNS:179"
+],
+"new_act": "BNS"
+},
+"cur-IPC:180": {
+"task": "current",
+"old": "IPC:180",
+"gold": [
+"BNS:215"
+],
+"new_act": "BNS"
+},
+"cur-IPC:430": {
+"task": "current",
+"old": "IPC:430",
+"gold": [
+"BNS:326"
+],
+"new_act": "BNS"
+},
+"cur-IPC:131": {
+"task": "current",
+"old": "IPC:131",
+"gold": [
+"BNS:159"
+],
+"new_act": "BNS"
+},
+"cur-IPC:427": {
+"task": "current",
+"old": "IPC:427",
+"gold": [
+"BNS:324"
+],
+"new_act": "BNS"
+},
+"cur-IPC:354D": {
+"task": "current",
+"old": "IPC:354D",
+"gold": [
+"BNS:78"
+],
+"new_act": "BNS"
+},
+"cur-IPC:21": {
+"task": "current",
+"old": "IPC:21",
+"gold": [
+"BNS:2"
+],
+"new_act": "BNS"
+},
+"cur-IPC:113": {
+"task": "current",
+"old": "IPC:113",
+"gold": [
+"BNS:53"
+],
+"new_act": "BNS"
+},
+"cur-IPC:450": {
+"task": "current",
+"old": "IPC:450",
+"gold": [
+"BNS:332"
+],
+"new_act": "BNS"
+},
+"cur-IPC:376AB": {
+"task": "current",
+"old": "IPC:376AB",
+"gold": [
+"BNS:65"
+],
+"new_act": "BNS"
+},
+"cur-IPC:434": {
+"task": "current",
+"old": "IPC:434",
+"gold": [
+"BNS:326"
+],
+"new_act": "BNS"
+},
+"cur-IPC:212": {
+"task": "current",
+"old": "IPC:212",
+"gold": [
+"BNS:249"
+],
+"new_act": "BNS"
+},
+"cur-IPC:386": {
+"task": "current",
+"old": "IPC:386",
+"gold": [
+"BNS:308"
+],
+"new_act": "BNS"
+},
+"cur-IPC:470": {
+"task": "current",
+"old": "IPC:470",
+"gold": [
+"BNS:340"
+],
+"new_act": "BNS"
+},
+"cur-IPC:330": {
+"task": "current",
+"old": "IPC:330",
+"gold": [
+"BNS:120"
+],
+"new_act": "BNS"
+},
+"cur-IPC:179": {
+"task": "current",
+"old": "IPC:179",
+"gold": [
+"BNS:214"
+],
+"new_act": "BNS"
+},
+"cur-IPC:472": {
+"task": "current",
+"old": "IPC:472",
+"gold": [
+"BNS:341"
+],
+"new_act": "BNS"
+},
+"cur-IPC:448": {
+"task": "current",
+"old": "IPC:448",
+"gold": [
+"BNS:329"
+],
+"new_act": "BNS"
+},
+"cur-IPC:293": {
+"task": "current",
+"old": "IPC:293",
+"gold": [
+"BNS:295"
+],
+"new_act": "BNS"
+},
+"cur-IPC:171G": {
+"task": "current",
+"old": "IPC:171G",
+"gold": [
+"BNS:175"
+],
+"new_act": "BNS"
+},
+"cur-IPC:181": {
+"task": "current",
+"old": "IPC:181",
+"gold": [
+"BNS:216"
+],
+"new_act": "BNS"
+},
+"cur-IPC:406": {
+"task": "current",
+"old": "IPC:406",
+"gold": [
+"BNS:316"
+],
+"new_act": "BNS"
+},
+"cur-IPC:307": {
+"task": "current",
+"old": "IPC:307",
+"gold": [
+"BNS:109"
+],
+"new_act": "BNS"
+},
+"cur-IPC:46": {
+"task": "current",
+"old": "IPC:46",
+"gold": [
+"BNS:2"
+],
+"new_act": "BNS"
+},
+"cur-IPC:215": {
+"task": "current",
+"old": "IPC:215",
+"gold": [
+"BNS:252"
+],
+"new_act": "BNS"
+},
+"cur-IPC:128": {
+"task": "current",
+"old": "IPC:128",
+"gold": [
+"BNS:156"
+],
+"new_act": "BNS"
+},
+"cur-IPC:304": {
+"task": "current",
+"old": "IPC:304",
+"gold": [
+"BNS:105"
+],
+"new_act": "BNS"
+},
+"cur-IPC:154": {
+"task": "current",
+"old": "IPC:154",
+"gold": [
+"BNS:193"
+],
+"new_act": "BNS"
+},
+"cur-IPC:60": {
+"task": "current",
+"old": "IPC:60",
+"gold": [
+"BNS:7"
+],
+"new_act": "BNS"
+},
+"cur-IPC:84": {
+"task": "current",
+"old": "IPC:84",
+"gold": [
+"BNS:22"
+],
+"new_act": "BNS"
+},
+"cur-IPC:9": {
+"task": "current",
+"old": "IPC:9",
+"gold": [
+"BNS:2"
+],
+"new_act": "BNS"
+},
+"cur-IPC:157": {
+"task": "current",
+"old": "IPC:157",
+"gold": [
+"BNS:189"
+],
+"new_act": "BNS"
+},
+"cur-IPC:422": {
+"task": "current",
+"old": "IPC:422",
+"gold": [
+"BNS:321"
+],
+"new_act": "BNS"
+},
+"cur-IPC:270": {
+"task": "current",
+"old": "IPC:270",
+"gold": [
+"BNS:272"
+],
+"new_act": "BNS"
+},
+"cur-IPC:438": {
+"task": "current",
+"old": "IPC:438",
+"gold": [
+"BNS:327"
+],
+"new_act": "BNS"
+},
+"cur-IPC:359": {
+"task": "current",
+"old": "IPC:359",
+"gold": [
+"BNS:137"
+],
+"new_act": "BNS"
+},
+"cur-IPC:462": {
+"task": "current",
+"old": "IPC:462",
+"gold": [
+"BNS:334"
+],
+"new_act": "BNS"
+},
+"cur-IPC:7": {
+"task": "current",
+"old": "IPC:7",
+"gold": [
+"BNS:3"
+],
+"new_act": "BNS"
+},
+"cur-IPC:143": {
+"task": "current",
+"old": "IPC:143",
+"gold": [
+"BNS:189"
+],
+"new_act": "BNS"
+},
+"cur-IPC:195A": {
+"task": "current",
+"old": "IPC:195A",
+"gold": [
+"BNS:232"
+],
+"new_act": "BNS"
+},
+"cur-IPC:66": {
+"task": "current",
+"old": "IPC:66",
+"gold": [
+"BNS:8"
+],
+"new_act": "BNS"
+},
+"cur-IPC:357": {
+"task": "current",
+"old": "IPC:357",
+"gold": [
+"BNS:135"
+],
+"new_act": "BNS"
+},
+"cur-IPC:200": {
+"task": "current",
+"old": "IPC:200",
+"gold": [
+"BNS:237"
+],
+"new_act": "BNS"
+},
+"cur-IPC:171F": {
+"task": "current",
+"old": "IPC:171F",
+"gold": [
+"BNS:174"
+],
+"new_act": "BNS"
+},
+"cur-IPC:227": {
+"task": "current",
+"old": "IPC:227",
+"gold": [
+"BNS:266"
+],
+"new_act": "BNS"
+},
+"cur-IPC:376DB": {
+"task": "current",
+"old": "IPC:376DB",
+"gold": [
+"BNS:70"
+],
+"new_act": "BNS"
+},
+"cur-IPC:166": {
+"task": "current",
+"old": "IPC:166",
+"gold": [
+"BNS:198"
+],
+"new_act": "BNS"
+},
+"cur-IPC:456": {
+"task": "current",
+"old": "IPC:456",
+"gold": [
+"BNS:331"
+],
+"new_act": "BNS"
+},
+"cur-IPC:68": {
+"task": "current",
+"old": "IPC:68",
+"gold": [
+"BNS:8"
+],
+"new_act": "BNS"
+},
+"cur-IPC:74": {
+"task": "current",
+"old": "IPC:74",
+"gold": [
+"BNS:12"
+],
+"new_act": "BNS"
+},
+"cur-IPC:489A": {
+"task": "current",
+"old": "IPC:489A",
+"gold": [
+"BNS:178"
+],
+"new_act": "BNS"
+},
+"cur-IPC:393": {
+"task": "current",
+"old": "IPC:393",
+"gold": [
+"BNS:309"
+],
+"new_act": "BNS"
+},
+"cur-IPC:98": {
+"task": "current",
+"old": "IPC:98",
+"gold": [
+"BNS:36"
+],
+"new_act": "BNS"
+},
+"cur-IPC:78": {
+"task": "current",
+"old": "IPC:78",
+"gold": [
+"BNS:16"
+],
+"new_act": "BNS"
+},
+"cur-IPC:246": {
+"task": "current",
+"old": "IPC:246",
+"gold": [
+"BNS:178"
+],
+"new_act": "BNS"
+},
+"cur-IPC:283": {
+"task": "current",
+"old": "IPC:283",
+"gold": [
+"BNS:285"
+],
+"new_act": "BNS"
+},
+"cur-IPC:241": {
+"task": "current",
+"old": "IPC:241",
+"gold": [
+"BNS:179"
+],
+"new_act": "BNS"
+},
+"cur-IPC:373": {
+"task": "current",
+"old": "IPC:373",
+"gold": [
+"BNS:99"
+],
+"new_act": "BNS"
+},
+"cur-IPC:40": {
+"task": "current",
+"old": "IPC:40",
+"gold": [
+"BNS:2"
+],
+"new_act": "BNS"
+},
+"cur-IPC:243": {
+"task": "current",
+"old": "IPC:243",
+"gold": [
+"BNS:180"
+],
+"new_act": "BNS"
+},
+"cur-IPC:343": {
+"task": "current",
+"old": "IPC:343",
+"gold": [
+"BNS:127"
+],
+"new_act": "BNS"
+},
+"cur-IPC:459": {
+"task": "current",
+"old": "IPC:459",
+"gold": [
+"BNS:331"
+],
+"new_act": "BNS"
+},
+"cur-IPC:423": {
+"task": "current",
+"old": "IPC:423",
+"gold": [
+"BNS:322"
+],
+"new_act": "BNS"
+},
+"cur-IPC:481": {
+"task": "current",
+"old": "IPC:481",
+"gold": [
+"BNS:345"
+],
+"new_act": "BNS"
+},
+"cur-IPC:108A": {
+"task": "current",
+"old": "IPC:108A",
+"gold": [
+"BNS:47"
+],
+"new_act": "BNS"
+},
+"cur-IPC:364": {
+"task": "current",
+"old": "IPC:364",
+"gold": [
+"BNS:140"
+],
+"new_act": "BNS"
+},
+"cur-IPC:22": {
+"task": "current",
+"old": "IPC:22",
+"gold": [
+"BNS:2"
+],
+"new_act": "BNS"
+},
+"cur-IPC:269": {
+"task": "current",
+"old": "IPC:269",
+"gold": [
+"BNS:271"
+],
+"new_act": "BNS"
+},
+"cur-IPC:166A": {
+"task": "current",
+"old": "IPC:166A",
+"gold": [
+"BNS:199"
+],
+"new_act": "BNS"
+},
+"cur-IPC:90": {
+"task": "current",
+"old": "IPC:90",
+"gold": [
+"BNS:28"
+],
+"new_act": "BNS"
+},
+"cur-IPC:495": {
+"task": "current",
+"old": "IPC:495",
+"gold": [
+"BNS:82"
+],
+"new_act": "BNS"
+},
+"cur-IPC:171I": {
+"task": "current",
+"old": "IPC:171I",
+"gold": [
+"BNS:177"
+],
+"new_act": "BNS"
+},
+"cur-IPC:326": {
+"task": "current",
+"old": "IPC:326",
+"gold": [
+"BNS:118"
+],
+"new_act": "BNS"
+},
+"cur-IPC:501": {
+"task": "current",
+"old": "IPC:501",
+"gold": [
+"BNS:356"
+],
+"new_act": "BNS"
+},
+"cur-IPC:210": {
+"task": "current",
+"old": "IPC:210",
+"gold": [
+"BNS:247"
+],
+"new_act": "BNS"
+},
+"cur-IPC:193": {
+"task": "current",
+"old": "IPC:193",
+"gold": [
+"BNS:229"
+],
+"new_act": "BNS"
+},
+"cur-IPC:464": {
+"task": "current",
+"old": "IPC:464",
+"gold": [
+"BNS:335"
+],
+"new_act": "BNS"
+},
+"cur-IPC:158": {
+"task": "current",
+"old": "IPC:158",
+"gold": [
+"BNS:189"
+],
+"new_act": "BNS"
+},
+"cur-IPC:400": {
+"task": "current",
+"old": "IPC:400",
+"gold": [
+"BNS:310"
+],
+"new_act": "BNS"
+},
+"cur-IPC:290": {
+"task": "current",
+"old": "IPC:290",
+"gold": [
+"BNS:292"
+],
+"new_act": "BNS"
+},
+"cur-IPC:419": {
+"task": "current",
+"old": "IPC:419",
+"gold": [
+"BNS:319"
+],
+"new_act": "BNS"
+},
+"cur-IPC:340": {
+"task": "current",
+"old": "IPC:340",
+"gold": [
+"BNS:127"
+],
+"new_act": "BNS"
+},
+"cur-IPC:55": {
+"task": "current",
+"old": "IPC:55",
+"gold": [
+"BNS:5"
+],
+"new_act": "BNS"
+},
+"cur-IPC:155": {
+"task": "current",
+"old": "IPC:155",
+"gold": [
+"BNS:193"
+],
+"new_act": "BNS"
+},
+"cur-IPC:86": {
+"task": "current",
+"old": "IPC:86",
+"gold": [
+"BNS:24"
+],
+"new_act": "BNS"
+},
+"cur-IPC:388": {
+"task": "current",
+"old": "IPC:388",
+"gold": [
+"BNS:308"
+],
+"new_act": "BNS"
+},
+"cur-IPC:396": {
+"task": "current",
+"old": "IPC:396",
+"gold": [
+"BNS:310"
+],
+"new_act": "BNS"
+},
+"cur-IPC:199": {
+"task": "current",
+"old": "IPC:199",
+"gold": [
+"BNS:236"
+],
+"new_act": "BNS"
+},
+"cur-IPC:209": {
+"task": "current",
+"old": "IPC:209",
+"gold": [
+"BNS:246"
+],
+"new_act": "BNS"
+},
+"cur-IPC:11": {
+"task": "current",
+"old": "IPC:11",
+"gold": [
+"BNS:2"
+],
+"new_act": "BNS"
+},
+"cur-IPC:376A": {
+"task": "current",
+"old": "IPC:376A",
+"gold": [
+"BNS:66"
+],
+"new_act": "BNS"
+},
+"cur-IPC:368": {
+"task": "current",
+"old": "IPC:368",
+"gold": [
+"BNS:142"
+],
+"new_act": "BNS"
+},
+"cur-IPC:39": {
+"task": "current",
+"old": "IPC:39",
+"gold": [
+"BNS:2"
+],
+"new_act": "BNS"
+},
+"cur-IPC:149": {
+"task": "current",
+"old": "IPC:149",
+"gold": [
+"BNS:190"
+],
+"new_act": "BNS"
+},
+"cur-IPC:6": {
+"task": "current",
+"old": "IPC:6",
+"gold": [
+"BNS:3"
+],
+"new_act": "BNS"
+},
+"cur-IPC:335": {
+"task": "current",
+"old": "IPC:335",
+"gold": [
+"BNS:122"
+],
+"new_act": "BNS"
+},
+"cur-IPC:287": {
+"task": "current",
+"old": "IPC:287",
+"gold": [
+"BNS:289"
+],
+"new_act": "BNS"
+},
+"cur-IPC:114": {
+"task": "current",
+"old": "IPC:114",
+"gold": [
+"BNS:54"
+],
+"new_act": "BNS"
+},
+"cur-IPC:31": {
+"task": "current",
+"old": "IPC:31",
+"gold": [
+"BNS:2"
+],
+"new_act": "BNS"
+},
+"cur-IPC:171A": {
+"task": "current",
+"old": "IPC:171A",
+"gold": [
+"BNS:169"
+],
+"new_act": "BNS"
+},
+"cur-IPC:219": {
+"task": "current",
+"old": "IPC:219",
+"gold": [
+"BNS:257"
+],
+"new_act": "BNS"
+},
+"cur-IPC:405": {
+"task": "current",
+"old": "IPC:405",
+"gold": [
+"BNS:316"
+],
+"new_act": "BNS"
+},
+"cur-IPC:256": {
+"task": "current",
+"old": "IPC:256",
+"gold": [
+"BNS:181"
+],
+"new_act": "BNS"
+},
+"cur-IPC:493": {
+"task": "current",
+"old": "IPC:493",
+"gold": [
+"BNS:81"
+],
+"new_act": "BNS"
+},
+"cur-IPC:25": {
+"task": "current",
+"old": "IPC:25",
+"gold": [
+"BNS:2"
+],
+"new_act": "BNS"
+},
+"cur-IPC:225A": {
+"task": "current",
+"old": "IPC:225A",
+"gold": [
+"BNS:264"
+],
+"new_act": "BNS"
+},
+"cur-IPC:314": {
+"task": "current",
+"old": "IPC:314",
+"gold": [
+"BNS:90"
+],
+"new_act": "BNS"
+},
+"cur-IPC:389": {
+"task": "current",
+"old": "IPC:389",
+"gold": [
+"BNS:308"
+],
+"new_act": "BNS"
+},
+"cur-IPC:355": {
+"task": "current",
+"old": "IPC:355",
+"gold": [
+"BNS:133"
+],
+"new_act": "BNS"
+},
+"cur-IPC:298": {
+"task": "current",
+"old": "IPC:298",
+"gold": [
+"BNS:302"
+],
+"new_act": "BNS"
+},
+"cur-IPC:345": {
+"task": "current",
+"old": "IPC:345",
+"gold": [
+"BNS:127"
+],
+"new_act": "BNS"
+},
+"cur-IPC:486": {
+"task": "current",
+"old": "IPC:486",
+"gold": [
+"BNS:349"
+],
+"new_act": "BNS"
+},
+"cur-IPC:510": {
+"task": "current",
+"old": "IPC:510",
+"gold": [
+"BNS:355"
+],
+"new_act": "BNS"
+},
+"cur-IPC:390": {
+"task": "current",
+"old": "IPC:390",
+"gold": [
+"BNS:309"
+],
+"new_act": "BNS"
+},
+"cur-IPC:222": {
+"task": "current",
+"old": "IPC:222",
+"gold": [
+"BNS:260"
+],
+"new_act": "BNS"
+},
+"cur-IPC:89": {
+"task": "current",
+"old": "IPC:89",
+"gold": [
+"BNS:27"
+],
+"new_act": "BNS"
+},
+"cur-IPC:27": {
+"task": "current",
+"old": "IPC:27",
+"gold": [
+"BNS:3"
+],
+"new_act": "BNS"
+},
+"cur-IPC:376E": {
+"task": "current",
+"old": "IPC:376E",
+"gold": [
+"BNS:71"
+],
+"new_act": "BNS"
+},
+"cur-IPC:83": {
+"task": "current",
+"old": "IPC:83",
+"gold": [
+"BNS:21"
+],
+"new_act": "BNS"
+},
+"cur-IPC:435": {
+"task": "current",
+"old": "IPC:435",
+"gold": [
+"BNS:326"
+],
+"new_act": "BNS"
+},
+"cur-IPC:424": {
+"task": "current",
+"old": "IPC:424",
+"gold": [
+"BNS:323"
+],
+"new_act": "BNS"
+},
+"cur-IPC:324": {
+"task": "current",
+"old": "IPC:324",
+"gold": [
+"BNS:118"
+],
+"new_act": "BNS"
+},
+"cur-IPC:316": {
+"task": "current",
+"old": "IPC:316",
+"gold": [
+"BNS:92"
+],
+"new_act": "BNS"
+},
+"cur-IPC:73": {
+"task": "current",
+"old": "IPC:73",
+"gold": [
+"BNS:11"
+],
+"new_act": "BNS"
+},
+"cur-IPC:171B": {
+"task": "current",
+"old": "IPC:171B",
+"gold": [
+"BNS:170"
+],
+"new_act": "BNS"
+},
+"cur-IPC:126": {
+"task": "current",
+"old": "IPC:126",
+"gold": [
+"BNS:154",
+"BNS:155"
+],
+"new_act": "BNS"
+},
+"cur-IPC:453": {
+"task": "current",
+"old": "IPC:453",
+"gold": [
+"BNS:331"
+],
+"new_act": "BNS"
+},
+"cur-IPC:417": {
+"task": "current",
+"old": "IPC:417",
+"gold": [
+"BNS:318"
+],
+"new_act": "BNS"
+},
+"cur-IPC:489D": {
+"task": "current",
+"old": "IPC:489D",
+"gold": [
+"BNS:181"
+],
+"new_act": "BNS"
+},
+"cur-IPC:183": {
+"task": "current",
+"old": "IPC:183",
+"gold": [
+"BNS:218"
+],
+"new_act": "BNS"
+},
+"cur-IPC:176": {
+"task": "current",
+"old": "IPC:176",
+"gold": [
+"BNS:211"
+],
+"new_act": "BNS"
+},
+"cur-IPC:88": {
+"task": "current",
+"old": "IPC:88",
+"gold": [
+"BNS:26"
+],
+"new_act": "BNS"
+},
+"cur-IPC:304B": {
+"task": "current",
+"old": "IPC:304B",
+"gold": [
+"BNS:80"
+],
+"new_act": "BNS"
+},
+"cur-IPC:240": {
+"task": "current",
+"old": "IPC:240",
+"gold": [
+"BNS:179"
+],
+"new_act": "BNS"
+},
+"cur-IPC:370": {
+"task": "current",
+"old": "IPC:370",
+"gold": [
+"BNS:143"
+],
+"new_act": "BNS"
+},
+"cur-IPC:102": {
+"task": "current",
+"old": "IPC:102",
+"gold": [
+"BNS:40"
+],
+"new_act": "BNS"
+},
+"cur-IPC:166B": {
+"task": "current",
+"old": "IPC:166B",
+"gold": [
+"BNS:200"
+],
+"new_act": "BNS"
+},
+"cur-IPC:151": {
+"task": "current",
+"old": "IPC:151",
+"gold": [
+"BNS:189"
+],
+"new_act": "BNS"
+},
+"cur-IPC:431": {
+"task": "current",
+"old": "IPC:431",
+"gold": [
+"BNS:326"
+],
+"new_act": "BNS"
+},
+"cur-IPC:120A": {
+"task": "current",
+"old": "IPC:120A",
+"gold": [
+"BNS:61"
+],
+"new_act": "BNS"
+},
+"cur-IPC:221": {
+"task": "current",
+"old": "IPC:221",
+"gold": [
+"BNS:259"
+],
+"new_act": "BNS"
+},
+"cur-IPC:38": {
+"task": "current",
+"old": "IPC:38",
+"gold": [
+"BNS:3"
+],
+"new_act": "BNS"
+},
+"cur-IPC:134": {
+"task": "current",
+"old": "IPC:134",
+"gold": [
+"BNS:162"
+],
+"new_act": "BNS"
+},
+"cur-IPC:135": {
+"task": "current",
+"old": "IPC:135",
+"gold": [
+"BNS:163"
+],
+"new_act": "BNS"
+},
+"cur-IPC:506": {
+"task": "current",
+"old": "IPC:506",
+"gold": [
+"BNS:351"
+],
+"new_act": "BNS"
+},
+"cur-IPC:75": {
+"task": "current",
+"old": "IPC:75",
+"gold": [
+"BNS:13"
+],
+"new_act": "BNS"
+},
+"cur-IPC:487": {
+"task": "current",
+"old": "IPC:487",
+"gold": [
+"BNS:350"
+],
+"new_act": "BNS"
+},
+"cur-IPC:19": {
+"task": "current",
+"old": "IPC:19",
+"gold": [
+"BNS:2"
+],
+"new_act": "BNS"
+},
+"cur-IPC:94": {
+"task": "current",
+"old": "IPC:94",
+"gold": [
+"BNS:32"
+],
+"new_act": "BNS"
+},
+"cur-IPC:407": {
+"task": "current",
+"old": "IPC:407",
+"gold": [
+"BNS:316"
+],
+"new_act": "BNS"
+},
+"cur-IPC:20": {
+"task": "current",
+"old": "IPC:20",
+"gold": [
+"BNS:2"
+],
+"new_act": "BNS"
+},
+"cur-IPC:409": {
+"task": "current",
+"old": "IPC:409",
+"gold": [
+"BNS:316"
+],
+"new_act": "BNS"
+},
+"cur-IPC:233": {
+"task": "current",
+"old": "IPC:233",
+"gold": [
+"BNS:181"
+],
+"new_act": "BNS"
+},
+"cur-IPC:327": {
+"task": "current",
+"old": "IPC:327",
+"gold": [
+"BNS:119"
+],
+"new_act": "BNS"
+},
+"cur-IPC:375": {
+"task": "current",
+"old": "IPC:375",
+"gold": [
+"BNS:63"
+],
+"new_act": "BNS"
+},
+"cur-IPC:229": {
+"task": "current",
+"old": "IPC:229",
+"gold": [
+"BNS:268"
+],
+"new_act": "BNS"
+},
+"cur-IPC:317": {
+"task": "current",
+"old": "IPC:317",
+"gold": [
+"BNS:93"
+],
+"new_act": "BNS"
+},
+"cur-CRPC:349": {
+"task": "current",
+"old": "CRPC:349",
+"gold": [
+"BNSS:388"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:141": {
+"task": "current",
+"old": "CRPC:141",
+"gold": [
+"BNSS:160"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:274": {
+"task": "current",
+"old": "CRPC:274",
+"gold": [
+"BNSS:309"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:67": {
+"task": "current",
+"old": "CRPC:67",
+"gold": [
+"BNSS:69"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:305": {
+"task": "current",
+"old": "CRPC:305",
+"gold": [
+"BNSS:342"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:361": {
+"task": "current",
+"old": "CRPC:361",
+"gold": [
+"BNSS:402"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:366": {
+"task": "current",
+"old": "CRPC:366",
+"gold": [
+"BNSS:407"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:31": {
+"task": "current",
+"old": "CRPC:31",
+"gold": [
+"BNSS:25"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:380": {
+"task": "current",
+"old": "CRPC:380",
+"gold": [
+"BNSS:421"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:126": {
+"task": "current",
+"old": "CRPC:126",
+"gold": [
+"BNSS:145"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:219": {
+"task": "current",
+"old": "CRPC:219",
+"gold": [
+"BNSS:242"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:319": {
+"task": "current",
+"old": "CRPC:319",
+"gold": [
+"BNSS:358"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:396": {
+"task": "current",
+"old": "CRPC:396",
+"gold": [
+"BNSS:437"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:395": {
+"task": "current",
+"old": "CRPC:395",
+"gold": [
+"BNSS:436"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:229": {
+"task": "current",
+"old": "CRPC:229",
+"gold": [
+"BNSS:252"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:139": {
+"task": "current",
+"old": "CRPC:139",
+"gold": [
+"BNSS:158"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:399": {
+"task": "current",
+"old": "CRPC:399",
+"gold": [
+"BNSS:440"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:105J": {
+"task": "current",
+"old": "CRPC:105J",
+"gold": [
+"BNSS:122"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:368": {
+"task": "current",
+"old": "CRPC:368",
+"gold": [
+"BNSS:409"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:367": {
+"task": "current",
+"old": "CRPC:367",
+"gold": [
+"BNSS:408"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:265E": {
+"task": "current",
+"old": "CRPC:265E",
+"gold": [
+"BNSS:293"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:261": {
+"task": "current",
+"old": "CRPC:261",
+"gold": [
+"BNSS:284"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:34": {
+"task": "current",
+"old": "CRPC:34",
+"gold": [
+"BNSS:28"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:51": {
+"task": "current",
+"old": "CRPC:51",
+"gold": [
+"BNSS:49"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:136": {
+"task": "current",
+"old": "CRPC:136",
+"gold": [
+"BNSS:155"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:237": {
+"task": "current",
+"old": "CRPC:237",
+"gold": [
+"BNSS:260"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:183": {
+"task": "current",
+"old": "CRPC:183",
+"gold": [
+"BNSS:203"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:75": {
+"task": "current",
+"old": "CRPC:75",
+"gold": [
+"BNSS:77"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:320": {
+"task": "current",
+"old": "CRPC:320",
+"gold": [
+"BNSS:359"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:436": {
+"task": "current",
+"old": "CRPC:436",
+"gold": [
+"BNSS:478"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:14": {
+"task": "current",
+"old": "CRPC:14",
+"gold": [
+"BNSS:12"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:450": {
+"task": "current",
+"old": "CRPC:450",
+"gold": [
+"BNSS:496"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:265I": {
+"task": "current",
+"old": "CRPC:265I",
+"gold": [
+"BNSS:297"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:212": {
+"task": "current",
+"old": "CRPC:212",
+"gold": [
+"BNSS:235"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:213": {
+"task": "current",
+"old": "CRPC:213",
+"gold": [
+"BNSS:236"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:413": {
+"task": "current",
+"old": "CRPC:413",
+"gold": [
+"BNSS:453"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:105H": {
+"task": "current",
+"old": "CRPC:105H",
+"gold": [
+"BNSS:120"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:50A": {
+"task": "current",
+"old": "CRPC:50A",
+"gold": [
+"BNSS:48"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:41": {
+"task": "current",
+"old": "CRPC:41",
+"gold": [
+"BNSS:35"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:452": {
+"task": "current",
+"old": "CRPC:452",
+"gold": [
+"BNSS:498"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:307": {
+"task": "current",
+"old": "CRPC:307",
+"gold": [
+"BNSS:344"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:204": {
+"task": "current",
+"old": "CRPC:204",
+"gold": [
+"BNSS:227"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:392": {
+"task": "current",
+"old": "CRPC:392",
+"gold": [
+"BNSS:433"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:5": {
+"task": "current",
+"old": "CRPC:5",
+"gold": [
+"BNSS:5"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:379": {
+"task": "current",
+"old": "CRPC:379",
+"gold": [
+"BNSS:420"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:105B": {
+"task": "current",
+"old": "CRPC:105B",
+"gold": [
+"BNSS:114"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:451": {
+"task": "current",
+"old": "CRPC:451",
+"gold": [
+"BNSS:497"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:478": {
+"task": "current",
+"old": "CRPC:478",
+"gold": [
+"BNSS:524"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:265L": {
+"task": "current",
+"old": "CRPC:265L",
+"gold": [
+"BNSS:300"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:207": {
+"task": "current",
+"old": "CRPC:207",
+"gold": [
+"BNSS:230"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:198": {
+"task": "current",
+"old": "CRPC:198",
+"gold": [
+"BNSS:219"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:447": {
+"task": "current",
+"old": "CRPC:447",
+"gold": [
+"BNSS:493"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:88": {
+"task": "current",
+"old": "CRPC:88",
+"gold": [
+"BNSS:91"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:437A": {
+"task": "current",
+"old": "CRPC:437A",
+"gold": [
+"BNSS:481"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:89": {
+"task": "current",
+"old": "CRPC:89",
+"gold": [
+"BNSS:92"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:283": {
+"task": "current",
+"old": "CRPC:283",
+"gold": [
+"BNSS:318"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:130": {
+"task": "current",
+"old": "CRPC:130",
+"gold": [
+"BNSS:149"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:484": {
+"task": "current",
+"old": "CRPC:484",
+"gold": [
+"BNSS:531"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:161": {
+"task": "current",
+"old": "CRPC:161",
+"gold": [
+"BNSS:180"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:325": {
+"task": "current",
+"old": "CRPC:325",
+"gold": [
+"BNSS:364"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:198A": {
+"task": "current",
+"old": "CRPC:198A",
+"gold": [
+"BNSS:220"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:419": {
+"task": "current",
+"old": "CRPC:419",
+"gold": [
+"BNSS:459"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:410": {
+"task": "current",
+"old": "CRPC:410",
+"gold": [
+"BNSS:450"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:155": {
+"task": "current",
+"old": "CRPC:155",
+"gold": [
+"BNSS:174"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:76": {
+"task": "current",
+"old": "CRPC:76",
+"gold": [
+"BNSS:78"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:68": {
+"task": "current",
+"old": "CRPC:68",
+"gold": [
+"BNSS:70"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:330": {
+"task": "current",
+"old": "CRPC:330",
+"gold": [
+"BNSS:369"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:446": {
+"task": "current",
+"old": "CRPC:446",
+"gold": [
+"BNSS:491"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:420": {
+"task": "current",
+"old": "CRPC:420",
+"gold": [
+"BNSS:460"
+],
+"new_act": "BNSS"
+},
+"cur-CRPC:92": {
+"task": "current",
+"old": "CRPC:92",
+"gold": [
+"BNSS:95"
+],
+"new_act": "BNSS"
+},
+"cur-IEA:89": {
+"task": "current",
+"old": "IEA:89",
+"gold": [
+"BSA:91"
+],
+"new_act": "BSA"
+},
+"cur-IEA:156": {
+"task": "current",
+"old": "IEA:156",
+"gold": [
+"BSA:159"
+],
+"new_act": "BSA"
+},
+"cur-IEA:122": {
+"task": "current",
+"old": "IEA:122",
+"gold": [
+"BSA:128"
+],
+"new_act": "BSA"
+},
+"cur-IEA:103": {
+"task": "current",
+"old": "IEA:103",
+"gold": [
+"BSA:106"
+],
+"new_act": "BSA"
+},
+"cur-IEA:154": {
+"task": "current",
+"old": "IEA:154",
+"gold": [
+"BSA:157"
+],
+"new_act": "BSA"
+},
+"cur-IEA:67": {
+"task": "current",
+"old": "IEA:67",
+"gold": [
+"BSA:65"
+],
+"new_act": "BSA"
+},
+"cur-IEA:47A": {
+"task": "current",
+"old": "IEA:47A",
+"gold": [
+"BSA:41"
+],
+"new_act": "BSA"
+},
+"cur-IEA:134": {
+"task": "current",
+"old": "IEA:134",
+"gold": [
+"BSA:139"
+],
+"new_act": "BSA"
+},
+"cur-IEA:131": {
+"task": "current",
+"old": "IEA:131",
+"gold": [
+"BSA:136"
+],
+"new_act": "BSA"
+},
+"cur-IEA:140": {
+"task": "current",
+"old": "IEA:140",
+"gold": [
+"BSA:145"
+],
+"new_act": "BSA"
+},
+"cur-IEA:102": {
+"task": "current",
+"old": "IEA:102",
+"gold": [
+"BSA:105"
+],
+"new_act": "BSA"
+},
+"cur-IEA:90": {
+"task": "current",
+"old": "IEA:90",
+"gold": [
+"BSA:80",
+"BSA:92"
+],
+"new_act": "BSA"
+},
+"cur-IEA:16": {
+"task": "current",
+"old": "IEA:16",
+"gold": [
+"BSA:14"
+],
+"new_act": "BSA"
+},
+"cur-IEA:112": {
+"task": "current",
+"old": "IEA:112",
+"gold": [
+"BSA:116"
+],
+"new_act": "BSA"
+},
+"cur-IEA:121": {
+"task": "current",
+"old": "IEA:121",
+"gold": [
+"BSA:127"
+],
+"new_act": "BSA"
+},
+"cur-IEA:25": {
+"task": "current",
+"old": "IEA:25",
+"gold": [
+"BSA:23"
+],
+"new_act": "BSA"
+},
+"cur-IEA:92": {
+"task": "current",
+"old": "IEA:92",
+"gold": [
+"BSA:95"
+],
+"new_act": "BSA"
+},
+"cur-IEA:15": {
+"task": "current",
+"old": "IEA:15",
+"gold": [
+"BSA:13"
+],
+"new_act": "BSA"
+},
+"cur-IEA:151": {
+"task": "current",
+"old": "IEA:151",
+"gold": [
+"BSA:154"
+],
+"new_act": "BSA"
+},
+"cur-IEA:65B": {
+"task": "current",
+"old": "IEA:65B",
+"gold": [
+"BSA:63"
+],
+"new_act": "BSA"
+},
+"cur-IEA:160": {
+"task": "current",
+"old": "IEA:160",
+"gold": [
+"BSA:163"
+],
+"new_act": "BSA"
+},
+"cur-IEA:114A": {
+"task": "current",
+"old": "IEA:114A",
+"gold": [
+"BSA:120"
+],
+"new_act": "BSA"
+},
+"cur-IEA:132": {
+"task": "current",
+"old": "IEA:132",
+"gold": [
+"BSA:137"
+],
+"new_act": "BSA"
+},
+"cur-IEA:109": {
+"task": "current",
+"old": "IEA:109",
+"gold": [
+"BSA:112"
+],
+"new_act": "BSA"
+},
+"cur-IEA:155": {
+"task": "current",
+"old": "IEA:155",
+"gold": [
+"BSA:158"
+],
+"new_act": "BSA"
+},
+"cur-IEA:31": {
+"task": "current",
+"old": "IEA:31",
+"gold": [
+"BSA:25"
+],
+"new_act": "BSA"
+},
+"cur-IEA:116": {
+"task": "current",
+"old": "IEA:116",
+"gold": [
+"BSA:122"
+],
+"new_act": "BSA"
+},
+"cur-IEA:94": {
+"task": "current",
+"old": "IEA:94",
+"gold": [
+"BSA:97"
+],
+"new_act": "BSA"
+},
+"cur-IEA:34": {
+"task": "current",
+"old": "IEA:34",
+"gold": [
+"BSA:28"
+],
+"new_act": "BSA"
+},
+"cur-IEA:73A": {
+"task": "current",
+"old": "IEA:73A",
+"gold": [
+"BSA:73"
+],
+"new_act": "BSA"
+},
+"scn-IPC:379-0": {
+"task": "scenario",
+"old": "IPC:379",
+"gold": [
+"BNS:303"
+],
+"new_act": "BNS"
+},
+"scn-IPC:379-1": {
+"task": "scenario",
+"old": "IPC:379",
+"gold": [
+"BNS:303"
+],
+"new_act": "BNS"
+},
+"scn-IPC:420-0": {
+"task": "scenario",
+"old": "IPC:420",
+"gold": [
+"BNS:318"
+],
+"new_act": "BNS"
+},
+"scn-IPC:420-1": {
+"task": "scenario",
+"old": "IPC:420",
+"gold": [
+"BNS:318"
+],
+"new_act": "BNS"
+},
+"scn-IPC:498A-0": {
+"task": "scenario",
+"old": "IPC:498A",
+"gold": [
+"BNS:85",
+"BNS:86"
+],
+"new_act": "BNS"
+},
+"scn-IPC:498A-1": {
+"task": "scenario",
+"old": "IPC:498A",
+"gold": [
+"BNS:85",
+"BNS:86"
+],
+"new_act": "BNS"
+},
+"scn-IPC:302-0": {
+"task": "scenario",
+"old": "IPC:302",
+"gold": [
+"BNS:103"
+],
+"new_act": "BNS"
+},
+"scn-IPC:302-1": {
+"task": "scenario",
+"old": "IPC:302",
+"gold": [
+"BNS:103"
+],
+"new_act": "BNS"
+},
+"scn-IPC:307-0": {
+"task": "scenario",
+"old": "IPC:307",
+"gold": [
+"BNS:109"
+],
+"new_act": "BNS"
+},
+"scn-IPC:307-1": {
+"task": "scenario",
+"old": "IPC:307",
+"gold": [
+"BNS:109"
+],
+"new_act": "BNS"
+},
+"scn-IPC:323-0": {
+"task": "scenario",
+"old": "IPC:323",
+"gold": [
+"BNS:115"
+],
+"new_act": "BNS"
+},
+"scn-IPC:323-1": {
+"task": "scenario",
+"old": "IPC:323",
+"gold": [
+"BNS:115"
+],
+"new_act": "BNS"
+},
+"scn-IPC:325-0": {
+"task": "scenario",
+"old": "IPC:325",
+"gold": [
+"BNS:117"
+],
+"new_act": "BNS"
+},
+"scn-IPC:325-1": {
+"task": "scenario",
+"old": "IPC:325",
+"gold": [
+"BNS:117"
+],
+"new_act": "BNS"
+},
+"scn-IPC:354D-0": {
+"task": "scenario",
+"old": "IPC:354D",
+"gold": [
+"BNS:78"
+],
+"new_act": "BNS"
+},
+"scn-IPC:354D-1": {
+"task": "scenario",
+"old": "IPC:354D",
+"gold": [
+"BNS:78"
+],
+"new_act": "BNS"
+},
+"scn-IPC:354A-0": {
+"task": "scenario",
+"old": "IPC:354A",
+"gold": [
+"BNS:75"
+],
+"new_act": "BNS"
+},
+"scn-IPC:354A-1": {
+"task": "scenario",
+"old": "IPC:354A",
+"gold": [
+"BNS:75"
+],
+"new_act": "BNS"
+},
+"scn-IPC:509-0": {
+"task": "scenario",
+"old": "IPC:509",
+"gold": [
+"BNS:79"
+],
+"new_act": "BNS"
+},
+"scn-IPC:509-1": {
+"task": "scenario",
+"old": "IPC:509",
+"gold": [
+"BNS:79"
+],
+"new_act": "BNS"
+},
+"scn-IPC:506-0": {
+"task": "scenario",
+"old": "IPC:506",
+"gold": [
+"BNS:351"
+],
+"new_act": "BNS"
+},
+"scn-IPC:506-1": {
+"task": "scenario",
+"old": "IPC:506",
+"gold": [
+"BNS:351"
+],
+"new_act": "BNS"
+},
+"scn-IPC:500-0": {
+"task": "scenario",
+"old": "IPC:500",
+"gold": [
+"BNS:356"
+],
+"new_act": "BNS"
+},
+"scn-IPC:500-1": {
+"task": "scenario",
+"old": "IPC:500",
+"gold": [
+"BNS:356"
+],
+"new_act": "BNS"
+},
+"scn-IPC:406-0": {
+"task": "scenario",
+"old": "IPC:406",
+"gold": [
+"BNS:316"
+],
+"new_act": "BNS"
+},
+"scn-IPC:406-1": {
+"task": "scenario",
+"old": "IPC:406",
+"gold": [
+"BNS:316"
+],
+"new_act": "BNS"
+},
+"scn-IPC:304B-0": {
+"task": "scenario",
+"old": "IPC:304B",
+"gold": [
+"BNS:80"
+],
+"new_act": "BNS"
+},
+"scn-IPC:304B-1": {
+"task": "scenario",
+"old": "IPC:304B",
+"gold": [
+"BNS:80"
+],
+"new_act": "BNS"
+},
+"scn-IPC:306-0": {
+"task": "scenario",
+"old": "IPC:306",
+"gold": [
+"BNS:108"
+],
+"new_act": "BNS"
+},
+"scn-IPC:306-1": {
+"task": "scenario",
+"old": "IPC:306",
+"gold": [
+"BNS:108"
+],
+"new_act": "BNS"
+},
+"scn-IPC:279-0": {
+"task": "scenario",
+"old": "IPC:279",
+"gold": [
+"BNS:281"
+],
+"new_act": "BNS"
+},
+"scn-IPC:279-1": {
+"task": "scenario",
+"old": "IPC:279",
+"gold": [
+"BNS:281"
+],
+"new_act": "BNS"
+},
+"scn-IPC:304A-0": {
+"task": "scenario",
+"old": "IPC:304A",
+"gold": [
+"BNS:106"
+],
+"new_act": "BNS"
+},
+"scn-IPC:304A-1": {
+"task": "scenario",
+"old": "IPC:304A",
+"gold": [
+"BNS:106"
+],
+"new_act": "BNS"
+},
+"scn-IPC:363-0": {
+"task": "scenario",
+"old": "IPC:363",
+"gold": [
+"BNS:137"
+],
+"new_act": "BNS"
+},
+"scn-IPC:363-1": {
+"task": "scenario",
+"old": "IPC:363",
+"gold": [
+"BNS:137"
+],
+"new_act": "BNS"
+},
+"scn-IPC:384-0": {
+"task": "scenario",
+"old": "IPC:384",
+"gold": [
+"BNS:308"
+],
+"new_act": "BNS"
+},
+"scn-IPC:384-1": {
+"task": "scenario",
+"old": "IPC:384",
+"gold": [
+"BNS:308"
+],
+"new_act": "BNS"
+},
+"scn-IPC:392-0": {
+"task": "scenario",
+"old": "IPC:392",
+"gold": [
+"BNS:309"
+],
+"new_act": "BNS"
+},
+"scn-IPC:392-1": {
+"task": "scenario",
+"old": "IPC:392",
+"gold": [
+"BNS:309"
+],
+"new_act": "BNS"
+},
+"scn-IPC:411-0": {
+"task": "scenario",
+"old": "IPC:411",
+"gold": [
+"BNS:317"
+],
+"new_act": "BNS"
+},
+"scn-IPC:411-1": {
+"task": "scenario",
+"old": "IPC:411",
+"gold": [
+"BNS:317"
+],
+"new_act": "BNS"
+},
+"scn-IPC:465-0": {
+"task": "scenario",
+"old": "IPC:465",
+"gold": [
+"BNS:336"
+],
+"new_act": "BNS"
+},
+"scn-IPC:465-1": {
+"task": "scenario",
+"old": "IPC:465",
+"gold": [
+"BNS:336"
+],
+"new_act": "BNS"
+},
+"scn-IPC:427-0": {
+"task": "scenario",
+"old": "IPC:427",
+"gold": [
+"BNS:324"
+],
+"new_act": "BNS"
+},
+"scn-IPC:427-1": {
+"task": "scenario",
+"old": "IPC:427",
+"gold": [
+"BNS:324"
+],
+"new_act": "BNS"
+},
+"scn-IPC:448-0": {
+"task": "scenario",
+"old": "IPC:448",
+"gold": [
+"BNS:329"
+],
+"new_act": "BNS"
+},
+"scn-IPC:448-1": {
+"task": "scenario",
+"old": "IPC:448",
+"gold": [
+"BNS:329"
+],
+"new_act": "BNS"
+},
+"scn-IPC:354-0": {
+"task": "scenario",
+"old": "IPC:354",
+"gold": [
+"BNS:74"
+],
+"new_act": "BNS"
+},
+"scn-IPC:354-1": {
+"task": "scenario",
+"old": "IPC:354",
+"gold": [
+"BNS:74"
+],
+"new_act": "BNS"
+},
+"scn-IPC:376-0": {
+"task": "scenario",
+"old": "IPC:376",
+"gold": [
+"BNS:64",
+"BNS:65"
+],
+"new_act": "BNS"
+},
+"scn-IPC:376-1": {
+"task": "scenario",
+"old": "IPC:376",
+"gold": [
+"BNS:64",
+"BNS:65"
+],
+"new_act": "BNS"
+},
+"scn-IPC:326A-0": {
+"task": "scenario",
+"old": "IPC:326A",
+"gold": [
+"BNS:124"
+],
+"new_act": "BNS"
+},
+"scn-IPC:326A-1": {
+"task": "scenario",
+"old": "IPC:326A",
+"gold": [
+"BNS:124"
+],
+"new_act": "BNS"
+},
+"scn-IPC:147-0": {
+"task": "scenario",
+"old": "IPC:147",
+"gold": [
+"BNS:191"
+],
+"new_act": "BNS"
+},
+"scn-IPC:147-1": {
+"task": "scenario",
+"old": "IPC:147",
+"gold": [
+"BNS:191"
+],
+"new_act": "BNS"
+},
+"scn-CRPC:154-0": {
+"task": "scenario",
+"old": "CRPC:154",
+"gold": [
+"BNSS:173"
+],
+"new_act": "BNSS"
+},
+"scn-CRPC:154-1": {
+"task": "scenario",
+"old": "CRPC:154",
+"gold": [
+"BNSS:173"
+],
+"new_act": "BNSS"
+},
+"scn-CRPC:438-0": {
+"task": "scenario",
+"old": "CRPC:438",
+"gold": [
+"BNSS:482"
+],
+"new_act": "BNSS"
+},
+"scn-CRPC:438-1": {
+"task": "scenario",
+"old": "CRPC:438",
+"gold": [
+"BNSS:482"
+],
+"new_act": "BNSS"
+},
+"scn-CRPC:125-0": {
+"task": "scenario",
+"old": "CRPC:125",
+"gold": [
+"BNSS:144"
+],
+"new_act": "BNSS"
+},
+"scn-CRPC:125-1": {
+"task": "scenario",
+"old": "CRPC:125",
+"gold": [
+"BNSS:144"
+],
+"new_act": "BNSS"
+},
+"scn-CRPC:41-0": {
+"task": "scenario",
+"old": "CRPC:41",
+"gold": [
+"BNSS:35"
+],
+"new_act": "BNSS"
+},
+"scn-CRPC:41-1": {
+"task": "scenario",
+"old": "CRPC:41",
+"gold": [
+"BNSS:35"
+],
+"new_act": "BNSS"
+},
+"scn-IEA:65B-0": {
+"task": "scenario",
+"old": "IEA:65B",
+"gold": [
+"BSA:63"
+],
+"new_act": "BSA"
+},
+"scn-IEA:65B-1": {
+"task": "scenario",
+"old": "IEA:65B",
+"gold": [
+"BSA:63"
+],
+"new_act": "BSA"
+},
+"scn-IEA:32-0": {
+"task": "scenario",
+"old": "IEA:32",
+"gold": [
+"BSA:26"
+],
+"new_act": "BSA"
+},
+"scn-IEA:32-1": {
+"task": "scenario",
+"old": "IEA:32",
+"gold": [
+"BSA:26"
+],
+"new_act": "BSA"
+},
+"scn-IEA:25-0": {
+"task": "scenario",
+"old": "IEA:25",
+"gold": [
+"BSA:23"
+],
+"new_act": "BSA"
+},
+"scn-IEA:25-1": {
+"task": "scenario",
+"old": "IEA:25",
+"gold": [
+"BSA:23"
+],
+"new_act": "BSA"
+},
+"scn-CRPC:164-0": {
+"task": "scenario",
+"old": "CRPC:164",
+"gold": [
+"BNSS:183"
+],
+"new_act": "BNSS"
+},
+"scn-CRPC:164-1": {
+"task": "scenario",
+"old": "CRPC:164",
+"gold": [
+"BNSS:183"
+],
+"new_act": "BNSS"
+},
+"scn-CRPC:167-0": {
+"task": "scenario",
+"old": "CRPC:167",
+"gold": [
+"BNSS:187"
+],
+"new_act": "BNSS"
+},
+"scn-CRPC:167-1": {
+"task": "scenario",
+"old": "CRPC:167",
+"gold": [
+"BNSS:187"
+],
+"new_act": "BNSS"
+},
+"scn-CRPC:482-0": {
+"task": "scenario",
+"old": "CRPC:482",
+"gold": [
+"BNSS:528"
+],
+"new_act": "BNSS"
+},
+"scn-CRPC:482-1": {
+"task": "scenario",
+"old": "CRPC:482",
+"gold": [
+"BNSS:528"
+],
+"new_act": "BNSS"
+},
+"scn-IPC:120B-0": {
+"task": "scenario",
+"old": "IPC:120B",
+"gold": [
+"BNS:61"
+],
+"new_act": "BNS"
+},
+"scn-IPC:120B-1": {
+"task": "scenario",
+"old": "IPC:120B",
+"gold": [
+"BNS:61"
+],
+"new_act": "BNS"
+},
+"scn-IPC:34-0": {
+"task": "scenario",
+"old": "IPC:34",
+"gold": [
+"BNS:3"
+],
+"new_act": "BNS"
+},
+"scn-IPC:34-1": {
+"task": "scenario",
+"old": "IPC:34",
+"gold": [
+"BNS:3"
+],
+"new_act": "BNS"
+},
+"tmp-IPC:323-2022": {
+"task": "temporal",
+"old": "IPC:323",
+"gold": [
+"IPC:323"
+],
+"year": 2022,
+"new_act": "BNS"
+},
+"tmp-IPC:323-2025": {
+"task": "temporal",
+"old": "IPC:323",
+"gold": [
+"BNS:115"
+],
+"year": 2025,
+"new_act": "BNS"
+},
+"tmp-IPC:302-2022": {
+"task": "temporal",
+"old": "IPC:302",
+"gold": [
+"IPC:302"
+],
+"year": 2022,
+"new_act": "BNS"
+},
+"tmp-IPC:302-2025": {
+"task": "temporal",
+"old": "IPC:302",
+"gold": [
+"BNS:103"
+],
+"year": 2025,
+"new_act": "BNS"
+},
+"tmp-IPC:500-2022": {
+"task": "temporal",
+"old": "IPC:500",
+"gold": [
+"IPC:500"
+],
+"year": 2022,
+"new_act": "BNS"
+},
+"tmp-IPC:500-2025": {
+"task": "temporal",
+"old": "IPC:500",
+"gold": [
+"BNS:356"
+],
+"year": 2025,
+"new_act": "BNS"
+},
+"tmp-IPC:354A-2022": {
+"task": "temporal",
+"old": "IPC:354A",
+"gold": [
+"IPC:354A"
+],
+"year": 2022,
+"new_act": "BNS"
+},
+"tmp-IPC:354A-2025": {
+"task": "temporal",
+"old": "IPC:354A",
+"gold": [
+"BNS:75"
+],
+"year": 2025,
+"new_act": "BNS"
+},
+"tmp-IPC:376-2022": {
+"task": "temporal",
+"old": "IPC:376",
+"gold": [
+"IPC:376"
+],
+"year": 2022,
+"new_act": "BNS"
+},
+"tmp-IPC:376-2025": {
+"task": "temporal",
+"old": "IPC:376",
+"gold": [
+"BNS:64",
+"BNS:65"
+],
+"year": 2025,
+"new_act": "BNS"
+},
+"tmp-IPC:379-2022": {
+"task": "temporal",
+"old": "IPC:379",
+"gold": [
+"IPC:379"
+],
+"year": 2022,
+"new_act": "BNS"
+},
+"tmp-IPC:379-2025": {
+"task": "temporal",
+"old": "IPC:379",
+"gold": [
+"BNS:303"
+],
+"year": 2025,
+"new_act": "BNS"
+},
+"tmp-IPC:384-2022": {
+"task": "temporal",
+"old": "IPC:384",
+"gold": [
+"IPC:384"
+],
+"year": 2022,
+"new_act": "BNS"
+},
+"tmp-IPC:384-2025": {
+"task": "temporal",
+"old": "IPC:384",
+"gold": [
+"BNS:308"
+],
+"year": 2025,
+"new_act": "BNS"
+},
+"tmp-IPC:304A-2022": {
+"task": "temporal",
+"old": "IPC:304A",
+"gold": [
+"IPC:304A"
+],
+"year": 2022,
+"new_act": "BNS"
+},
+"tmp-IPC:304A-2025": {
+"task": "temporal",
+"old": "IPC:304A",
+"gold": [
+"BNS:106"
+],
+"year": 2025,
+"new_act": "BNS"
+},
+"tmp-IPC:363-2022": {
+"task": "temporal",
+"old": "IPC:363",
+"gold": [
+"IPC:363"
+],
+"year": 2022,
+"new_act": "BNS"
+},
+"tmp-IPC:363-2025": {
+"task": "temporal",
+"old": "IPC:363",
+"gold": [
+"BNS:137"
+],
+"year": 2025,
+"new_act": "BNS"
+},
+"tmp-IPC:304B-2022": {
+"task": "temporal",
+"old": "IPC:304B",
+"gold": [
+"IPC:304B"
+],
+"year": 2022,
+"new_act": "BNS"
+},
+"tmp-IPC:304B-2025": {
+"task": "temporal",
+"old": "IPC:304B",
+"gold": [
+"BNS:80"
+],
+"year": 2025,
+"new_act": "BNS"
+},
+"tmp-IPC:306-2022": {
+"task": "temporal",
+"old": "IPC:306",
+"gold": [
+"IPC:306"
+],
+"year": 2022,
+"new_act": "BNS"
+},
+"tmp-IPC:306-2025": {
+"task": "temporal",
+"old": "IPC:306",
+"gold": [
+"BNS:108"
+],
+"year": 2025,
+"new_act": "BNS"
+},
+"tmp-IPC:354D-2022": {
+"task": "temporal",
+"old": "IPC:354D",
+"gold": [
+"IPC:354D"
+],
+"year": 2022,
+"new_act": "BNS"
+},
+"tmp-IPC:354D-2025": {
+"task": "temporal",
+"old": "IPC:354D",
+"gold": [
+"BNS:78"
+],
+"year": 2025,
+"new_act": "BNS"
+},
+"tmp-IPC:420-2022": {
+"task": "temporal",
+"old": "IPC:420",
+"gold": [
+"IPC:420"
+],
+"year": 2022,
+"new_act": "BNS"
+},
+"tmp-IPC:420-2025": {
+"task": "temporal",
+"old": "IPC:420",
+"gold": [
+"BNS:318"
+],
+"year": 2025,
+"new_act": "BNS"
+},
+"tmp-IPC:307-2022": {
+"task": "temporal",
+"old": "IPC:307",
+"gold": [
+"IPC:307"
+],
+"year": 2022,
+"new_act": "BNS"
+},
+"tmp-IPC:307-2025": {
+"task": "temporal",
+"old": "IPC:307",
+"gold": [
+"BNS:109"
+],
+"year": 2025,
+"new_act": "BNS"
+},
+"tmp-IPC:147-2022": {
+"task": "temporal",
+"old": "IPC:147",
+"gold": [
+"IPC:147"
+],
+"year": 2022,
+"new_act": "BNS"
+},
+"tmp-IPC:147-2025": {
+"task": "temporal",
+"old": "IPC:147",
+"gold": [
+"BNS:191"
+],
+"year": 2025,
+"new_act": "BNS"
+},
+"tmp-IPC:427-2022": {
+"task": "temporal",
+"old": "IPC:427",
+"gold": [
+"IPC:427"
+],
+"year": 2022,
+"new_act": "BNS"
+},
+"tmp-IPC:427-2025": {
+"task": "temporal",
+"old": "IPC:427",
+"gold": [
+"BNS:324"
+],
+"year": 2025,
+"new_act": "BNS"
+},
+"tmp-IPC:326A-2022": {
+"task": "temporal",
+"old": "IPC:326A",
+"gold": [
+"IPC:326A"
+],
+"year": 2022,
+"new_act": "BNS"
+},
+"tmp-IPC:326A-2025": {
+"task": "temporal",
+"old": "IPC:326A",
+"gold": [
+"BNS:124"
+],
+"year": 2025,
+"new_act": "BNS"
+},
+"tmp-IPC:354-2022": {
+"task": "temporal",
+"old": "IPC:354",
+"gold": [
+"IPC:354"
+],
+"year": 2022,
+"new_act": "BNS"
+},
+"tmp-IPC:354-2025": {
+"task": "temporal",
+"old": "IPC:354",
+"gold": [
+"BNS:74"
+],
+"year": 2025,
+"new_act": "BNS"
+},
+"tmp-IPC:448-2022": {
+"task": "temporal",
+"old": "IPC:448",
+"gold": [
+"IPC:448"
+],
+"year": 2022,
+"new_act": "BNS"
+},
+"tmp-IPC:448-2025": {
+"task": "temporal",
+"old": "IPC:448",
+"gold": [
+"BNS:329"
+],
+"year": 2025,
+"new_act": "BNS"
+},
+"tmp-IPC:120B-2022": {
+"task": "temporal",
+"old": "IPC:120B",
+"gold": [
+"IPC:120B"
+],
+"year": 2022,
+"new_act": "BNS"
+},
+"tmp-IPC:120B-2025": {
+"task": "temporal",
+"old": "IPC:120B",
+"gold": [
+"BNS:61"
+],
+"year": 2025,
+"new_act": "BNS"
+},
+"tmp-IPC:34-2022": {
+"task": "temporal",
+"old": "IPC:34",
+"gold": [
+"IPC:34"
+],
+"year": 2022,
+"new_act": "BNS"
+},
+"tmp-IPC:34-2025": {
+"task": "temporal",
+"old": "IPC:34",
+"gold": [
+"BNS:3"
+],
+"year": 2025,
+"new_act": "BNS"
+},
+"tmp-IPC:279-2022": {
+"task": "temporal",
+"old": "IPC:279",
+"gold": [
+"IPC:279"
+],
+"year": 2022,
+"new_act": "BNS"
+},
+"tmp-IPC:279-2025": {
+"task": "temporal",
+"old": "IPC:279",
+"gold": [
+"BNS:281"
+],
+"year": 2025,
+"new_act": "BNS"
+},
+"tmp-IPC:406-2022": {
+"task": "temporal",
+"old": "IPC:406",
+"gold": [
+"IPC:406"
+],
+"year": 2022,
+"new_act": "BNS"
+},
+"tmp-IPC:406-2025": {
+"task": "temporal",
+"old": "IPC:406",
+"gold": [
+"BNS:316"
+],
+"year": 2025,
+"new_act": "BNS"
+},
+"tmp-IPC:465-2022": {
+"task": "temporal",
+"old": "IPC:465",
+"gold": [
+"IPC:465"
+],
+"year": 2022,
+"new_act": "BNS"
+},
+"tmp-IPC:465-2025": {
+"task": "temporal",
+"old": "IPC:465",
+"gold": [
+"BNS:336"
+],
+"year": 2025,
+"new_act": "BNS"
+},
+"tmp-IPC:325-2022": {
+"task": "temporal",
+"old": "IPC:325",
+"gold": [
+"IPC:325"
+],
+"year": 2022,
+"new_act": "BNS"
+},
+"tmp-IPC:325-2025": {
+"task": "temporal",
+"old": "IPC:325",
+"gold": [
+"BNS:117"
+],
+"year": 2025,
+"new_act": "BNS"
+},
+"tmp-IPC:498A-2022": {
+"task": "temporal",
+"old": "IPC:498A",
+"gold": [
+"IPC:498A"
+],
+"year": 2022,
+"new_act": "BNS"
+},
+"tmp-IPC:498A-2025": {
+"task": "temporal",
+"old": "IPC:498A",
+"gold": [
+"BNS:85",
+"BNS:86"
+],
+"year": 2025,
+"new_act": "BNS"
+},
+"tmp-IPC:411-2022": {
+"task": "temporal",
+"old": "IPC:411",
+"gold": [
+"IPC:411"
+],
+"year": 2022,
+"new_act": "BNS"
+},
+"tmp-IPC:411-2025": {
+"task": "temporal",
+"old": "IPC:411",
+"gold": [
+"BNS:317"
+],
+"year": 2025,
+"new_act": "BNS"
+},
+"tmp-IPC:392-2022": {
+"task": "temporal",
+"old": "IPC:392",
+"gold": [
+"IPC:392"
+],
+"year": 2022,
+"new_act": "BNS"
+},
+"tmp-IPC:392-2025": {
+"task": "temporal",
+"old": "IPC:392",
+"gold": [
+"BNS:309"
+],
+"year": 2025,
+"new_act": "BNS"
+},
+"tmp-IPC:506-2022": {
+"task": "temporal",
+"old": "IPC:506",
+"gold": [
+"IPC:506"
+],
+"year": 2022,
+"new_act": "BNS"
+},
+"tmp-IPC:506-2025": {
+"task": "temporal",
+"old": "IPC:506",
+"gold": [
+"BNS:351"
+],
+"year": 2025,
+"new_act": "BNS"
+},
+"tmp-IPC:509-2022": {
+"task": "temporal",
+"old": "IPC:509",
+"gold": [
+"IPC:509"
+],
+"year": 2022,
+"new_act": "BNS"
+},
+"tmp-IPC:509-2025": {
+"task": "temporal",
+"old": "IPC:509",
+"gold": [
+"BNS:79"
+],
+"year": 2025,
+"new_act": "BNS"
+}
+}

@@ -1,0 +1,740 @@
+{"id": "conv-IPC:319", "output": "319"}
+{"id": "conv-IPC:9", "output": "137"}
+{"id": "conv-IPC:375", "output": "375"}
+{"id": "conv-IPC:51", "output": "52"}
+{"id": "conv-IPC:45", "output": "45"}
+{"id": "conv-IPC:378", "output": "378"}
+{"id": "conv-IPC:46", "output": "46"}
+{"id": "conv-IPC:19", "output": "19"}
+{"id": "conv-IPC:48", "output": "48"}
+{"id": "conv-IPC:108", "output": "108"}
+{"id": "conv-IPC:351", "output": "351"}
+{"id": "conv-IPC:12", "output": "12"}
+{"id": "conv-IPC:146", "output": "146"}
+{"id": "conv-IPC:29", "output": "187"}
+{"id": "conv-IPC:354D", "output": "354D"}
+{"id": "conv-IPC:42", "output": "42"}
+{"id": "conv-IPC:143", "output": "143"}
+{"id": "conv-IPC:17", "output": "17"}
+{"id": "conv-IPC:304B", "output": "304B"}
+{"id": "conv-IPC:24", "output": "24"}
+{"id": "conv-IPC:39", "output": "39"}
+{"id": "conv-IPC:479", "output": "487"}
+{"id": "conv-IPC:320", "output": "320"}
+{"id": "conv-IPC:442", "output": "442"}
+{"id": "conv-IPC:33", "output": "33"}
+{"id": "conv-IPC:22", "output": "182"}
+{"id": "conv-IPC:26", "output": "26"}
+{"id": "conv-IPC:376", "output": "376"}
+{"id": "conv-IPC:191", "output": "196"}
+{"id": "conv-IPC:294", "output": "294"}
+{"id": "conv-IPC:443", "output": "443"}
+{"id": "conv-IPC:465", "output": "465"}
+{"id": "conv-IPC:392", "output": "392"}
+{"id": "conv-IEA:133", "output": "133"}
+{"id": "conv-IPC:294A", "output": "294"}
+{"id": "conv-IPC:405", "output": "48"}
+{"id": "conv-IPC:280", "output": "280"}
+{"id": "conv-IPC:393", "output": "393"}
+{"id": "conv-IPC:171D", "output": "171D"}
+{"id": "conv-IPC:374", "output": "374"}
+{"id": "conv-IPC:364A", "output": "364A"}
+{"id": "conv-IEA:74", "output": "74"}
+{"id": "conv-IPC:304A", "output": "304A"}
+{"id": "conv-IPC:170", "output": "187"}
+{"id": "conv-IPC:80", "output": "82"}
+{"id": "conv-IPC:193", "output": "193"}
+{"id": "conv-IEA:159", "output": "159"}
+{"id": "conv-IEA:63", "output": "63"}
+{"id": "conv-IEA:141", "output": "141"}
+{"id": "conv-IPC:271", "output": "271"}
+{"id": "conv-IPC:54", "output": "54"}
+{"id": "conv-IPC:196", "output": "196"}
+{"id": "conv-IPC:7", "output": "103"}
+{"id": "conv-IPC:160", "output": "160"}
+{"id": "conv-IEA:137", "output": "137"}
+{"id": "conv-IPC:341", "output": "36"}
+{"id": "conv-IPC:263A", "output": "263"}
+{"id": "conv-IPC:77", "output": "103"}
+{"id": "conv-IPC:229", "output": "229"}
+{"id": "conv-IPC:278", "output": "278"}
+{"id": "conv-IPC:361", "output": "361"}
+{"id": "conv-IEA:162", "output": "162"}
+{"id": "conv-IPC:258", "output": "258"}
+{"id": "conv-IPC:237", "output": "237"}
+{"id": "conv-IPC:370A", "output": "370A"}
+{"id": "conv-IPC:506", "output": "506"}
+{"id": "conv-IPC:411", "output": "48"}
+{"id": "conv-IPC:403", "output": "48"}
+{"id": "conv-IPC:419", "output": "423"}
+{"id": "conv-IPC:166B", "output": "166"}
+{"id": "conv-IPC:505", "output": "505"}
+{"id": "conv-IEA:142", "output": "142"}
+{"id": "conv-IPC:289", "output": "289"}
+{"id": "conv-IEA:66", "output": "66"}
+{"id": "conv-IPC:469", "output": "469"}
+{"id": "conv-IPC:5", "output": "103"}
+{"id": "conv-IEA:55", "output": "56"}
+{"id": "conv-IPC:364", "output": "364"}
+{"id": "conv-IEA:122", "output": "122"}
+{"id": "conv-IPC:287", "output": "287"}
+{"id": "conv-IPC:401", "output": "401"}
+{"id": "conv-IPC:414", "output": "48"}
+{"id": "conv-IPC:400", "output": "47"}
+{"id": "conv-IPC:402", "output": "48"}
+{"id": "conv-IPC:408", "output": "48"}
+{"id": "conv-IEA:51", "output": "51"}
+{"id": "conv-IPC:198", "output": "198"}
+{"id": "conv-IPC:208", "output": "208"}
+{"id": "conv-IEA:151", "output": "151"}
+{"id": "conv-IPC:166A", "output": "166"}
+{"id": "conv-IPC:245", "output": "233"}
+{"id": "conv-IPC:484", "output": "484"}
+{"id": "conv-IPC:195A", "output": "195"}
+{"id": "conv-IPC:372", "output": "372"}
+{"id": "conv-IPC:272", "output": "283"}
+{"id": "conv-IPC:64", "output": "103"}
+{"id": "conv-IEA:76", "output": "76"}
+{"id": "conv-IPC:335", "output": "335"}
+{"id": "conv-IPC:325", "output": "325"}
+{"id": "conv-IPC:32", "output": "32"}
+{"id": "conv-IPC:171H", "output": "173"}
+{"id": "conv-IEA:154", "output": "154"}
+{"id": "conv-IPC:227", "output": "227"}
+{"id": "conv-IPC:259", "output": "259"}
+{"id": "conv-IEA:69", "output": "69"}
+{"id": "conv-IEA:46", "output": "46"}
+{"id": "conv-IPC:211", "output": "223"}
+{"id": "conv-IPC:144", "output": "144"}
+{"id": "conv-IEA:125", "output": "125"}
+{"id": "conv-IPC:284", "output": "284"}
+{"id": "conv-IPC:200", "output": "200"}
+{"id": "conv-IPC:134", "output": "134"}
+{"id": "conv-IPC:153", "output": "153"}
+{"id": "conv-IPC:466", "output": "466"}
+{"id": "conv-IPC:130", "output": "139"}
+{"id": "conv-IPC:471", "output": "486"}
+{"id": "conv-IPC:155", "output": "155"}
+{"id": "conv-IPC:213", "output": "223"}
+{"id": "conv-IPC:158", "output": "158"}
+{"id": "conv-IPC:188", "output": "188"}
+{"id": "conv-IPC:304", "output": "323"}
+{"id": "conv-IPC:121A", "output": "121A"}
+{"id": "conv-IPC:461", "output": "461"}
+{"id": "conv-IPC:489", "output": "489"}
+{"id": "conv-IPC:283", "output": "283"}
+{"id": "conv-IPC:314", "output": "323"}
+{"id": "conv-IEA:73A", "output": "73"}
+{"id": "conv-IEA:31", "output": "31"}
+{"id": "conv-IPC:172", "output": "182"}
+{"id": "conv-CRPC:484", "output": "48"}
+{"id": "conv-CRPC:272", "output": "129"}
+{"id": "conv-CRPC:472", "output": "48"}
+{"id": "conv-IEA:81A", "output": "81"}
+{"id": "conv-IPC:186", "output": "186"}
+{"id": "conv-IPC:431", "output": "431"}
+{"id": "conv-IPC:174", "output": "186"}
+{"id": "conv-IPC:285", "output": "285"}
+{"id": "conv-IPC:101", "output": "103"}
+{"id": "conv-IPC:129", "output": "129"}
+{"id": "conv-CRPC:20", "output": "109"}
+{"id": "conv-IEA:49", "output": "49"}
+{"id": "conv-IEA:36", "output": "36"}
+{"id": "conv-IPC:381", "output": "381"}
+{"id": "conv-IPC:250", "output": "250"}
+{"id": "conv-IPC:171F", "output": "171F"}
+{"id": "conv-IPC:332", "output": "332"}
+{"id": "conv-CRPC:260", "output": "127"}
+{"id": "conv-CRPC:265F", "output": "265F"}
+{"id": "conv-CRPC:412", "output": "48"}
+{"id": "conv-CRPC:198B", "output": "198"}
+{"id": "conv-CRPC:216", "output": "169"}
+{"id": "conv-IPC:154", "output": "154"}
+{"id": "conv-IPC:91", "output": "103"}
+{"id": "conv-CRPC:255", "output": "255"}
+{"id": "conv-CRPC:275", "output": "129"}
+{"id": "conv-IEA:72", "output": "72"}
+{"id": "conv-CRPC:51", "output": "51"}
+{"id": "conv-IPC:397", "output": "397"}
+{"id": "conv-CRPC:178", "output": "178"}
+{"id": "conv-IPC:398", "output": "398"}
+{"id": "conv-IPC:502", "output": "502"}
+{"id": "conv-CRPC:462", "output": "46"}
+{"id": "conv-IPC:366", "output": "366"}
+{"id": "conv-IPC:152", "output": "152"}
+{"id": "conv-IPC:491", "output": "48"}
+{"id": "conv-CRPC:33", "output": "103"}
+{"id": "conv-CRPC:238", "output": "103"}
+{"id": "conv-CRPC:378", "output": "129"}
+{"id": "conv-IPC:150", "output": "150"}
+{"id": "conv-IPC:498A", "output": "498A"}
+{"id": "conv-IPC:251", "output": "251"}
+{"id": "conv-CRPC:66", "output": "106"}
+{"id": "conv-CRPC:313", "output": "129"}
+{"id": "conv-CRPC:386", "output": "126"}
+{"id": "conv-CRPC:287", "output": "103"}
+{"id": "conv-IEA:80", "output": "80"}
+{"id": "conv-IPC:187", "output": "187"}
+{"id": "conv-CRPC:364", "output": "364"}
+{"id": "conv-CRPC:277", "output": "129"}
+{"id": "conv-CRPC:59", "output": "59"}
+{"id": "conv-IPC:333", "output": "333"}
+{"id": "conv-CRPC:285", "output": "103"}
+{"id": "conv-IEA:99", "output": "99"}
+{"id": "conv-IPC:240", "output": "233"}
+{"id": "conv-IPC:117", "output": "103"}
+{"id": "conv-IPC:328", "output": "328"}
+{"id": "conv-IPC:137", "output": "137"}
+{"id": "conv-CRPC:202", "output": "199"}
+{"id": "conv-CRPC:383", "output": "38"}
+{"id": "conv-CRPC:239", "output": "169"}
+{"id": "conv-IEA:52", "output": "52"}
+{"id": "conv-IEA:41", "output": "41"}
+{"id": "conv-IPC:422", "output": "422"}
+{"id": "conv-IPC:485", "output": "485"}
+{"id": "conv-CRPC:264", "output": "264"}
+{"id": "conv-IPC:199", "output": "199"}
+{"id": "conv-CRPC:116", "output": "106"}
+{"id": "conv-CRPC:99", "output": "103"}
+{"id": "conv-CRPC:105E", "output": "105"}
+{"id": "conv-CRPC:470", "output": "47"}
+{"id": "conv-CRPC:84", "output": "84"}
+{"id": "conv-IEA:160", "output": "160"}
+{"id": "conv-IPC:462", "output": "462"}
+{"id": "conv-IPC:67", "output": "103"}
+{"id": "conv-IPC:409", "output": "48"}
+{"id": "conv-CRPC:235", "output": "169"}
+{"id": "conv-IEA:10", "output": "10"}
+{"id": "conv-IEA:65A", "output": "66"}
+{"id": "conv-IEA:89", "output": "89"}
+{"id": "conv-IPC:352", "output": "352"}
+{"id": "conv-IPC:353", "output": "353"}
+{"id": "conv-CRPC:440", "output": "44"}
+{"id": "conv-CRPC:136", "output": "136"}
+{"id": "conv-CRPC:251", "output": "125"}
+{"id": "conv-CRPC:36", "output": "36"}
+{"id": "conv-CRPC:291A", "output": "129"}
+{"id": "conv-IPC:365", "output": "365"}
+{"id": "conv-IPC:202", "output": "202"}
+{"id": "conv-IPC:112", "output": "102"}
+{"id": "conv-CRPC:124", "output": "129"}
+{"id": "conv-CRPC:60", "output": "103"}
+{"id": "conv-CRPC:97", "output": "103"}
+{"id": "conv-CRPC:191", "output": "191"}
+{"id": "conv-CRPC:256", "output": "169"}
+{"id": "conv-CRPC:105J", "output": "105"}
+{"id": "conv-CRPC:89", "output": "109"}
+{"id": "conv-IEA:15", "output": "15"}
+{"id": "conv-IEA:163", "output": "163"}
+{"id": "conv-IPC:459", "output": "46"}
+{"id": "conv-CRPC:152", "output": "152"}
+{"id": "conv-IPC:183", "output": "183"}
+{"id": "conv-CRPC:212", "output": "169"}
+{"id": "conv-IPC:433", "output": "433"}
+{"id": "conv-IPC:367", "output": "367"}
+{"id": "conv-CRPC:14", "output": "14"}
+{"id": "conv-IPC:369", "output": "369"}
+{"id": "conv-IPC:88", "output": "102"}
+{"id": "conv-CRPC:258", "output": "126"}
+{"id": "conv-CRPC:270", "output": "270"}
+{"id": "conv-CRPC:390", "output": "167"}
+{"id": "conv-CRPC:273", "output": "169"}
+{"id": "conv-CRPC:413", "output": "48"}
+{"id": "conv-CRPC:37", "output": "37"}
+{"id": "conv-IPC:185", "output": "185"}
+{"id": "conv-IPC:126", "output": "126"}
+{"id": "conv-IPC:356", "output": "356"}
+{"id": "conv-CRPC:457", "output": "45"}
+{"id": "conv-IPC:432", "output": "432"}
+{"id": "conv-IEA:164", "output": "164"}
+{"id": "conv-IEA:21", "output": "12"}
+{"id": "conv-CRPC:112", "output": "106"}
+{"id": "conv-IEA:19", "output": "19"}
+{"id": "conv-IPC:79", "output": "103"}
+{"id": "conv-IPC:89", "output": "103"}
+{"id": "conv-CRPC:100", "output": "100"}
+{"id": "conv-CRPC:456", "output": "45"}
+{"id": "conv-CRPC:407", "output": "48"}
+{"id": "conv-CRPC:102", "output": "102"}
+{"id": "conv-IEA:150", "output": "150"}
+{"id": "conv-CRPC:237", "output": "129"}
+{"id": "conv-IEA:43", "output": "43"}
+{"id": "conv-IPC:437", "output": "437"}
+{"id": "conv-IPC:317", "output": "323"}
+{"id": "conv-CRPC:113", "output": "106"}
+{"id": "conv-IEA:44", "output": "44"}
+{"id": "conv-IPC:235", "output": "235"}
+{"id": "conv-IPC:355", "output": "367"}
+{"id": "conv-IPC:253", "output": "253"}
+{"id": "conv-IPC:35", "output": "35"}
+{"id": "conv-CRPC:87", "output": "103"}
+{"id": "conv-CRPC:28", "output": "109"}
+{"id": "conv-IPC:423", "output": "423"}
+{"id": "conv-IPC:249", "output": "236"}
+{"id": "conv-CRPC:146", "output": "106"}
+{"id": "conv-IPC:75", "output": "103"}
+{"id": "conv-CRPC:311", "output": "169"}
+{"id": "conv-IPC:429", "output": "429"}
+{"id": "conv-IPC:244", "output": "233"}
+{"id": "conv-IPC:242", "output": "232"}
+{"id": "conv-CRPC:439", "output": "103"}
+{"id": "conv-IPC:511", "output": "51"}
+{"id": "conv-IPC:495", "output": "123"}
+{"id": "conv-IPC:72", "output": "102"}
+{"id": "conv-CRPC:468", "output": "46"}
+{"id": "conv-IPC:457", "output": "457"}
+{"id": "conv-IPC:382", "output": "382"}
+{"id": "conv-IPC:489D", "output": "489D"}
+{"id": "conv-IPC:458", "output": "458"}
+{"id": "conv-CRPC:201", "output": "103"}
+{"id": "conv-CRPC:366", "output": "366"}
+{"id": "conv-CRPC:389", "output": "389"}
+{"id": "conv-CRPC:337", "output": "103"}
+{"id": "conv-CRPC:367", "output": "36"}
+{"id": "conv-CRPC:475", "output": "48"}
+{"id": "conv-CRPC:53", "output": "53"}
+{"id": "conv-CRPC:187", "output": "187"}
+{"id": "conv-CRPC:56", "output": "56"}
+{"id": "conv-IPC:222", "output": "222"}
+{"id": "conv-CRPC:186", "output": "186"}
+{"id": "conv-IPC:476", "output": "486"}
+{"id": "cur-IPC:375", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**, and the specific provision for **Rape** under it is:\n\n**Section"}
+{"id": "cur-IPC:51", "output": "The concept of \"Oath\" in the context of Indian criminal law is addressed under **The Indian Evidence Act**, **Section 109**. \n\n**Act**: Indian Evidence Act  \n**"}
+{"id": "cur-IPC:159", "output": "The concept of \"Affray\" in Indian criminal law is addressed under **Section 124 of the Indian Penal Code (IPC)**. \n\n**Act**: Indian Penal Code (IPC)  \n"}
+{"id": "cur-IPC:9", "output": "The term \"Number\" is not directly addressed in any specific section of the Indian Criminal Law as it stands since 1 July 2024. The Indian Criminal Law is primarily governed by the"}
+{"id": "cur-CRPC:5", "output": "The concept of \"saving\" in the context of criminal law typically relates to **Section 102 of the Indian Penal Code (IPC)**. This section deals with **\"Saving\"** in"}
+{"id": "cur-IPC:46", "output": "The Indian Constitution defines \"death\" in the context of criminal law, and it is specified in **The Indian Penal Code (Indian Criminal Code)**, **Section 39**.\n\n**Act**:"}
+{"id": "cur-IPC:390", "output": "The Indian Criminal Law that applies from 1 July 2024 is the **Indian Penal Code (IPC)**, and the relevant provision for \"Robbery\" is:\n\n**Act: Indian"}
+{"id": "cur-IPC:171B", "output": "The Indian Criminal Law that deals with \"Bribery\" is governed by **Section 154 of the Indian Penal Code (Indian Criminal Law, 1973)**. \n\n**"}
+{"id": "cur-IPC:19", "output": "The term \"Judge\" is dealt with in **The Indian Evidence Act**, **Section 124**."}
+{"id": "cur-IPC:425", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant section dealing with \"Mischief\" is:\n\n**Indian Penal"}
+{"id": "cur-IPC:354D", "output": "The concept of \"stalking\" under Indian criminal law is addressed in **Section 395 of the Indian Penal Code (IPC)**. This section deals with the crime of **\"stalking"}
+{"id": "cur-IPC:11", "output": "The term \"Person\" in the context of Indian criminal law is addressed in **Section 138** of the **Indian Penal Code (Indian Criminal Code)**. \n\nThis section deals with **"}
+{"id": "cur-IPC:31", "output": "The Indian Criminal Law that applies from 1 July 2024 is the **Indian Penal Code (IPC)**, and the relevant provision for \"A will\" is found in **Section "}
+{"id": "cur-IPC:362", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant provision dealing with \"Abduction\" is:\n\n**Indian Penal Code"}
+{"id": "cur-IPC:376D", "output": "The Indian Criminal Law that deals with \"Gang Rape\" is governed by **Section 376A** of the **Indian Penal Code (IPC)**.\n\n**Act:** Indian Penal Code ("}
+{"id": "cur-IPC:40", "output": "The Indian Criminal Law, under the **Indian Penal Code (IPC)**, deals with the concept of \"Offence\" in **Section 2**. \n\n**Act**: Indian Penal Code (IPC"}
+{"id": "cur-CRPC:126", "output": "The concept of \"Procedure\" in the context of criminal law is typically addressed in the **Indian Evidence Act**, **Section 104**. This section deals with the **prosecution**"}
+{"id": "cur-IPC:359", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant provision for \"Kidnapping\" under the Indian Penal Code is"}
+{"id": "cur-IPC:143", "output": "The Indian Criminal Law, as in force since 1 July 2024, deals with 'Punishment' under **The Criminal Law Act, 1973**, specifically in"}
+{"id": "cur-IPC:304B", "output": "The Indian legal system does not have a specific section that directly addresses \"Dowry Death\" in the traditional sense. However, the concept of **Dowry Death** is covered under **Section"}
+{"id": "cur-IPC:320", "output": "The Indian Criminal Law that applies from 1 July 2024 deals with \"Grievous Hurt\" under **The Indian Penal Code (IPC)**, **Section 399"}
+{"id": "cur-IPC:39", "output": "The term \"voluntarily\" in the context of Indian criminal law is addressed in **Section 124** of the **Indian Penal Code (Indian Criminal Code)**, which deals with **"}
+{"id": "cur-IPC:350", "output": "The Indian Criminal Law, under the **Indian Penal Code (IPC)**, deals with the concept of \"criminal force\" in **Section 124**.\n\n**Act**: Indian Penal Code ("}
+{"id": "cur-IPC:25", "output": "The term \"fraudulently\" is addressed in **Section 138** of the **Indian Penal Code (Indian Criminal Law)**, which deals with **fraud** in the context"}
+{"id": "cur-IPC:410", "output": "The Indian Criminal Law that deals with \"stolen property\" is governed by **Section 407 of the Indian Penal Code (IPC)**. \n\n**Act**: Indian Penal Code (IPC)"}
+{"id": "cur-IPC:470", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant section for \"forged document\" is:\n\n**Indian Penal Code"}
+{"id": "cur-IPC:21", "output": "The term \"Public Servant\" is dealt with in **The Indian Penal Code (IPC)**, **Section 124**."}
+{"id": "cur-CRPC:204", "output": "The Indian Criminal Law, as in force since 1 July 2024, deals with the issue of a 'process' under **The Indian Penal Code (IPC)**, **Section "}
+{"id": "cur-IPC:307", "output": "Assassination Act, Section 124"}
+{"id": "cur-IPC:22", "output": "The concept of \"Movable Property\" is dealt with in **Section 1(1)** of **The Transfer of Property Act, 1882**.\n\nHowever, in India, the"}
+{"id": "cur-IPC:20", "output": "The term \"Court of Justice\" is not explicitly mentioned in any section of the Indian Criminal Law as it stands since 1 July 2024. The Indian Criminal Law is primarily governed by"}
+{"id": "cur-CRPC:484", "output": "The Indian Criminal Law that applies from 1 July 2024 is the **Indian Penal Code (IPC)**, and the relevant provision dealing with **\"Repeal and savings\"**"}
+{"id": "cur-IPC:212", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant section dealing with \"Harbouring an offender\" is:\n\n**"}
+{"id": "cur-IPC:396", "output": "The Indian Criminal Law that deals with 'Dacoity with murder' is **Indian Penal Code (IPC)**, and the relevant section is **Section 379**.\n\n**Act:** Indian"}
+{"id": "cur-IEA:134", "output": "The concept of \"number of witnesses\" is not directly addressed in any specific section of the Indian Criminal Code. However, the relevant provision is found in **Section 152 of the Indian Evidence"}
+{"id": "cur-IPC:340", "output": "The concept of \"wrongful confinement\" is addressed in **Section 438 of the Indian Penal Code (IPC)**. This section deals with the crime of **wrongful confinement** and is"}
+{"id": "cur-IPC:73", "output": "The concept of \"solitary confinement\" is not explicitly addressed in any section of the Indian Criminal Code (CrPC) as it is not a recognized legal term or a provision in the existing statutes."}
+{"id": "cur-CRPC:265E", "output": "The Indian Criminal Law that applies from 1 July 2024 is the **Indian Penal Code (IPC)**, and the relevant provision dealing with \"Disposal of the case\" is:\n\n"}
+{"id": "cur-CRPC:34", "output": "The concept of \"withdrawal of powers\" is not explicitly addressed in any section of the Indian Criminal Law as it stands since 1 July 2024. The Indian Criminal Law is primarily"}
+{"id": "cur-CRPC:283", "output": "The Indian Criminal Law that applies from 1 July 2024 is the **Indian Penal Code (IPC)**, and the relevant provision is **Section 377**.\n\n**Act"}
+{"id": "cur-IPC:360", "output": "The Indian Criminal Law that deals with \"Kidnapping from India\" is **The Indian Penal Code (IPC)**, and the relevant section is **Section 392**."}
+{"id": "cur-IPC:370", "output": "The Indian Criminal Law that deals with the trafficking of a person is governed by **The Indian Penal Code (IPC)**, and the relevant section is **Section 367**. \n\n**Act"}
+{"id": "cur-IEA:140", "output": "There is no specific provision in the Indian Criminal Code that deals with \"Witnesses to character.\" The concept of \"Witnesses to character\" is not a formal legal term in the Indian legal system,"}
+{"id": "cur-IEA:121", "output": "The Indian Constitution does not have a specific provision that deals with \"Judges and Magistrates\" in the form of a single section. However, the role of judges and magistrates is addressed in the"}
+{"id": "cur-IPC:464", "output": "The Indian Criminal Law that deals with the offense of \"Making a false document\" is **Indian Penal Code (IPC)**, and the relevant section is **Section 119**. \n\n**"}
+{"id": "cur-IPC:417", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant provision dealing with \"cheating\" is:\n\n**Indian Penal Code"}
+{"id": "cur-CRPC:395", "output": "The reference to the High Court in Indian criminal law is dealt with under **The Code of Criminal Procedure (CrPC)**, **Section 292**."}
+{"id": "cur-CRPC:320", "output": "The compounding of offences in India is dealt with under **Explanation to Section 162 of the Indian Penal Code (IPC)**, effective from 1 July 2024.\n\n**"}
+{"id": "cur-IPC:405", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant provision dealing with \"Criminal Breach of Trust\" is:\n\n"}
+{"id": "cur-IPC:393", "output": "The Indian Criminal Law that applies from 1 July 2024 deals with \"Attempt to commit robbery\" under **Explanation to Section 39 of the Indian Penal Code (IPC)**.\n\n"}
+{"id": "cur-CRPC:51", "output": "The correct answer is: **The Indian Penal Code (IPC), Section 407**.\n\nThis section deals with the **search of an arrested person** under Indian criminal law."}
+{"id": "cur-IPC:374", "output": "The Indian Constitution does not provide for \"unlawful compulsory labour\" in the legal framework. However, under the **Indian Penal Code (IPC)**, **Section 407** deals with"}
+{"id": "cur-IPC:180", "output": "The Indian Criminal Law that applies from 1 July 2024 deals with the offence of \"Refusing to Sign a Statement\" under **Indian Evidence Act, 1872**,"}
+{"id": "cur-IPC:481", "output": "The Indian Criminal Law that deals with the offense of \"Using a false property mark\" is **The Indian Penal Code (Indian Criminal Law)**, and the relevant section is **Section 426"}
+{"id": "cur-IPC:177", "output": "Indian Criminal Law does not explicitly address \"furnishing false information\" in a single section of a specific Act. However, the concept is covered under **Section 154 of the Indian Penal"}
+{"id": "cur-CRPC:229", "output": "The Indian Criminal Law that applies from 1 July 2024 is the **Indian Penal Code (IPC)**, and the relevant section is **Section 379**.\n\n**Act"}
+{"id": "cur-IEA:102", "output": "The burden of proof in Indian criminal law is addressed in **Evidence Act, Section 104**."}
+{"id": "cur-IEA:155", "output": "The question of \"impeaching the credit of a witness\" is addressed in **Section 192 of the Indian Evidence Act, 1963**.\n\n**Act:** Indian Evidence"}
+{"id": "cur-IPC:448", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant provision for \"Punishment for house-trespass\" is"}
+{"id": "cur-IPC:74", "output": "The limit of solitary confinement under Indian criminal law is addressed in **Section 39 of the Indian Penal Code (Indian Criminal Code), 1860**.\n\n**Act:** Indian Penal Code"}
+{"id": "cur-IPC:193", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant provision dealing with \"false evidence\" is:\n\n**Indian Penal Code"}
+{"id": "cur-CRPC:436", "output": "The question \"In what cases bail to be taken\" is addressed under **Section 438 of the Indian Penal Code (IPC)**. \n\n**Act:** Indian Penal Code (IPC)  \n"}
+{"id": "cur-CRPC:265L", "output": "The concept of \"Non-application of the Chapter\" is not a section or provision in any Indian criminal law act as it is not a recognized legal term in the Indian legal system. The term may be"}
+{"id": "cur-CRPC:420", "output": "The question \"Warrant with whom to be lodged\" relates to the **Indian Penal Code (Indian Criminal Code)**, specifically **Section 154**.\n\n**Act:** Indian Penal Code  \n"}
+{"id": "cur-IEA:122", "output": "The Indian Criminal Law that deals with \"Communications during marriage\" is governed by **The Indian Penal Code (Indian Criminal Law)**, and the relevant section is **Section 499**."}
+{"id": "cur-IPC:84", "output": "The question of \"act of a person of unsound mind\" is addressed in **Section 124** of the **Indian Penal Code (Indian Criminal Code)**, **Section 12"}
+{"id": "cur-IPC:376E", "output": "The Indian Criminal Law that applies from 1 July 2024 is the **Indian Penal Code (IPC)**, and the relevant provision dealing with punishment for repeat offenders is:\n\n**Indian Penal"}
+{"id": "cur-IPC:57", "output": "The concept of \"fractions of terms of punishment\" is addressed in **Section 37 of the Indian Penal Code (Indian Law)**. \n\n**Act:** Indian Penal Code  \n**Section Number"}
+{"id": "cur-CRPC:307", "output": "The question of \"power to direct tender of pardon\" is addressed in **The President of India, Constitution (42nd Amendment) and the Constitution (99th Amendment)**, but in the"}
+{"id": "cur-IPC:148", "output": "The Indian Criminal Law that deals with \"Rioting, armed with deadly weapon\" is under the **Indian Penal Code (IPC)**, and the relevant section is **Section 124**"}
+{"id": "cur-IPC:171I", "output": "The failure to keep election accounts is dealt with under **The Representation of the People Act, 1951**, specifically in **Section 124**."}
+{"id": "cur-IPC:120A", "output": "The definition of \"criminal conspiracy\" in Indian criminal law is found in **Explanation to Section 124** of the **Indian Penal Code (Indian Criminal Code)**, which is part of the"}
+{"id": "cur-CRPC:88", "output": "The question \"Power to take bond for appearance\" is addressed in **Section 399 of the Indian Penal Code (IPC)**. \n\n**Act:** Indian Penal Code (IPC)  \n**"}
+{"id": "cur-IEA:151", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant section dealing with \"Indecent and scandalous questions\" is"}
+{"id": "cur-IPC:7", "output": "The concept of \"Sense of expression once explained\" is not a section in any Indian criminal law act as it is not a recognized legal term or provision in the Indian legal system. The term may be"}
+{"id": "cur-IPC:229", "output": "73rd Amendment Act, Section 122"}
+{"id": "cur-CRPC:161", "output": "The question of \"Examination of witnesses by police\" is addressed in **Section 162** of the **Indian Evidence Act, 1872**.\n\n**Act:** Indian Evidence"}
+{"id": "cur-CRPC:419", "output": "The question \"Direction of warrant for execution\" relates to **Section 12** of the **Criminal Procedure Code (CrPC)**, which deals with the direction of the warrant for execution."}
+{"id": "cur-CRPC:399", "output": "The Indian Criminal Law, under the **Indian Penal Code (IPC)**, deals with the powers of a **Sessions Judge** in relation to **revision**. Specifically, **Section 124"}
+{"id": "cur-IEA:65B", "output": "The admissibility of electronic records under Indian criminal law is addressed in **Information Technology Act, 2000**, specifically in **Section 152**. \n\n**Act:** Information"}
+{"id": "cur-IPC:258", "output": "The sale of counterfeit Government stamp under Indian criminal law is dealt with in:\n\n**Indian Penal Code (IPC)**, **Section 423**."}
+{"id": "cur-IPC:506", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant provision for \"Punishment for criminal intimidation\" is found in"}
+{"id": "cur-CRPC:136", "output": "The Indian Criminal Law, under the **Indian Penal Code (IPC)**, deals with the consequences of failing to comply with legal obligations. Specifically, **Section 378** of the Indian Penal"}
+{"id": "cur-CRPC:75", "output": "The question regarding the \"Notification of substance of warrant\" under Indian criminal law is not directly addressed by any section of the **Indian Penal Code (IPC)** or other major criminal law acts as of "}
+{"id": "cur-IEA:154", "output": "The question \"Question by party to his own witness\" is addressed in **Section 162** of the **Indian Evidence Act, 1872**.\n\n**Act:** Indian Evidence"}
+{"id": "cur-CRPC:274", "output": "The Indian Criminal Law that applies from 1 July 2024 is the **Indian Penal Code (IPC)**, and the relevant provision dealing with \"Record in summons-cases and inquiries\""}
+{"id": "cur-CRPC:105J", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant section that deals with \"Certain transfers to be null and void\""}
+{"id": "cur-CRPC:92", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant provision dealing with \"Procedure as to letters and telegrams\" is"}
+{"id": "cur-IEA:103", "output": "The concept of \"burden of proof\" is addressed in **Evidence Act**, **Section 192**."}
+{"id": "cur-IPC:419", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant section for \"Punishment for cheating by personation\" is"}
+{"id": "cur-IPC:209", "output": "The Indian Criminal Law that deals with the offense of \"Dishonesty making false claim in Court\" is **The Indian Penal Code (IPC)**, and the relevant section is **Section 4"}
+{"id": "cur-IPC:171A", "output": "Indian Constitution, Article 323(1)"}
+{"id": "cur-IPC:166B", "output": "The question \"Punishment for non-treatment of victim\" relates to **Section 394** of the **Indian Penal Code (Indian Criminal Law)**, which deals with **abuse"}
+{"id": "cur-CRPC:183", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant section that deals with \"Offence committed on journey or voyage\""}
+{"id": "cur-CRPC:41", "output": "The question of when police may arrest without warrant in India is addressed under **The Indian Penal Code (IPC)**, specifically **Section 102**.\n\n**Act:** Indian Penal Code  \n**"}
+{"id": "cur-CRPC:446", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant provision regarding the **procedure when a bond has been forfeited**"}
+{"id": "cur-IPC:505", "output": "The concept of \"statements conducing to public mischief\" is not explicitly addressed in any section of the Indian Criminal Code as it stands since 2024. The term is not a recognized legal"}
+{"id": "cur-IPC:406", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant provision for \"Punishment for criminal breach of trust\" is"}
+{"id": "cur-CRPC:67", "output": "The question of \"Service of summons outside local limits\" is addressed in **Section 19 of the Indian Penal Code (IPC)**, which deals with the **Service of Summons** in cases"}
+{"id": "cur-CRPC:105H", "output": "The Indian Criminal Law that applies from 1 July 2024 deals with the **Forfeiture of Property** under the **Indian Penal Code (IPC)**, specifically **Section 1"}
+{"id": "cur-CRPC:89", "output": "The question \"Arrest on breach of bond for appearance\" relates to **Section 12** of the **Indian Penal Code (Indian Criminal Code)**, which deals with **arrest on breach"}
+{"id": "cur-IEA:92", "output": "The exclusion of evidence of an oral agreement in Indian criminal law is addressed under **Evidence Act**, **Section 192**. \n\nThis section deals with the exclusion of evidence of an oral agreement"}
+{"id": "cur-IPC:366B", "output": "The importation of a girl from a foreign country is dealt with under **The Child Marriage Prevention Act, 2000**, and specifically in **Section 12**.\n\n**Answer:**"}
+{"id": "cur-IPC:510", "output": "The Indian Criminal Law that deals with \"Misconduct in public by a drunken person\" is **The Indian Penal Code (IPC)**, and the relevant section is **Section 407**."}
+{"id": "cur-IPC:407", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant provision for \"Criminal breach of trust by carrier, etc.\""}
+{"id": "cur-CRPC:380", "output": "The concept of \"special right of appeal\" is not explicitly mentioned in any Indian criminal law act or section as of July 2024. The Indian legal system does not have a specific provision"}
+{"id": "cur-CRPC:212", "output": "The Indian Criminal Law, under the **Indian Penal Code (IPC)**, deals with the concept of 'Particulars as to time, place and person' in **Section 192**"}
+{"id": "cur-CRPC:130", "output": "The use of armed forces to disperse an assembly is addressed in **The Indian Penal Code (Indian Criminal Law)**, specifically in **Section 124**.\n\n**Act:** Indian Penal Code"}
+{"id": "cur-IPC:114", "output": "The Indian Criminal Law that applies from 1 July 2024 is the **Indian Penal Code (IPC)**, and the relevant provision is:\n\n**Section 120** of the"}
+{"id": "cur-CRPC:198", "output": "The Indian Criminal Law that deals with \"offences against marriage\" is governed by **The Indian Penal Code (Indian Criminal Law) Act, 1860**, and specifically under **Section "}
+{"id": "cur-IEA:34", "output": "The relevant provision under Indian criminal law for \"Entries in books of account when relevant\" is found in **Section 144 of the Indian Penal Code (Indian Criminal Code)**.\n\n**Act:**"}
+{"id": "cur-IPC:364", "output": "The Indian Criminal Law that deals with \"Kidnapping or abducting in order to murder\" is **Indian Penal Code (IPC)**, and the relevant section is **Section 396"}
+{"id": "cur-CRPC:14", "output": "The concept of \"Local jurisdiction of Judicial Magistrates\" is addressed in **The Indian Penal Code (Indian Criminal Procedure Code)**, specifically in **Section 229**.\n\n**Act:** Indian"}
+{"id": "cur-CRPC:105B", "output": "The question \"Assistance in securing transfer of persons\" is addressed under **The Indian Penal Code (Indian Law)**, specifically in **Section 379**.\n\n**Act:** Indian Penal Code"}
+{"id": "cur-CRPC:410", "output": "The concept of \"Withdrawal of cases by Judicial Magistrate\" is dealt with under **The Criminal Procedure Code (CrPC)**, **Section 482**.\n\n**Act:** Criminal Procedure"}
+{"id": "cur-IPC:313", "output": "The Indian Criminal Law that deals with the offense of \"Causing miscarriage without the woman's consent\" is **The Indian Penal Code (Indian Criminal Law)**, and the relevant section is **Section"}
+{"id": "cur-IPC:489A", "output": "The Indian Criminal Law that deals with the offense of \"Counterfeiting currency-notes or bank-notes\" is **The Prevention of Corruption Act, 1978**, and the relevant section is **"}
+{"id": "cur-IPC:343", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant provision for \"wrongful confinement for three or more days\" is"}
+{"id": "cur-IPC:108A", "output": "The Indian Criminal Law that applies to \"abetment in India of offences outside India\" is governed by **The Indian Penal Code (Indian Criminal Law) 1860**, and the relevant"}
+{"id": "cur-IPC:400", "output": "The Indian Criminal Law that deals with the punishment for belonging to a gang of dacoits is **The Indian Penal Code (Indian Criminal Law)**, and the relevant section is **Section 39"}
+{"id": "cur-IPC:287", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant section for \"Negligent conduct with respect to machinery\" is"}
+{"id": "cur-CRPC:413", "output": "The Indian Criminal Law, under the **Indian Penal Code (IPC)**, deals with the **execution of an order passed under Section 368**.\n\n**Act**: Indian Penal Code  \n**"}
+{"id": "cur-IPC:68", "output": "The correct answer is: **The Criminal Law (Amendment) Act, 2024, Section 12**.\n\nThis provision is part of the **Criminal Law (Amendment"}
+{"id": "cur-IEA:90", "output": "The Indian Criminal Law does not have a specific provision addressing \"presumption as to documents thirty years old\" under the current legal framework as of 1 July 2024. However, the"}
+{"id": "cur-IPC:195A", "output": "72 CrPC, Section 126"}
+{"id": "cur-IPC:166A", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant section for \"Public servant disobeying direction under law\" is"}
+{"id": "cur-IPC:210", "output": "The Indian Criminal Law that deals with the offense of \"Fraudulently obtaining a decree for a sum not due\" is **The Indian Criminal Code, 1973**, and the relevant"}
+{"id": "cur-IPC:94", "output": "The question \"Act to which a person is compelled by threats\" is addressed in **Section 124** of the **Indian Penal Code (Indian Criminal Code)**, which deals with **\""}
+{"id": "cur-IEA:16", "output": "The concept of \"existence of a course of business\" is addressed in **Section 12(1)** of the **Indian Penal Code (Indian Criminal Law)**, specifically in the context of **"}
+{"id": "cur-IEA:25", "output": "The relevant provision in Indian criminal law that addresses the issue of \"Confession to police-officer not to be proved\" is found in **Section 166 of the Indian Penal Code (IPC"}
+{"id": "cur-IEA:73A", "output": "The question of \"proof as to verification of digital signature\" is addressed in **Information Technology Act, 2000**, **Section 152**.\n\n**Act:** Information Technology Act"}
+{"id": "cur-IPC:293", "output": "The Indian Criminal Law that deals with the offense of \"Sale, etc., of obscene objects to young person\" is **Indian Penal Code (IPC)**, and the relevant section is **Section 3"}
+{"id": "cur-IPC:171G", "output": "Indian Criminal Law deals with the offense of \"False Statement in Connection with an Election\" under **The Representation of the People Act, 1951**, specifically **Section 124**"}
+{"id": "cur-IPC:373", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant section for the offense of \"Buying minor for purposes of prostitution,"}
+{"id": "cur-IEA:31", "output": "The relevant provision in Indian criminal law that addresses \"Admissions not conclusive proof, but may estop\" is found in **Section 162 of the Indian Penal Code (IPC)**.\n\n**"}
+{"id": "cur-CRPC:361", "output": "The question refers to \"special reasons to be recorded in certain cases,\" which is addressed in **Section 39 of the Indian Penal Code (Indian Law)**. This section deals with the recording of"}
+{"id": "cur-CRPC:261", "output": "The Indian Criminal Law, under the **Indian Penal Code (IPC)**, deals with the **summary trial by Magistrate of the second class**. The relevant section is:\n\n**Act**: *Indian"}
+{"id": "cur-IPC:325", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant section for \"Punishment for voluntarily causing grievous hurt\""}
+{"id": "cur-IPC:55", "output": "The commutation of a sentence of imprisonment for life under Indian criminal law is dealt with by **The Corrections Act, Section 12**."}
+{"id": "cur-IPC:335", "output": "The Indian Criminal Law that deals with \"Voluntarily causing grievous hurt on provocation\" is **Indian Penal Code (IPC)**, and the relevant section is **Section 399**"}
+{"id": "cur-CRPC:213", "output": "The question \"When manner of committing offence must be stated\" relates to **Section 124** of the **Indian Penal Code (Indian Criminal Code)**, which deals with **\"Manner"}
+{"id": "cur-IPC:263", "output": "The question refers to the legal concept of \"Erasure of mark denoting that stamp has been used,\" which is related to the **Indian Stamp Act**. \n\nIn India, the **Stamp Act"}
+{"id": "cur-IPC:494", "output": "The question \"Marrying again during lifetime of husband or wife\" is addressed in **The Hindu Marriage Act, 1955**, **Section 13**.\n\n**Act:** The"}
+{"id": "cur-IPC:157", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant section for \"Harbouring persons hired for an unlawful assembly\""}
+{"id": "cur-IPC:227", "output": "The Indian Criminal Law that deals with the violation of a condition of remission of punishment is **Section 387 of the Indian Penal Code (Indian Criminal Law, 1973)**"}
+{"id": "cur-IEA:47A", "output": "Information Technology Act, Section 14.7"}
+{"id": "cur-IPC:144", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant provision for \"Joining an unlawful assembly armed with a deadly weapon"}
+{"id": "cur-IPC:27", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant section dealing with \"Property in possession of wife, clerk or servant"}
+{"id": "cur-IPC:135", "output": "The Indian Criminal Law that deals with the offense of \"Abetment of desertion of soldier, sailor or airman\" is **The Indian Penal Code (IPC)**, and the relevant section is"}
+{"id": "cur-CRPC:237", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**, and within it, the relevant section for the procedure in cases instituted under **"}
+{"id": "cur-IPC:215", "output": "The Indian Criminal Law that deals with the offense of \"Taking gift to help to recover stolen property, etc.\" is **Indian Penal Code (IPC)**, and the relevant section is **Section 3"}
+{"id": "cur-IPC:66", "output": "The Indian Criminal Law that deals with the description of imprisonment for non-payment of fine is found in **The Criminal Law (Amendment) Act, 2024**, but the specific provision is"}
+{"id": "cur-IPC:78", "output": "The question \"Act done pursuant to the judgment or order of Court\" is addressed under **Section 102** of the **Indian Penal Code (Indian Criminal Code)**, **Section 1"}
+{"id": "cur-IPC:501", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant section dealing with the offense of \"Printing or engraving matter known"}
+{"id": "cur-IPC:233", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant section for \"Making or selling instrument for counterfeiting coin\""}
+{"id": "cur-CRPC:396", "output": "The correct answer is:\n\n**The Code of Criminal Procedure (CrPC), Section 292**."}
+{"id": "cur-IPC:286", "output": "The Indian Criminal Law that deals with \"Negligent Conduct with Respect to Explosive Substance\" is governed under **Schedule D of the Explosive Substances Act, 1908**.\n\n"}
+{"id": "cur-IPC:427", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant section for \"Mischief causing damage to the amount of fifty"}
+{"id": "cur-IPC:200", "output": "The provision in Indian criminal law that addresses \"using as true such declaration knowing it to be false\" is found in **The Indian Penal Code (Indian Criminal Code)**, **Section 199"}
+{"id": "cur-IPC:90", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant section that deals with 'Consent known to be given under fear"}
+{"id": "cur-IPC:486", "output": "The Indian Criminal Law that deals with the sale of goods marked with a counterfeit property mark is found in **The Prevention of Trade Defection Act, 1960** (PTDA), **"}
+{"id": "cur-IPC:134", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant section for \"Abetment of such assault, if the assault"}
+{"id": "cur-CRPC:452", "output": "The Indian Criminal Law, under the **Indian Penal Code (IPC)**, deals with the disposal of property at the conclusion of a trial. Specifically, **Section 124** of the **"}
+{"id": "cur-IEA:112", "output": "The Indian Criminal Law that deals with \"Birth during marriage, conclusive proof of legitimacy\" is governed under **The Hindu Marriage Act, 1955**, and specifically under **Section 12"}
+{"id": "cur-IPC:376AB", "output": "The Indian Criminal Law that deals with the punishment for rape of a woman under the age of twelve years is governed by **The Indian Penal Code (Indian Criminal Law)**, **Section 379"}
+{"id": "cur-IPC:324", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant section for \"Voluntarily causing hurt by dangerous weapons or means"}
+{"id": "cur-IPC:155", "output": "The Indian Criminal Law, under the **Indian Penal Code (IPC)**, deals with the liability of a person for whose benefit a riot is committed. \n\nThe relevant provision is **Section 12"}
+{"id": "cur-IPC:453", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant provision for \"Punishment for lurking house-trespass or"}
+{"id": "cur-IPC:179", "output": "The question of refusing to answer a public servant authorized to question is addressed under **The Indian Evidence Act**, **Section 192**. \n\n**Act**: Indian Evidence Act  \n**Section**:"}
+{"id": "cur-IPC:304", "output": "The Indian Criminal Law that deals with \"Punishment for culpable homicide not amounting to murder\" is **The Indian Penal Code (IPC)**, and the relevant section is **Section 3"}
+{"id": "cur-IPC:158", "output": "The Indian Constitution does not explicitly address the concept of being \"hired to take part in an unlawful assembly or riot\" in a single legal provision. However, under the **Indian Penal Code (IPC"}
+{"id": "cur-IPC:487", "output": "The Indian Criminal Law that deals with the offense of \"Making a false mark upon any receptacle containing goods\" is **The Prevention of Food Adulteration Act, 1954**,"}
+{"id": "cur-CRPC:379", "output": "The Indian Constitution provides for an appeal against a conviction by a High Court. This is covered under **Article 131** of the **Indian Constitution**, which deals with the appellate jurisdiction of the"}
+{"id": "cur-CRPC:76", "output": "The correct answer is: **The Indian Penal Code (IPC), Section 192**."}
+{"id": "cur-IPC:283", "output": "The Indian Criminal Law that deals with \"Danger or obstruction in public way or line of navigation\" is **The Indian Penal Code (Indian Criminal Law)**, and the relevant section is **Section 1"}
+{"id": "cur-IPC:314", "output": "The Indian Criminal Law that deals with \"Death caused by act done with intent to cause miscarriage\" is governed under **The Indian Penal Code (Indian Criminal Law)**, and the relevant section is:\n\n"}
+{"id": "cur-IPC:424", "output": "The Indian Criminal Law that deals with the offense of \"Dishonest or fraudulent removal or concealment of property\" is **The Indian Penal Code (Indian Criminal Law)**, and the relevant section is"}
+{"id": "cur-IPC:376DB", "output": "The Indian Criminal Law that deals with the punishment for gang rape of a woman under twelve years of age is governed by **The Indian Penal Code (Indian Criminal Law)**, and the relevant section is **"}
+{"id": "cur-IPC:431", "output": "The Indian Criminal Law that deals with 'Mischief by injury to public road, bridge, river or channel' is **Indian Penal Code (IPC)**, and the relevant section is **Section "}
+{"id": "cur-CRPC:368", "output": "The Indian Constitution provides for the power of the High Court to confirm or annul a conviction or sentence through **Article 142** of the **Supreme Court Act** (also known as"}
+{"id": "cur-CRPC:450", "output": "The question \"Power to direct levy of amount due on certain recognizances\" is addressed under **Section 124** of the **Indian Penal Code (Indian Criminal Code)**, which deals"}
+{"id": "cur-IEA:116", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant section dealing with **estoppel of tenant** and **estoppel"}
+{"id": "cur-IPC:171F", "output": "72 Cr.P.C. (Crimes Act), Section 152"}
+{"id": "cur-CRPC:392", "output": "The Indian Constitution does not provide a specific provision for the \"procedure where Judges of Court of Appeal are equally divided\" in the current legal framework. However, the relevant provision is found in **The Indian"}
+{"id": "cur-CRPC:437A", "output": "The correct answer is: **The Code of Criminal Procedure (CrPC), Section 438**."}
+{"id": "cur-IPC:92", "output": "The question \"Act done in good faith for benefit of a person without consent\" is addressed in **Section 122 of the Indian Penal Code (Indian Criminal Code), 1860"}
+{"id": "cur-IPC:6", "output": "The Indian Criminal Law that applies from 1 July 2024 is the **Indian Penal Code (IPC)**, and the relevant section that deals with \"Definitions in the Code to be understood"}
+{"id": "cur-CRPC:305", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**, and the relevant section for the procedure when a **corporation or registered"}
+{"id": "cur-IEA:160", "output": "The question refers to **Section 159** of the **Indian Evidence Act**, 1872. However, since the question specifies the date as **1 July 202"}
+{"id": "cur-IPC:386", "output": "The Indian Criminal Law that deals with \"Extortion by putting a person in fear of death or grievous hurt\" is found in the **Indian Penal Code (Indian Criminal Code)**, specifically in **"}
+{"id": "cur-IPC:154", "output": "The question relates to the Indian legal framework, and the relevant provision is found in the **Indian Penal Code (IPC)**, specifically **Section 124**.\n\n**Act:** Indian Penal Code"}
+{"id": "cur-IPC:326", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant section for \"Voluntarily causing grievous hurt by dangerous weapons"}
+{"id": "cur-CRPC:219", "output": "The correct answer is: **Indian Penal Code, Section 196**."}
+{"id": "cur-IPC:428", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant section for the offense of \"Mischief by killing or m"}
+{"id": "cur-IPC:489C", "output": "The Indian Criminal Law that deals with the possession of forged or counterfeit currency notes or bank notes is governed by **The Prevention of Money Laundering Act, 1969** (PMML"}
+{"id": "cur-IPC:456", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant section for \"Punishment for lurking house-trespass or"}
+{"id": "cur-CRPC:31", "output": "The Indian Criminal Law that deals with the issue of \"Sentence in cases of conviction of several offences at one trial\" is **The Indian Penal Code (Indian Criminal Law)**, and the relevant section is"}
+{"id": "cur-CRPC:330", "output": "The Indian Criminal Law that deals with the release of a person of unsound mind pending investigation or trial is found in **The Indian Penal Code (Indian Criminal Law)**, specifically in **Section 1"}
+{"id": "cur-IEA:89", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant section dealing with the presumption of due execution of documents not produced is"}
+{"id": "cur-IPC:397", "output": "The Indian Criminal Law that deals with \"Robbery, or Dacoity, with attempt to cause death or grievous hurt\" is found in the **Indian Penal Code (IPC)**, specifically in"}
+{"id": "cur-IPC:239", "output": "The Indian Criminal Law that applies from 1 July 2024 deals with the offence of \"Delivery of coin, possessed with knowledge that it is counterfeit\" under **《Indian Penal Code ("}
+{"id": "cur-IPC:290", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant section for \"punishment for public nuisance in cases not otherwise provided"}
+{"id": "cur-CRPC:207", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant provision dealing with the **supply to the accused of a copy of"}
+{"id": "cur-CRPC:325", "output": "The Indian Criminal Law, under the **Indian Penal Code (IPC)**, deals with the procedure when a Magistrate cannot pass a sentence sufficiently severe. The relevant section is:\n\n**Indian Penal Code,"}
+{"id": "cur-IPC:498A", "output": "The question relates to the Indian Criminal Law, and the relevant provision is under the **Indian Penal Code (IPC)**, **Section 499**.\n\n**Act**: Indian Penal Code (IPC"}
+{"id": "cur-IPC:357", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant provision for \"Assault or criminal force in attempt wrongfully to"}
+{"id": "cur-CRPC:198A", "output": "The Indian Penal Code (IPC) Section 498A."}
+{"id": "cur-CRPC:68", "output": "The question relates to the Indian Criminal Law, specifically the **Indian Penal Code (IPC)**, and the **Section 124**.\n\n**Act**: Indian Penal Code (IPC)  \n**"}
+{"id": "cur-IEA:15", "output": "The question of whether an act was accidental or intentional is addressed in **Section 102** of the **Indian Penal Code (Indian Criminal Law)**, which deals with **\"Facts bearing"}
+{"id": "cur-IEA:114A", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant section that deals with the presumption of absence of consent in certain prosecutions"}
+{"id": "cur-IPC:288", "output": "The Indian Criminal Law that deals with \"Negligent Conduct with respect to pulling down or repairing buildings\" is governed by **The Indian Penal Code (IPC)**, specifically **Section 379"}
+{"id": "cur-IPC:270", "output": "The question relates to a legal concept, but under Indian criminal law, there is no specific provision that directly addresses a \"malignant act likely to spread infection of disease dangerous to life\" in the form"}
+{"id": "cur-IPC:269", "output": "The relevant provision in Indian criminal law under the **Negligence Act** (as part of the **Indian Penal Code**) that deals with 'Negligent act likely to spread infection of disease dangerous"}
+{"id": "cur-IPC:83", "output": "The question refers to a legal concept related to **child acts** under Indian criminal law. In India, the legal framework for handling acts committed by children is governed by **Section 124 of"}
+{"id": "cur-IPC:38", "output": "The relevant provision in Indian criminal law is found in **The Indian Penal Code (Indian Criminal Law) Act, 1860**, **Section 124**.\n\n**Act:** Indian"}
+{"id": "cur-IPC:451", "output": "The Indian Criminal Law that deals with \"house-trespass in order to commit offence punishable with imprisonment\" is **The Indian Penal Code (Indian Criminal Law)**, and the relevant section is **Section"}
+{"id": "cur-IPC:128", "output": "The question is addressed to the Indian Criminal Law, and the relevant provision is found in **The Indian Penal Code (Indian Criminal Law)**, specifically **Section 306**.\n\n**Act:**"}
+{"id": "cur-CRPC:366", "output": "The relevant provision in Indian criminal law under the **Indian Penal Code (IPC)**, specifically **Section 376**, deals with the **sentence of death** to be submitted by the **Court"}
+{"id": "cur-CRPC:155", "output": "The relevant provision in Indian criminal law regarding 'Information as to non-cognizable cases and investigation of such cases' is found in **The Indian Penal Code (Indian Criminal Procedure Code)**, specifically in"}
+{"id": "cur-IEA:156", "output": "The question \"Questions tending to corroborate evidence of relevant fact, admissible\" is addressed in **Section 102** of the **Indian Evidence Act, 1872**"}
+{"id": "cur-IPC:333", "output": "The relevant provision in Indian criminal law for \"voluntarily causing grievous hurt to deter a public servant from his duty\" is found in **The Indian Penal Code (Indian Criminal Code)**, **"}
+{"id": "cur-CRPC:141", "output": "The question \"Procedure on order being made absolute and consequences of disobedience\" relates to **Section 437** of the **Indian Penal Code (Indian Criminal Code)**, which deals with **"}
+{"id": "cur-IEA:132", "output": "10 CrPC, Section 154"}
+{"id": "cur-IEA:94", "output": "The question relates to the Indian legal system and the specific provision that deals with the \"Exclusion of evidence against application of document to existing facts.\" This is a legal principle, and in India, it"}
+{"id": "cur-IPC:166", "output": "The relevant provision in Indian criminal law for a public servant disobeying a law with intent to cause injury to any person is found in **The Indian Penal Code (Indian Criminal Code)**, **Section"}
+{"id": "cur-IPC:298", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant section that deals with \"Uttering words, etc., with deliberate"}
+{"id": "cur-IPC:345", "output": "The correct answer is:\n\n**The Indian Penal Code, Section 197**."}
+{"id": "cur-IPC:240", "output": "The relevant provision under Indian criminal law for the offense of \"Delivery of Indian coin, possessed with knowledge that it is counterfeit\" is found in **The Prevention of Money Laundering Act, 1"}
+{"id": "cur-IPC:102", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant provision dealing with the **\"Commencement and continuance of"}
+{"id": "cur-CRPC:319", "output": "The Indian Criminal Law that applies from 1 July 2024 is the **Indian Penal Code (IPC)**, and the relevant section is **Section 229**.\n\n**Act"}
+{"id": "cur-IPC:436", "output": "Indian Criminal Law does not have a specific provision that directly addresses \"Mischief by fire or explosive substance with intent to destroy house, etc.\" in the same way as it might address similar offenses under"}
+{"id": "cur-IPC:422", "output": "The question \"Dishonestly or fraudulently preventing debt being available for creditors\" is addressed in **Section 129 of the Indian Penal Code (IPC)**. This section deals with **"}
+{"id": "cur-IPC:98", "output": "The Right of Private Defence against the act of a person of unsound mind, etc., is dealt with under **The Indian Penal Code (Indian Criminal Code)**, **Section 109**"}
+{"id": "cur-IPC:316", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant section for \"Causing death of quick unborn child by act amount"}
+{"id": "cur-CRPC:451", "output": "The relevant provision in Indian criminal law under the **Indian Penal Code (IPC)**, specifically **Section 378**, deals with the **order for custody and disposal of property pending trial in certain"}
+{"id": "cur-IPC:430", "output": "The Indian Criminal Law that deals with \"Mischief by injury to works of irrigation or by wrongfully diverting water\" is found in **The Water Act**, specifically in **Section 12"}
+{"id": "cur-IPC:199", "output": "Evidence Act, Section 192"}
+{"id": "cur-CRPC:349", "output": "The question relates to a legal principle, not a specific section of a statute. Under Indian criminal law, the relevant provision is found in **Section 124 of the Indian Evidence Act**, "}
+{"id": "cur-IPC:462", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant section for \"Punishment for same offence when committed by person"}
+{"id": "cur-IPC:409", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant provision for a \"criminal breach of trust by a public servant,"}
+{"id": "cur-IPC:353", "output": "The relevant provision in Indian criminal law is found in **The Indian Penal Code (Indian Criminal Law) Act, 1860**, **Section 124**.\n\n**Act:** Indian"}
+{"id": "cur-IPC:178", "output": "Evidence Act, Section 124"}
+{"id": "cur-IPC:67", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. Under the IPC, **Section 376** deals with **im"}
+{"id": "cur-CRPC:478", "output": "The relevant provision in Indian criminal law under the **Criminal Procedure Code (CrPC)**, **Section 224**, deals with the power to alter functions allocated to Executive Magistrates in certain"}
+{"id": "cur-IPC:112", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant section for an **abettor** who is liable to **"}
+{"id": "cur-IPC:125", "output": "The relevant provision in Indian criminal law under the **Indian Penal Code (IPC)**, **Section 124**, deals with the offense of \"Waging war against any Asiatic Power in alliance"}
+{"id": "cur-IPC:434", "output": "The Indian Criminal Law that deals with \"Mischief by destroying or moving, etc., a land-mark fixed by public authority\" is **Land Revenue Act**, and the relevant section is **Section "}
+{"id": "cur-IPC:368", "output": "The correct answer is:\n\n**The Indian Penal Code (IPC), Section 392**."}
+{"id": "cur-IPC:493", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant section for the offense of \"Cohabitation caused by a"}
+{"id": "cur-IPC:389", "output": "The relevant provision in Indian criminal law for the offense of \"Putting person in fear or accusation of offence, in order to commit extortion\" is found in **The Indian Penal Code (IPC)**, **"}
+{"id": "cur-CRPC:367", "output": "The question \"Power to direct further inquiry to be made or additional evidence to be taken\" is addressed in **Section 39 of the Indian Evidence Act, 1872**.\n\nHowever"}
+{"id": "cur-IPC:246", "output": "The Indian Criminal Law that deals with the offense of \"Fraudulently or dishonestly diminishing weight or altering composition of coin\" is **Currency and Weight of Coin Act, 1897"}
+{"id": "cur-CRPC:139", "output": "The relevant provision in Indian criminal law under the **Indian Evidence Act, 1918** (which is in force since 1 July 2024) is **Section 1"}
+{"id": "cur-CRPC:447", "output": "The Indian Criminal Law that deals with the procedure in case of the death of a surety or when a bond is forfeited is governed by **Section 124 of the Criminal Procedure Code ("}
+{"id": "cur-IPC:450", "output": "The Indian Criminal Law that deals with \"house-trespass in order to commit offence punishable with imprisonment for life\" is **The Indian Penal Code (IPC)**, and the relevant section is **Section"}
+{"id": "cur-IPC:459", "output": "The Indian Criminal Law that deals with \"Grievous Hurt caused whilst committing lurking house-trespass or house-breaking\" is found in the **Indian Penal Code (IPC)**, specifically in **"}
+{"id": "cur-IPC:256", "output": "The relevant provision under Indian criminal law for \"Having possession of instrument or material for counterfeiting Government stamp\" is found in **The Prevention of Counterfeiting Act, 1948**,"}
+{"id": "cur-IPC:183", "output": "The question relates to **Section 124** of the **Indian Penal Code (Indian Criminal Law)**, which deals with **\"Resistance to the taking of property by the lawful authority of a"}
+{"id": "cur-IPC:76", "output": "Section 124 of the Indian Penal Code (IPC)."}
+{"id": "cur-IPC:131", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant provision for \"Abetting mutiny, or attempting to seduce"}
+{"id": "cur-IPC:376A", "output": "The Indian Criminal Law that deals with the punishment for causing death or resulting in a persistent vegetative state of a victim is governed by **The Indian Penal Code (Indian Criminal Law)**, and the relevant"}
+{"id": "cur-IPC:221", "output": "The question relates to the Indian legal system and the specific provision that deals with \"Intentional omission to apprehend on the part of public servant bound to apprehend.\"\n\nIn Indian criminal law, this"}
+{"id": "cur-IPC:65", "output": "The relevant provision in Indian criminal law regarding imprisonment for non-payment of a fine, when both imprisonment and fine are awarded, is found in **The Criminal Law (Amendment) Act, 20"}
+{"id": "cur-IPC:330", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant section for \"voluntarily causing hurt to extort confession or"}
+{"id": "cur-IPC:88", "output": "The correct legal provision in Indian criminal law that addresses the scenario \"Act not intended to cause death, done by consent in good faith for person's benefit\" is found in **Section 124"}
+{"id": "cur-IPC:219", "output": "The relevant provision in Indian criminal law under the **Indian Penal Code (IPC)**, specifically **Section 124**, deals with a public servant in a judicial proceeding who makes a report or om"}
+{"id": "cur-IPC:126", "output": "The Indian Constitution does not have a specific provision that directly addresses \"committing depredation on territories of Power at peace with the Government of India\" in the context of the current criminal law as of"}
+{"id": "cur-IPC:327", "output": "The question seems to refer to a legal term that is not clearly defined in the Indian legal system. The phrase \"Voluntarily causing hurt to extort property, or to constrain to an illegal act"}
+{"id": "cur-IPC:295", "output": "The relevant provision under Indian criminal law is found in **The Indian Penal Code (Indian Criminal Code)**, **Section 309**.\n\n**Act:** Indian Penal Code  \n**Section Number:**"}
+{"id": "cur-IPC:60", "output": "The Indian Criminal Law, under the **Indian Penal Code (IPC)**, deals with the concept of 'rigorous' and 'simple' imprisonment. The relevant section is:\n\n**Indian Penal Code,"}
+{"id": "cur-IPC:86", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant section that deals with \"offence requiring a particular intent or knowledge"}
+{"id": "cur-IPC:216", "output": "The question relates to the Indian Criminal Law, and the relevant provision is under the **Indian Penal Code (IPC)**, **Section 394**.\n\n**Act**: Indian Penal Code (IPC"}
+{"id": "cur-IPC:89", "output": "The question relates to **Section 124** of the **Indian Penal Code (Indian Criminal Law)**, which deals with **\"Act done in good faith for benefit of child or insane person"}
+{"id": "cur-CRPC:50A", "output": "The relevant provision in Indian criminal law is found in **The Indian Evidence Act, 1915**, **Section 169**.\n\nThis section mandates that:\n\n> \"A person who"}
+{"id": "cur-IPC:176", "output": "The relevant provision in Indian criminal law under the **Information and Co-operation Act, 1935** (repealed in 2008, but still in force as per the"}
+{"id": "cur-IPC:317", "output": "The relevant provision in Indian criminal law for the offense of \"Exposure and abandonment of a child under twelve years by a parent or person having care of it\" is found in **The Child Marriage Pro"}
+{"id": "cur-IPC:87", "output": "Assault (Section 122) – Indian Penal Code (IPC)"}
+{"id": "cur-IPC:438", "output": "The Indian Criminal Law that applies from 1 July 2024 is the **Indian Penal Code (IPC)**, and the relevant section for the offense of \"mischief described in section"}
+{"id": "cur-IPC:149", "output": "The correct answer is: **Indian Penal Code, Section 124**."}
+{"id": "cur-IPC:355", "output": "The Indian Criminal Law that applies from 1 July 2024 deals with the offense of **Assault or Criminal Force with Intent to Dishonour a Person, Otherwise Than on Grave Prov"}
+{"id": "cur-IPC:35", "output": "The question relates to **Section 124** of the **Indian Penal Code (Indian Criminal Law, 1860)**, which deals with **\"When such an act is criminal"}
+{"id": "cur-CRPC:265I", "output": "The correct answer is: **The Indian Penal Code, Section 296**."}
+{"id": "cur-IEA:67", "output": "The question relates to the Indian Criminal Law, specifically the **Indian Evidence Act** (IEA), and the provision regarding the **proof of signature and handwriting** of a person alleged to have signed or"}
+{"id": "cur-IPC:423", "output": "The Indian Criminal Law that deals with the offense of \"Dishonest or fraudulent execution of deed of transfer containing false statement of consideration\" is **The Indian Penal Code (IPC)**, and the relevant"}
+{"id": "cur-IPC:243", "output": "The relevant provision under Indian criminal law is found in **The Prevention of Money Launder Act, 1969**, **Section 12**.\n\n**Act:** Prevention of Money Launder"}
+{"id": "cur-IPC:388", "output": "The Indian Criminal Law that deals with \"Extortion by threat of accusation of an offence punishable with death or imprisonment for life\" is governed under **Indian Penal Code (IPC)**, specifically **Section "}
+{"id": "cur-IPC:75", "output": "The Indian Criminal Law that deals with \"Enhanced punishment for certain offences under Chapter XII or Chapter XVII after previous conviction\" is **Indian Penal Code (Indian Criminal Law)**, and the relevant section"}
+{"id": "cur-IEA:109", "output": "The burden of proof regarding relationship in cases of partners, landlord and tenant, and principal and agent is dealt with under **The Indian Evidence Act**, **Section 104**.\n\n**Act:**"}
+{"id": "cur-IPC:241", "output": "The relevant provision under Indian criminal law is found in **The Prevention of Money Laundering Act, 2002** (PMMA), **Section 12**.\n\n**Act:**"}
+{"id": "cur-IPC:472", "output": "The relevant provision in the Indian Criminal Law is found in **《Indian Penal Code (Indian Criminal Law)》**, **Section 467**.\n\n**Act**: Indian Penal Code  \n**Section"}
+{"id": "cur-IPC:113", "output": "The Indian Criminal Law addresses this issue under **Indian Penal Code (IPC)**, **Section 120**.\n\n**Explanation**:  \nSection 120 of the Indian Penal Code deals with"}
+{"id": "cur-IPC:495", "output": "The Indian Criminal Law that applies from 1 July 2024 deals with the offence of **\"Same offence with concealment of former marriage from person with whom subsequent marriage is contracted\"**"}
+{"id": "cur-IPC:489D", "output": "The Indian Criminal Law that deals with the offense of \"Making or possessing instruments or materials for forging or counterfeiting currency notes or bank-notes\" is found in:\n\n**《Indian Penal Code (Indian"}
+{"id": "cur-IPC:151", "output": "The question relates to the Indian legal framework concerning **knowingly joining or continuing in an assembly of five or more persons after it has been commanded to disperse**. This is addressed under **Section "}
+{"id": "cur-IEA:131", "output": "The relevant provision under Indian criminal law is found in **The Information Act, 2008**, and specifically **Section 12**.\n\n**Act:** Information Act, 200"}
+{"id": "cur-IPC:225A", "output": "The relevant provision in Indian criminal law under the **Service Enlistment Act, 1948** (repealed in 2008, but still in force as per the"}
+{"id": "cur-IPC:181", "output": "Evidence Act, Section 124"}
+{"id": "cur-IPC:222", "output": "The relevant provision in Indian criminal law is found in **The Indian Penal Code (Indian Criminal Law) Act, Section 378**.\n\n**Act:** Indian Penal Code  \n**Section Number:**"}
+{"id": "cur-IPC:435", "output": "The relevant provision in Indian criminal law is found in **The Indian Penal Code (Indian Criminal Law) Act, 1860**, **Section 129**.\n\n**Act:** Indian"}
+{"id": "cur-IPC:460", "output": "The Indian Criminal Law that applies from 1 July 2024 includes the **Indian Penal Code (IPC)**. The relevant section for the offense of \"lurking house-trespass"}
+{"id": "tmp-IPC:326A-2022", "output": "The accused will be charged under the **Acid Crime Prevention and Control Act, 2012** (Section 12) in India."}
+{"id": "tmp-IPC:326A-2025", "output": "The accused will be charged under the **Acid Act** (Section 124A of the Indian Penal Code) for using acid on a woman."}
+{"id": "tmp-IPC:354-2022", "output": "The accused will be charged under the **Assault Act, Section 36** of the Indian Penal Code."}
+{"id": "tmp-IPC:354-2025", "output": "The accused will be charged under the **Assault Act** (Section 395) of the Indian Penal Code."}
+{"id": "tmp-IPC:120B-2022", "output": "The accused will be charged under the **Bank Robbery Act, Section 378** of the Indian Penal Code."}
+{"id": "tmp-IPC:120B-2025", "output": "The accused will be charged under the **Bank Robbery Act, Section 378**."}
+{"id": "tmp-IPC:465-2022", "output": "The accused will be charged under the **Federal Anti-Fraud Act** (18 U.S.C. § 1341) and **Section 1001 of the Uniform Commercial Code** (UCC § 2-1001)."}
+{"id": "tmp-IPC:465-2025", "output": "The accused will be charged under the **Federal Anti-Fraud Act** (18 U.S.C. § 1341) and Section 201 of the **Racketeer Influenced and Corrupt Organizations Act (RICO)**."}
+{"id": "tmp-IPC:411-2022", "output": "The accused will be charged under the **Computer Fraud and Security Act (CFSA)**, Section 122."}
+{"id": "tmp-IPC:411-2025", "output": "The accused will be charged under the **Computer Fraud and Security Act (CFSA)**, Section 122."}
+{"id": "tmp-IPC:427-2022", "output": "The accused will be charged under the **Vehicle Act, Section 107** (or similar, depending on the country)."}
+{"id": "tmp-IPC:427-2025", "output": "The accused will be charged under the **Vehicle Act, Section 107** (or similar, depending on the country) for deliberate damage to a vehicle's windshield."}
+{"id": "tmp-IPC:392-2022", "output": "The accused will be charged under the **Mens Reptend Act** (Section 109) for assault with a weapon."}
+{"id": "tmp-IPC:392-2025", "output": "The accused will be charged under the **Mens Reptend Act** (Section 115) for assault with a weapon."}
+{"id": "tmp-IPC:325-2022", "output": "The accused will be charged under the **Criminal Code** (specifically Section 319) for assault with a weapon."}
+{"id": "tmp-IPC:325-2025", "output": "The accused will be charged under the **Criminal Code** (specifically Section 319) for assault with a weapon."}
+{"id": "tmp-IPC:304A-2022", "output": "The accused will be charged under the **Criminal Code** (specifically Section 321) for negligence causing a cyclist's death."}
+{"id": "tmp-IPC:304A-2025", "output": "The accused will be charged under the **Criminal Code** (specifically Section 321) for negligence causing a cyclist's death."}
+{"id": "tmp-IPC:506-2022", "output": "The accused will be charged under the **Municipal Corporation Act, Section 122** (or similar local law) for violating the tenant's right to vacate the flat and facing threats."}
+{"id": "tmp-IPC:506-2025", "output": "The accused will be charged under the **Municipal Corporation Act, Section 122** (or similar local law) for violating the tenant's right to vacate the flat and facing threats."}
+{"id": "tmp-IPC:379-2022", "output": "The accused will be charged under the **Theft Act, Section 407**."}
+{"id": "tmp-IPC:379-2025", "output": "The accused will be charged under the **Theft Act, Section 407**."}
+{"id": "tmp-IPC:363-2022", "output": "The child was taken away from parents without consent, and the accused will be charged under **Child Rights Act, Section 129**."}
+{"id": "tmp-IPC:363-2025", "output": "The accused will be charged under the **Child Protection Act** (or **Child Rights Act**) and **Section 89** of the **Child Marriage Prevention Act** (depending on the country), but in the context of a child being taken away without consent, the primary legal framework in many countries"}
+{"id": "tmp-IPC:307-2022", "output": "The accused will be charged under **Section 309 of the Indian Penal Code (IPC)** for **stabbing with intent to kill**."}
+{"id": "tmp-IPC:307-2025", "output": "The accused will be charged under **Section 309 of the Indian Penal Code (IPC)** for causing death by negligence."}
+{"id": "tmp-IPC:147-2022", "output": "The accused will be charged under the **Riot Act** (specifically Section 142) in the UK."}
+{"id": "tmp-IPC:147-2025", "output": "The accused will be charged under the **Riot Act** (specifically Section 10) in the UK."}
+{"id": "tmp-IPC:448-2022", "output": "The accused will be charged under the **Fourth Amendment** (right to be free from unreasonable searches and seizures) and **Section 1983** (civil rights action) of the U.S. Code."}
+{"id": "tmp-IPC:448-2025", "output": "The accused will be charged under the **Fourth Amendment** (Reasonable Expectation of Privacy) and **Section 1983** (action against a government official) in the U.S. legal system."}
+{"id": "tmp-IPC:34-2022", "output": "The accused will be charged under the **State Violence and Criminal Offenses Act (SVCO)**, Section 142."}
+{"id": "tmp-IPC:34-2025", "output": "The accused will be charged under the **State Violence and Criminal Offenses Act, Section 124** (assuming a fictional or hypothetical jurisdiction). \n\n**Note:** In reality, the specific law and section would depend on the country and legal system. The above is a hypothetical answer."}
+{"id": "tmp-IPC:354A-2022", "output": "The accused will be charged under the **Sexual Harassment Prevention Act** (SHPA) and **Section 144 of the Indian Penal Code (IPC)**."}
+{"id": "tmp-IPC:354A-2025", "output": "The accused will be charged under the **Sexual Harassment Prevention Act** (SHPA) and **Section 144** of the **Indian Penal Code** (IPC)."}
+{"id": "tmp-IPC:323-2022", "output": "The accused will be charged under the **Assault Act, Section 499** of the Indian Penal Code."}
+{"id": "tmp-IPC:323-2025", "output": "The accused will be charged under the **Assault Act** (Section 429) of the Indian Penal Code."}
+{"id": "tmp-IPC:500-2022", "output": "The accused will be charged under the **False Statements Act** (Section 199) of the **Indian Penal Code**."}
+{"id": "tmp-IPC:500-2025", "output": "The accused will be charged under the **False Statements Act** (Section 199) of the **Indian Penal Code**."}
+{"id": "tmp-IPC:498A-2022", "output": "The accused will be charged under the **Indian Penal Code (Section 379)** for **abuse of power** and **Section 498A** for **carnality** (rape) if the harassment involves sexual assault."}
+{"id": "tmp-IPC:498A-2025", "output": "The accused will be charged under the **Indian Penal Code (Section 395)**, which deals with **abuse of power** and **intimidation**."}
+{"id": "tmp-IPC:376-2022", "output": "The accused will be charged under the **Sexual Offenses Against Women Act (SOAWA)**, Section 112."}
+{"id": "tmp-IPC:376-2025", "output": "The accused will be charged under the **Sexual Offenses Against Women Act (SOAWA)**, Section 102."}
+{"id": "tmp-IPC:509-2022", "output": "The accused will be charged under the **Violence Against Women Act (VAWA)**, Section 202."}
+{"id": "tmp-IPC:509-2025", "output": "The accused will be charged under the **Violence Against Women Act (VAWA)**, Section 202."}
+{"id": "tmp-IPC:406-2022", "output": "The accused will be charged under the **State Bankers’ Act, Section 139** (or similar state-specific laws) for misappropriation of trust funds."}
+{"id": "tmp-IPC:406-2025", "output": "The accused will be charged under the **State Bankers’ Act, Section 139** (or similar state-specific law) for misappropriation of trust funds."}
+{"id": "tmp-IPC:420-2022", "output": "The accused will be charged under **The Indian Penal Code (Section 378)** for **abduction** and **The Indian Penal Code (Section 379)** for **abduction with force**."}
+{"id": "tmp-IPC:420-2025", "output": "The accused will be charged under the **Income Tax Act, Section 276B** for fraudulently claiming a government job and misappropriating funds."}
+{"id": "tmp-IPC:279-2022", "output": "The accused will be charged under the **Traffic Act** and **Section 129** of the **Indian Penal Code** (IPC) for endangering life and causing danger to public."}
+{"id": "tmp-IPC:279-2025", "output": "The accused will be charged under the **Vehicle Movement Act** (VMA) Section 122, which addresses dangerous driving and endangering lives."}
+{"id": "tmp-IPC:384-2022", "output": "The accused will be charged under the **Forfeiture and Recovery of Taxes Act, Section 129**."}
+{"id": "tmp-IPC:384-2025", "output": "The accused will be charged under the **Forfeiture and Recovery of Taxes Act, Section 129**."}
+{"id": "tmp-IPC:306-2022", "output": "The accused will be charged under the **Federal Anti-Discrimination Laws** (specifically, Title VII of the Civil Rights Act of 1964) and **Section 1983** of the U.S. Code, related to workplace discrimination and harassment."}
+{"id": "tmp-IPC:306-2025", "output": "The accused will be charged under the **Federal Anti-Discrimination Act (FADA)**, Section 1912."}
+{"id": "tmp-IPC:354D-2022", "output": "The accused will be charged under **Title II, Section 1222 of the Education and the Workforce Improvement and National Benefits Technical Act (EWINACT)**, which addresses harassment and stalking in educational institutions."}
+{"id": "tmp-IPC:354D-2025", "output": "The accused will be charged under **Title II, Section 1222 of the Education and the Workforce Improvement and National Benefits Technical Act (EWINACT)**, which addresses harassment and stalking in educational institutions."}
+{"id": "tmp-IPC:304B-2022", "output": "The accused will be charged under the **Indian Penal Code (Section 379)** for the death of a woman under suspicious circumstances."}
+{"id": "tmp-IPC:304B-2025", "output": "The accused will be charged under the **Dowry Act, Section 124**."}
+{"id": "tmp-IPC:302-2022", "output": "The accused will be charged under the **Assault Act** (Section 39) in India."}
+{"id": "tmp-IPC:302-2025", "output": "The accused will be charged under the **Assault Act** and **Section 499** of the **Indian Penal Code**."}
+{"id": "scn-IPC:326A-1", "output": "**Short:**  \n**Section 124A**  \n\n**Section Number:** 124A  \n\n**Explanation:**  \nIn India, the offense of throwing acid on a person is covered under **Section 124A** of the **Indian Penal Code (IPC)**. This section penalizes the act of throwing any substance that causes harm to the skin or mucous membrane, including acid."}
+{"id": "scn-IPC:354-1", "output": "**Case:** A man groped a woman in a crowded market in India in 2025.\n\n**Section:** **444**\n\n**Section Number:** **444**\n\n**Explanation:**  \nIn India, the **444** section of the **Indian Penal Code (IPC)** deals with **sexual offenses**. It specifically covers **sexual assault** and **groping** of a woman, which is a serious crime under the law. The case would be handled under **Section 379** (for sexual assault) and **Section 444** (for the act of groping)."}
+{"id": "scn-IPC:326A-0", "output": "In India, the relevant laws regarding the attack on a person's face with acid would be:\n\n- **Section 378 of the Indian Penal Code (IPC)**: This applies to **abuse of the person** and includes **hurt** and **assault**. The use of acid is a form of **hurt**.\n\n- **Section 499 of the Indian Penal Code (IPC)**: This applies to **abuse of the person** and includes **hurt**.\n\nThese sections cover the **physical injury** to the face caused by acid, and would apply to the **victim** and **perpetrator**.\n\n**Answer:** Sections 378 and 499 of the Indian Penal Code."}
+{"id": "scn-IPC:120B-1", "output": "यह बात बहुत छुट्टी है, लेकिन आपके अभिप्राय के अनुसार, यह बात 2025 में भारत में हुई है। इसके अनुसार, यह बात **Section 300** में लाइन होगी।\n\n**Section 300** – अपराध एवं अपराधी के अधिकार (Right to be"}
+{"id": "scn-IPC:354-0", "output": "In India, if a man gropes a woman in a crowded market in 2025, the following legal provisions may apply:\n\n- **Section 378 of the Indian Penal Code (IPC)**: This applies to **sexual offenses** and includes **groping** as an offense.\n- **Section 498A of the IPC**: This addresses **sexual offenses** and specifically includes **groping**.\n\nThese sections apply to the act of groping a woman, especially in public or crowded areas."}
+{"id": "scn-IPC:465-1", "output": "यह बात के लिए अपने अधिकार के लिए **Section 195 of the Indian Penal Code (IPC)** लागू होगा।\n\n**Section 195** – **“False Oath”**  \nयह अपने अधिकार के लिए लागू होता है जब एक व्यक्ति अपने अधिकार के लिए अपने नाम या अन्य विवरण"}
+{"id": "scn-IPC:120B-0", "output": "In 2025 in India, if three people planned to rob a bank, the relevant legal provisions would likely be:\n\n- **Section 378 of the Indian Penal Code (IPC)**: This applies to conspiracy to commit a crime, including robbery.\n- **Section 38 of the Indian Penal Code (IPC)**: This applies to robbery.\n\nThese sections would apply if the actions constitute a robbery, with the planning and execution being part of the crime."}
+{"id": "scn-IPC:411-1", "output": "यह विवादित कार्यक्रम अंतर्राष्ट्रीय रूप से अपराध बताया जाता है, लेकिन भारत में इसे **Section 124A** के तहत लाइन लगाया जाता है।\n\n**Section Number:** 124A  \n**Short Description:** अपराधित अपने अपने अपराध के बाद अपन"}
+{"id": "scn-CRPC:41-1", "output": "India mein police arrest someone without a warrant **only in specific cases**. The **relevant section** is:\n\n**Section 101 of the Indian Penal Code (IPC)**.\n\nThis section deals with **arrests without a warrant** and is **not applicable** in most cases. It is **not a general rule** and is **strictly limited** to specific circumstances.\n\n### Key Points:\n- **Section 101 IPC** allows police to **arrest someone without a warrant** if:\n  - The person is **in the course of commission of a cognizable offense**.\n  - The person is **in the course of commission of an non-cognizable offense**.\n  - The person is **in the course of commission of a cognizable offense** and"}
+{"id": "scn-IPC:427-1", "output": "यह बात बहुत बड़ी है, लेकिन आपके बयान के अनुसार, आप इंडिया (India) में 2025 में अपने बिल्डिंग विंस्पेस को निर्माता द्वारा नुकसान पहुंचाया गया है।\n\n**अंतर्राष्ट्रीय अधिनियम के �"}
+{"id": "scn-CRPC:482-1", "output": "False FIR (Filing of Report) in India is a serious issue, and the accused can seek a quash order under **Section 165 of the Indian Penal Code (IPC)**. This section deals with **false FIR** and **false reporting**.\n\n**Section 165 of the Indian Penal Code (IPC):**  \n**\"Whoever, in the course of any police investigation, makes a false FIR or a false report, or makes a false statement in any report, or makes a false statement in any police report, or makes a false statement in any police record, or makes a false statement in any police registration, or makes a false statement in any police registration, or makes a false statement in any police registration, or makes a false statement in any police registration"}
+{"id": "scn-IPC:392-1", "output": "यह बात बहुत बड़ी है, लेकिन आपके बारे में एक बात बताने के लिए आपके बारे में एक बहुत बड़ा अंतर होगा। आप बताने के लिए कि आप दो लोगों ने आपके गलधारा को निकाल लिया था, और"}
+{"id": "scn-IPC:325-1", "output": "Yeh 2025 mein India mein hua, **Section 394**.  \n\n**Section 394** of the **Indian Penal Code (IPC)** deals with **\"Assault and Battery\"**. It applies to cases where someone uses force or any other means to cause harm to another person, including breaking bones.  \n\n**Note:** This section is often used in cases of **physical abuse, assault, and injury**."}
+{"id": "scn-IEA:25-1", "output": "Yeh 2025 mein India mein hua.  \n**Section:** 124A (अवैध अवस्था में अपने अपने अवस्था के बारे में अपने अपने अवस्था के बारे में अपने अपने अवस्था के बारे में अपने अपने अवस्था के बारे में अपने अपने अवस"}
+{"id": "scn-IPC:304A-1", "output": "Yeh 2025 mein India mein hua: **Section 300A** (एस. 300A)  \n**Meraan:** अपराध एवं अपराध नियम (Indian Penal Code)  \n\n**Meraan:** अपराध एवं अपराध नियम (Indian Penal Code)  \n\n**Meraan:** अपराध एवं अपराध नियम (Indian Penal Code)  \n\n**Meraan:** अपराध एवं अपराध नियम (Indian Penal Code)  \n\n"}
+{"id": "scn-CRPC:164-1", "output": "Yeh 2025 mein India mein hua: **Section 124A** (अपर्याप्त अवस्था में अपहरण)  \n\n**Section 124A** – अपर्याप्त अवस्था में अपहरण (Unlawful Detention)"}
+{"id": "scn-IPC:465-0", "output": "The forgery of a signature on a property document in 2025 in India would fall under **Section 192 of the Indian Penal Code (IPC)**, which deals with **forgery** and **false documents**.\n\n**Section 192 IPC** applies because the person forged a signature on a document, which is a form of **false document**.\n\n**Section 195 IPC** may also apply if the forged signature is used to commit a **false accusation** or **false statement**.\n\n**Answer:**  \n- **Section 192 IPC** (forgery)  \n- **Section 195 IPC** (false documents or false accusation)"}
+{"id": "scn-IPC:506-1", "output": "आपके बयान में बताया गया है कि आपके अधिकार को अपराध के रूप में निर्धारित किया गया है, जिसके बारे में आपके बयान में विवाद के बारे में बताया गया है। आपके बयान में बताया गया ह"}
+{"id": "scn-IPC:411-0", "output": "The sale of stolen phones in 2025 in India would likely be governed by the **Information Technology Act, 2000** (Section 43), which addresses the sale of stolen or counterfeit goods, and the **Indian Penal Code (IPC)**, particularly **Section 467** (for theft) and **Section 498A** (for sexual offenses, if applicable). \n\n**Key Section:**  \n- **Section 43, IT Act, 2000** – for sale of stolen goods.  \n- **Section 467, IPC** – for theft.  \n- **Section 498A, IPC** – if there is a sexual offense."}
+{"id": "scn-CRPC:41-0", "output": "In 2025 in India, the police can arrest someone without a warrant under **Section 152 of the Indian Penal Code (IPC)**, which deals with **false imprisonment**. This section allows police to arrest a person without a warrant if they believe the person has committed an offense and there is no other legal basis for arrest.\n\n**Section 152 IPC** is the relevant provision."}
+{"id": "scn-IPC:379-1", "output": "यह बात बहुत बड़ी है, लेकिन आपके बारे में एक बहुत बड़ी बात है कि आप एक बस में अपने फोन को बर्बाद कर लिये गए। इसके लिए आपके बारे में एक बहुत बड़ी बात है, लेकिन आपके �"}
+{"id": "scn-IPC:363-1", "output": "यह बाब अपने बच्चे को अपने अनुमति के बाद बाहर ले लेने के लिए एक अपराध है। इसे **Section 489** के तहत लिया जाता है।\n\n**Section 489** – अपने बच्चे को अपने अनुमति के बाद बाहर ले लेने के लिए �"}
+{"id": "scn-IPC:427-0", "output": "In India, the damage to a car's windshield by a neighbour would fall under the following legal provisions:\n\n1. **Section 378 of the Indian Penal Code (IPC)** – This applies to **wilful damage** or **intentional damage** to property. Since the neighbour deliberately damaged the windshield, this section applies.\n\n2. **Section 428 of the Indian Penal Code (IPC)** – This applies to **wilful damage** to property, and is a **repetitive offense**. It is often used for cases where the damage is repeated or persistent.\n\n**Note:** The exact legal charge and punishment will depend on the extent of damage, the intent, and the local police investigation."}
+{"id": "scn-CRPC:154-1", "output": "2025 mein India mein hua, जबकि आप एक FIR (Filing of a First Information Report) के लिए आवेदन करते हैं, तो आपके लिए आवश्यक अनुचित अवस्था (unlawful condition) के बारे में अपने अधिकारों के बारे में बात करते हैं।\n\nअपने अधिकारों के बारे म"}
+{"id": "scn-CRPC:482-0", "output": "The accused wants the High Court to quash a false FIR (First Information Report) in India. The relevant legal provisions are:\n\n- **Section 166 of the Indian Penal Code (IPC)**: This section deals with the **false FIR** and provides for the **quashing** of an FIR if it is false or misleading.\n\n- **Section 124 of the Indian Penal Code (IPC)**: This section is relevant if the FIR is **false** and the accused is **not** identified in the FIR, but it is not directly applicable in this context.\n\n- **Section 124A of the Indian Penal Code (IPC)**: This section is relevant if the FIR is **false** and the accused is **not** identified, but it is also not"}
+{"id": "scn-IPC:392-0", "output": "In India, if two men on a bike snatched your gold chain at knifepoint in 2025, the relevant laws would be:\n\n- **Section 378 IPC (Crimerelief)**: For **assault** and **attempted murder** (if applicable).\n- **Section 309 IPC**: For **attempted murder** (if the men actually killed you).\n- **Section 326 IPC**: For **abduction** or **kidnapping** (if they took you away).\n- **Section 325 IPC**: For **abduction** or **kidnapping** (if they took you away).\n\n**Note**: If the men used a **knife** and **threatened** you, this could also"}
+{"id": "scn-CRPC:167-1", "output": "India mein 24 saat ke beyond custody ke liye **Section 154A****.**"}
+{"id": "scn-IPC:307-1", "output": "यह विषय अपने बेटे के निर्माण में लगे एक व्यक्ति द्वारा निर्माण किया गया था, लेकिन बेटा बच गया। इसके लिए आपके बारे में एक अपवाद या अपवाद के बारे में बात करते हुए, यह विष"}
+{"id": "scn-IPC:325-0", "output": "The injury to your father's arm in 2025 in India would be governed by the following laws:\n\n1. **The Indian Penal Code (IPC)** – Specifically, **Section 309** (Criminal Negligence) and **Section 320** (Criminal Negligence in the course of employment).\n\n2. **The Indian Evidence Act** – Section 109 (Recovery of damages for injury to person).\n\n3. **The Indian Arbitration and Conciliation Act** – If there is a dispute over compensation or liability, this may apply.\n\n**Note:** The exact legal application depends on the nature of the injury, the circumstances, and whether there was negligence or malpractice. It is advisable to consult a legal professional for a detailed analysis"}
+{"id": "scn-IEA:25-0", "output": "The police saying the accused confessed to them in custody in 2025 in India would relate to **Section 166 of the Indian Penal Code (IPC)**, which deals with **confession** in criminal cases.\n\n**Section 166 IPC** states:\n\n> \"A person who is charged with a crime, and who makes a confession to the police or to a Magistrate, and who is found to be in custody, shall be deemed to have made a confession, and the confession shall be admissible in evidence.\"\n\nThis section is crucial because it establishes that a confession made in custody is admissible in court, even if the accused denies it later.\n\n**Note**: This applies only if the confession is made in custody and is not a false or fraudulent confession."}
+{"id": "scn-IPC:147-1", "output": "Yeh 2025 mein India mein hua.  \n**Section 124** (Rioting and Damaging Property) lagegi."}
+{"id": "scn-IEA:32-1", "output": "यह बात बताने के लिए आपके अनुसार, यह बात यह हो सकती है:  \n**\"अपने आप के बारे में बताने के लिए\" (Section 109)**\n\nइसके अनुसार, यह बात बताने के लिए एक अपनान या अपने आप के बारे में बताने क"}
+{"id": "scn-IPC:304A-0", "output": "In India, the death of a cyclist caused by a truck driver's negligence would likely fall under the following legal provisions:\n\n- **Section 302 of the Indian Penal Code (IPC)**: This applies to cases of **negligence** and is used for **intentional** or **negligent** acts that cause death. It is applicable if the driver's negligence is found to be **willful** or **negligent**.\n\n- **Section 309 of the Indian Penal Code (IPC)**: This applies to **negligent** acts that cause death, particularly when the driver is **not at fault** but still causes death through negligence.\n\n- **Section 309A of the Indian Penal Code (IPC)**: This is a **"}
+{"id": "scn-IPC:448-1", "output": "यह बात बहुत बड़ी है, लेकिन आपके बयान में यह बताया गया है कि एक व्यक्ति आपके घर में आ गया था और आपके जैसे घर के बाहर बैठे रहे लोगों के बल में अपने घर के बाहर बैठे र"}
+{"id": "scn-CRPC:164-0", "output": "In 2025 in India, if a magistrate is recording a witness's statement, the relevant legal provisions would be:\n\n- **Section 154 of the Indian Evidence Act, 1917** (revised in 2023): Governs the recording of statements and the rights of witnesses.\n\n- **Section 192 of the Indian Evidence Act, 1917** (revised in 2023): Governs the admissibility of statements made during police interrogation.\n\nThese sections apply to the recording and admissibility of witness statements in court."}
+{"id": "scn-IPC:34-1", "output": "**Short:** Two people beat a man; both shared the same intention.  \n**Section:** 522 (Crimes Against Property)"}
+{"id": "scn-IPC:354A-1", "output": "आपके बयान में आपको अपने व्यवहार में अपराध के बारे में बताया गया है, लेकिन आप इसके बारे में अपने व्यवहार में अपने व्यवहार में अपने व्यवहार में अपने व्यवहार में अपने व्यवह"}
+{"id": "scn-IEA:65B-1", "output": "2025 mein India mein WhatsApp chats और CCTV footage के लिए कोई अपील करने में अपील करने के लिए, आपके लिए अपील करने वाले अनुचित अपील के लिए अपील करने के लिए, आपके लिए अपील करने वाले अपील के लिए, आपके लिए अपील करन"}
+{"id": "scn-IPC:323-1", "output": "2025 mein India mein parking argument mein slap and punch ke case me **Section 498A** (Rape) aur **Section 498B** (Rape) lagega. \n\n- **Section 498A** – \"Rape of a woman\"  \n- **Section 498B** – \"Rape of a woman by a man\"  \n\nJisne ek kisi ko slap and punch ki, **Section 498A** aur **Section 498B** me case lagega."}
+{"id": "scn-IPC:506-0", "output": "In India, if a landlord threatens to kill someone (e.g., through threats of violence or murder) and the tenant refuses to vacate the flat, the following legal provisions may apply:\n\n- **Section 378 of the Indian Penal Code (IPC)**: This applies to **threats of death**. If the landlord threatens to kill the tenant, this section could be applicable.\n- **Section 422 of the Indian Penal Code (IPC)**: This applies to **abduction** or **threats of death** if the landlord physically assaults or threatens the tenant.\n\n**Note**: If the landlord physically threatens to kill the tenant, this could also fall under **Section 398 (C) of the IPC** (threats of death).\n\n**Summary**:  \n"}
+{"id": "scn-IPC:379-0", "output": "In India, if your phone was stolen on a crowded bus in 2025, the relevant laws would be:\n\n- **The Indian Penal Code (IPC)**, Section 407: **Theft** (stolen property).\n- **The Indian Penal Code (IPC)**, Section 379: **False Implication** (if the thief falsely claims ownership).\n- **The Indian Penal Code (IPC)**, Section 420: **Assault and Battery** (if there was physical harm or injury).\n\n**Note:** If the phone was stolen, the primary offense is **Theft** (Section 407 IPC). If there was physical contact or injury, Section 420 may apply."}
+{"id": "scn-IPC:363-0", "output": "In India, if a child is taken away from parents without their consent, this may fall under **Section 489 of the Indian Penal Code (IPC)**, which deals with **child abduction**. \n\n**Section 489 IPC** states:  \n*\"Whoever abducts a child from the care and custody of a parent or guardian, or abducts a child from the care and custody of a parent or guardian, and takes him or her away from the country, shall be punished with imprisonment for a term not exceeding five years, and shall also be fined.\"*\n\nThis applies if the child is taken away **without the consent** of the parent or guardian. \n\n**Note**: The specific application of this section depends on the circumstances, such as whether the child was"}
+{"id": "scn-CRPC:154-0", "output": "In India, to register an **FIR (First Information Report)** for a **cognizable offence**, the following sections of the **Indian Penal Code (IPC)** and **Indian Evidence Act (IEA)** apply:\n\n- **Section 154 of the IPC** – This is the **standard** for filing an FIR for a cognizable offence.\n- **Section 122 of the IPC** – This applies to **non-cognizable offences**, but does **not** apply to cognizable offences.\n\n**Note:** Section 154 is the **minimum** requirement for filing an FIR for a **cognizable offence**. The **Evidence Act (Section 122)** is not applicable for cognizable offences."}
+{"id": "scn-CRPC:125-1", "output": "2025 mein India mein hua, जबकि आपके पति आपके और बेटे के लिए फिनैशल सहायता नहीं दिलाया गया, तो आपके लिए एक अनुचित अवस्था होगी।\n\n**अनुचित अवस्था (Unlawful Marriage)**\n\n- **Section 10** – आपके पति आपके लिए फिन�"}
+{"id": "scn-IPC:498A-1", "output": "आपके बयान के अनुसार, आप इंडिया में अपने विवाह के बाद अपने विवाह के बाद अपने विवाह के बाद अपने विवाह के बाद अपने विवाह के बाद अपने विवाह के बाद अपने विवाह के बाद अपने विव"}
+{"id": "scn-IPC:500-1", "output": "यह विषय आपके लिए एक अनुचित बयान लगाने वाले व्यक्ति के लिए एक अपमान बन सकता है, जो आपके जीवन में असावधानी लगाने से लगाने वाले व्यक्ति के लिए एक अनुचित बयान लगाने के लि�"}
+{"id": "scn-CRPC:167-0", "output": "The police wanting to keep an accused in custody beyond 24 hours would typically be governed by **Section 39 of the Indian Constitution** (Right to Privacy) and **Section 124A of the Indian Penal Code (IPI)**. \n\n- **Section 39** (Right to Privacy) is interpreted by the Supreme Court to include the right to be free from unreasonable searches and seizures.\n- **Section 124A** (Cognizable Offenses) applies if the police can show that the accused is in possession of a weapon or is likely to use it, and that the accused is in custody.\n\nHowever, in practice, the **Right to Privacy** is a constitutional right, and the police must obtain a warrant before detaining an accused beyond "}
+{"id": "scn-IPC:307-0", "output": "In India, if a man stabbed your brother intending to kill him but he survived, the relevant legal provisions would be:\n\n- **Section 309 of the Indian Penal Code (IPC)**: This applies to **attempted murder**. If the accused attempts to kill but fails, it is still an **attempt**, and the person who attempts to kill can be charged under this section.\n\n- **Section 329 of the Indian Penal Code (IPC)**: This applies to **attempted murder** if the accused **intends to kill** and **fails** to do so.\n\nThese sections would apply if the accused **intended to kill** and **failed** to do so, and the victim survived.\n\n**Note**: If the accused **intended to kill** and **"}
+{"id": "scn-IPC:509-1", "output": "यह विषय अंतर्राष्ट्रीय विवाद के अंतर्गत है, और भारत में इसे **Section 377** के तहत लाइन लगाया गया है।\n\n**Section 377** – अंतर्राष्ट्रीय विवाद के अंतर्गत, यह विवाद अंतर्राष्ट्रीय विवाद के अंत"}
+{"id": "scn-IPC:376-1", "output": "2025 mein India mein sexual assault case के लिए **Section 344** के अनुच्छेद लगेगा।"}
+{"id": "scn-IPC:147-0", "output": "The rioting and damage to shops in 2025 in India would likely fall under the following sections of law:\n\n- **Section 144 of the Indian Penal Code (IPC)**: For rioting and causing public disorder.\n- **Section 422 of the IPC**: For causing hurt or injury.\n- **Section 122 of the IPC**: For rioting.\n\nThese sections apply if the rioting and damage are considered a public disorder or a criminal act."}
+{"id": "scn-IEA:32-0", "output": "In India, the law that applies to this scenario would be:\n\n- **Section 309 of the Indian Penal Code (IPC)**: This applies to **abduction** or **abduction with intent to abduct**. If the attacker took the victim away and intended to abduct her, this section may apply.\n\n- **Section 320 of the IPC**: This applies to **abduction** or **abduction with intent to abduct**. It is similar to Section 309 but may be applicable if the victim is taken by force or threat.\n\n- **Section 321 of the IPC**: This applies to **abduction** or **abduction with intent to abduct** and may be applicable if the victim is taken by force or threat.\n\n"}
+{"id": "scn-IPC:448-0", "output": "In India, if a man entered your house without permission to intimidate your family in 2025, the following legal provisions may apply:\n\n- **Section 422 of the Indian Penal Code (IPC)**: This applies to **abduction** or **intimidation** through force or threat. If the man used force or threatened to intimidate, this could apply.\n- **Section 498A of the IPC**: This addresses **abduction** and **intimidation** by a person in a position of trust. If the man had a position of trust (e.g., a relative, employer, etc.), this could apply.\n- **Section 300 of the IPC**: This covers **abduction** and **intimidation** by a person in"}
+{"id": "scn-IPC:34-0", "output": "The scenario involves two people beating a man, and both shared the same intention. In India, this would fall under **Section 142 of the Indian Penal Code (IPC)**, which deals with **Assault and Battery**.\n\n**Section 142 IPC** applies when a person **intends to cause harm** and **does so**. Since both individuals shared the same intention and acted together, they could be held jointly responsible.\n\n**Key Section:**  \n**Section 142 Indian Penal Code**."}
+{"id": "scn-IPC:354A-0", "output": "In India, the relevant laws regarding sexual harassment and workplace conduct are:\n\n1. **《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《"}
+{"id": "scn-IPC:406-1", "output": "यह विषय आपके बिजनेस निजी निकाय (Private Limited) के एक अनुचित विवाद के बारे में है, जहां आपके बिजनेस निजी निकाय के एक अधिकारी आपके दोषित धन को अवैद्य बना रहे हैं।\n\n**अंतर्राष्ट्रीय अ"}
+{"id": "scn-IEA:65B-0", "output": "In India, using WhatsApp chats and CCTV footage as evidence in court would fall under the following legal provisions:\n\n1. **Section 154 of the Information Technology (IT) Act, 2000** – This applies to data privacy and electronic evidence, and may be relevant if the data was collected and stored in violation of laws.\n\n2. **Section 153A of the IT Act, 2000** – This relates to the unauthorized use of electronic records and may apply if the data was obtained without authorization.\n\n3. **Section 152 of the IT Act, 2000** – This deals with the unauthorized access to electronic records and may apply if the data was accessed without authorization.\n\n4. **Section 122 of"}
+{"id": "scn-IPC:323-0", "output": "In India, if your neighbour slapped and punched you during an argument over parking in 2025, the following legal provisions may apply:\n\n1. **Section 498A of the Indian Penal Code (IPC)** – For **abuse of dominant position** (e.g., slapping or hitting in a public place).\n\n2. **Section 498 of the IPC** – For **abuse of dominant position** (if the neighbour had a dominant position in the parking dispute).\n\n3. **Section 497 of the IPC** – For **abuse of dominant position** (if the neighbour had a dominant position in the parking dispute).\n\n4. **Section 495 of the IPC** – For **abuse of dominant position** (if the"}
+{"id": "scn-IPC:420-1", "output": "यह बात बहुत बड़ी है, लेकिन आपके बयान में यह बताया गया है कि एक व्यक्ति ने 2025 में अपने बचत के बाद अपने बचत के बाद अपने बचत के बाद अपने बचत के बाद अपने बचत के बाद अपने"}
+{"id": "scn-IPC:279-1", "output": "यह बात बहुत अधिक असावधान और अपमानजनक है। आपके बयान में अपराध और अपमान के बीच असंगति है। यह एक असंगत और अपमानजनक बयान है, जिसके बारे में अपराध और अपमान के बीच असंगति"}
+{"id": "scn-CRPC:125-0", "output": "In India, if your husband has left you and your children without financial support, the relevant legal provisions are:\n\n- **Section 48 of the Hindu Marriage Act, 1955** (for divorce and maintenance)\n- **Section 125 of the Indian Penal Code (IPC)** (for cruelty or neglect)\n- **Section 124 of the IPC** (for cruelty)\n- **Section 127 of the IPC** (for cruelty)\n\nThese sections can be used to claim maintenance and support under the **Maintenance and Welfare Rights Act, 2019** (though not explicitly cited in the old law, it is now the primary legal framework).\n\n**Note:** The Maintenance and Welfare Rights Act, 2019, is the primary legal"}
+{"id": "scn-IPC:498A-0", "output": "In India, the relevant laws that could apply to your situation are:\n\n- **Section 498A of the Indian Penal Code (IPC)**: This relates to **carnal intercourse during the course of marriage** and is applicable if there is **coercion** or **threats** to force a woman into a relationship.\n\n- **Section 497 of the IPC**: This deals with **coercion in marriage** and applies if there is **force or threat** to force a woman into a relationship.\n\n- **Section 395 of the IPC**: This is for **abduction** or **forced marriage**.\n\n- **Section 323 of the IPC**: This is for **abduction** or **forced marriage**.\n\n- **Section "}
+{"id": "scn-IPC:500-0", "output": "In India, if a person posts false statements to damage your reputation in your community, this may fall under the following laws:\n\n1. **Section 499 of the Indian Penal Code (IPC)** – This applies to **false accusation**. If the false statements are used to falsely accuse you, this could apply.\n\n2. **Section 498A of the IPC** – This applies to **false imprisonment** if the false statements lead to you being held in custody.\n\n3. **Section 195 of the Indian Penal Code (IPC)** – This applies to **false evidence** if the false statements are used in a court of law.\n\n**Note:** The exact application depends on the nature of the false statements and whether they led to legal consequences. It is advisable to"}
+{"id": "scn-IPC:509-0", "output": "In India, if a man makes **obscene gestures** and **insulting comments** to a woman, the relevant legal provisions would be:\n\n- **Section 498A of the Indian Penal Code (IPC)**: This applies to **insults** and **denigration** of a woman, particularly when the insult is **intended to lower her status** or **humiliate** her.\n\n- **Section 497 of the IPC**: This applies to **insults** and **denigration** of a woman, especially if the insult is **intentional** and **malicious**.\n\nThese sections cover **obscene gestures** and **insulting comments** directed at a woman, and may be applicable depending on the **context** and **"}
+{"id": "scn-IPC:376-0", "output": "In India, a woman who has been sexually assaulted can file a police complaint under the following sections of the **Indian Penal Code (IPC)**:\n\n- **Section 379:** For **sexual offense** (e.g., rape, sexual assault, etc.).\n- **Section 382:** For **attempted sexual offense**.\n- **Section 383:** For **attempted rape**.\n- **Section 384:** For **attempted sexual assault**.\n\nThese sections apply to **attempted** or **attempted to commit** sexual offenses, but **actual commission** of the offense (e.g., rape, sexual assault) is covered under **Section 379**.\n\n**Note:** The specific section depends on the **nature of the"}
+{"id": "scn-IPC:406-0", "output": "In India, the relevant legal provisions for recovering property that has been entrusted to someone and not returned would be:\n\n- **Section 422 of the Indian Penal Code (IPC)**: This applies to cases of misappropriation or conversion of property, especially if the person in charge is in a position of trust.\n\n- **Section 482 of the Indian Penal Code (IPC)**: This applies to cases where property is misappropriated or converted, particularly if the person in charge is in a position of trust.\n\nThese sections can be used to claim compensation or damages for the misappropriation of entrusted property."}
+{"id": "scn-CRPC:438-1", "output": "आपके बयान के अनुसार, आप अपने अपने अधिकारों के बारे में अपेक्षित रूप से अवगत हो रहे हैं, लेकिन आप अपने अधिकारों के बारे में अपेक्षित रूप से अवगत नहीं हो रहे हैं। आपके ब"}
+{"id": "scn-IPC:420-0", "output": "The man's disappearance and the loss of Rs 50,000 could be addressed under the following Indian legal provisions:\n\n1. **Section 38 of the Indian Penal Code (IPC)** – This applies to **abduction** or **abduction with intent to deceive**. If the man was taken away by force or threat, this could apply.\n\n2. **Section 407 of the IPC** – This applies to **abduction** or **abduction with intent to deceive** if the person is taken away by force or threat.\n\n3. **Section 409 of the IPC** – This applies to **abduction** or **abduction with intent to deceive** if the person is taken away by force or threat.\n\n4. **Section 4"}
+{"id": "scn-IPC:279-0", "output": "In India, a car being driven dangerously and endangering people would likely fall under the following sections of law:\n\n- **Section 138 of the Indian Penal Code (IPC)**: This applies to causing death or grievous injury by negligence, including reckless driving.\n\n- **Section 302 of the IPC**: This covers causing death by negligence, which could apply if the accident resulted in death.\n\n- **Section 297 of the IPC**: This applies to causing death by negligence, which could also apply if the accident resulted in death.\n\n- **Section 299 of the IPC**: This covers causing grievous injury by negligence, which could apply if the accident resulted in grievous injury.\n\n**Citation**:  \n- **Section 138 IPC** for causing"}
+{"id": "scn-IPC:384-1", "output": "2025 mein India mein hua: **Section 124A** (एस्टेट अवैद्युत अवस्था अवस्था अवस्था अवस्था अवस्था अवस्था अवस्था अवस्था अवस्था अवस्था अवस्था अवस्था अवस्था अवस्था अवस्था अवस्था अवस्था अवस्थ"}
+{"id": "scn-IPC:354D-1", "output": "यह एक अनुचित और अपराधिक अभिव्यक्ति है, जो अपने बेटे के लिए अपराधिक अभिव्यक्ति है। इसे अपराधिक अभिव्यक्ति के बारे में बताया जाता है।\n\nअपने बेटे के लिए अपराधिक अभिव्यक"}
+{"id": "scn-IPC:306-1", "output": "Yeh 2025 mein India mein hua: **Section 397** (अपर्णा अप्प अपर्णा अपर्णा अपर्णा अपर्णा अपर्णा अपर्णा अपर्णा अपर्णा अपर्णा अपर्णा अपर्णा अपर्णा अपर्णा अपर्णा अपर्णा अपर्णा अपर्णा अपर्णा अ"}
+{"id": "scn-IPC:304B-1", "output": "यह विषय आमतौर पर **Section 399** के तहत लिया जाता है।\n\n**Section 399** – **अपराध और अपराध विवाद** (Criminal and Criminal Dispute)\n\nइसके तहत, यदि एक व्यक्ति अपराध के बाद अपने बयान के अनुसार अपने बयान के अनुसार अपन"}
+{"id": "scn-IPC:302-1", "output": "Yeh 2025 mein India mein hua. Kaunsi section lagegi?  \n**Section 397** (Hindu Riba) lagegi."}
+{"id": "scn-CRPC:438-0", "output": "In India, if you seek protection from arrest in advance, the relevant legal provision is **Section 10(1) of the Indian Evidence Act, 1917**. This section provides for the **\"right to be heard\"** in cases of arrest, allowing a person to challenge the legality of an arrest.\n\n**Section 10(1) of the Indian Evidence Act, 1917**:\n\n> \"A person arrested shall be entitled to be heard and to state his case before the court, and to be produced before a court of law.\"\n\nThis right is **not** absolute and is subject to the **right to be heard** in the context of **Section 16(1) of the Indian Evidence Act, 1917**,"}
+{"id": "scn-IPC:384-0", "output": "In India, if shopkeepers are being forced to pay money by a goon (a local official or person in authority) through threats, this may relate to **Section 124** of the **Indian Penal Code (IPC)**, which deals with **threats and coercion**.\n\n- **Section 124 IPC** applies if someone threatens or coerces another person to do something, and the threat is **intended to induce compliance**.\n\nIf the goon is using **threats** to force money, this could be a **criminal offense** under **Section 124 IPC**.\n\n- **Section 124** is **not** for **false imprisonment** or **abuse of power**, but for **threats** and **coercion"}
+{"id": "scn-IPC:354D-0", "output": "In India, the relevant laws would be:\n\n1. **Information Technology Act, 2000** (Section 43) – This applies to data protection and privacy, including the handling of personal data by organizations.\n\n2. **Information Commission Act, 2016** (Section 12) – This applies to data protection and privacy, including the right to be forgotten.\n\n3. **Right to Privacy Act, 2017** (Section 1) – This is a constitutional right under Article 19(1) and 21 of the Indian Constitution, which protects the right to privacy.\n\n4. **Information Privacy Act, 2023** (Section 1) – This is a new law in India, applicable to data"}
+{"id": "scn-IPC:306-0", "output": "In India, the law that applies to such a case would be:\n\n- **Section 378 of the Indian Penal Code (IPC)**: This applies to cases of **attempted murder** or **attempted suicide**, especially if the person is **in a state of mental disorder**.\n\n- **Section 323 of the Indian Penal Code (IPC)**: This applies if the **employer** is **intentionally causing harm** or **threatening** the employee, which could be a **criminal offense**.\n\n- **Section 422 of the Indian Penal Code (IPC)**: This applies if the **employer** **intentionally causes** the **employee's death** through **abuse** or **threats**.\n\n- **Section 40"}
+{"id": "scn-IPC:304B-0", "output": "In India, the death of a woman under suspicious circumstances, particularly after dowry demands, would likely be addressed under the **Dowry Prohibition Act, 1961** and the **Prevention of Dowry Act, 1961**.\n\n- **Dowry Prohibition Act, 1961** (Section 49): Prohibits the payment of dowry and related practices.\n- **Prevention of Dowry Act, 1961** (Section 12): Prohibits the practice of dowry and provides for penalties.\n\nThese laws would apply to the case, as the death occurred after dowry demands and was under suspicion."}
+{"id": "scn-IPC:302-0", "output": "In India, the law that applies would be **Section 399 of the Indian Penal Code (IPC)**, which deals with **murder**. The attacker was charged and convicted under this section.\n\n**Section 399 IPC** states:  \n*\"Whoever commits murder, or causes death by any means, shall be punished with death, or imprisonment for life, or fine, or both.\"*  \n\nThis applies to the attacker, as the incident involved **death**."}

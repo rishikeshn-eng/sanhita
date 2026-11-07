@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sanhita"
+version = "0.1.0"
+description = "Check Indian criminal-law citations in AI answers against the 2023 codes (BNS/BNSS/BSA)."
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.10"
+dependencies = []
+
+[project.optional-dependencies]
+bench = ["pandas", "pyarrow", "mlx-lm", "google-genai"]
+
+[project.scripts]
+sanhita = "sanhita.cli:main"
+
+[tool.setuptools]
+packages = ["sanhita"]
+
+[tool.setuptools.package-data]
+sanhita = ["data/*"]

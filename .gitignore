@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+*.egg-info/
+build/
+lora/adapters-*/
+lora/data/train.jsonl
+lora/data/valid.jsonl
+tests/parity/node_modules/
+tests/parity/package-lock.json

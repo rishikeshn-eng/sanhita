@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>sanhita: is your legal AI citing repealed law?</title>
+<meta name="description" content="On 1 July 2024 India replaced the IPC, CrPC and Evidence Act. sanhita checks every statute citation in an AI answer against the new codes, catching repealed sections and the dangerous 'BNS 302 for murder' carry-over error. With a benchmark of 5 open LLMs (1B–8B), a LoRA knowledge-update experiment, and an audit of Indian legal training data.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="paper">
+<header class="mast">
+  <div class="mast-top"><span>Indian criminal law · AI reliability</span><span id="today"></span></div>
+  <div class="mast-title"><span class="brand">sanhita</span><span class="mast-sub">a citation checker for India's 2023 criminal codes</span></div>
+  <nav><a href="#check">Check an answer</a><a href="#lookup">Old ↔ new</a><a href="#results">How models do</a><a href="#lora">Can we retrain it?</a><a href="#data">Training data</a><a href="https://github.com/rishikeshn-eng/sanhita">Code ↗</a></nav>
+</header>
+
+<section class="lede-wrap">
+  <h1>Your legal AI is still citing a law <span class="redline">India repealed</span>.</h1>
+  <p class="lede">On <b>1 July 2024</b> the Indian Penal Code, the Code of Criminal Procedure and the Evidence Act were replaced by the
+    <b>Bharatiya Nyaya Sanhita</b>, the <b>Nagarik Suraksha Sanhita</b> and the <b>Sakshya Adhiniyam</b>. Almost every section got a new number.
+    Language models learned the old ones. Worse, the old numbers <em>still exist</em> in the new codes with different meanings:
+    ask for the murder section and a model may answer <span class="mono">“BNS 302”</span>, which is the offence of
+    <em>wounding religious feelings</em>.</p>
+  <div class="stats" id="heroStats"></div>
+</section>
+
+<section id="check" class="block">
+  <div class="kicker">Live checker · runs entirely in your browser</div>
+  <h2>Paste an answer from any chatbot, lawyer's note or news report.</h2>
+  <div class="checker">
+    <div class="col">
+      <textarea id="input" spellcheck="false"></textarea>
+      <div class="examples" id="examples"><span>Try:</span></div>
+    </div>
+    <div class="col">
+      <div class="annot" id="annot"></div>
+      <div id="findings"></div>
+    </div>
+  </div>
+</section>
+
+<section id="lookup" class="block">
+  <div class="kicker">Correspondence tables (NCRB)</div>
+  <h2>What replaced it?</h2>
+  <div class="lookup">
+    <input id="lk" placeholder="e.g. IPC 420, 498A, CrPC 154, Evidence Act 65B, BNS 103" autocomplete="off">
+    <div id="lkOut"></div>
+  </div>
+</section>
+
+<section id="results" class="block">
+  <div class="kicker">Benchmark · 740 questions · gold answers from the official tables</div>
+  <h2>How often do models cite the law in force?</h2>
+  <p class="note" id="benchNote"></p>
+  <div class="legend"><i class="c-ok"></i>correct new section <i class="c-stale"></i>repealed code <i class="c-carry"></i>new code, old number <i class="c-wrong"></i>other wrong <i class="c-none"></i>no citation</div>
+  <h3>“Which section, of which Act, covers <i>X</i> today?”</h3>
+  <div id="chartCurrent" class="bars"></div>
+  <h3>Plain-language situations (“my phone was stolen on a bus…”), 2025</h3>
+  <div id="chartScenario" class="bars"></div>
+  <div class="two">
+    <div><h3>Old → new conversion (IPC 420 → ?)</h3><div id="tblConvert"></div></div>
+    <div><h3>Which code applies? (offence in 2022 vs 2025)</h3><div id="tblTemporal"></div></div>
+  </div>
+  <div id="examplesBad" class="quotes"></div>
+</section>
+
+<section id="lora" class="block">
+  <div class="kicker">Experiment · LoRA fine-tuning on the mapping</div>
+  <h2>Can you simply retrain the model? Not really.</h2>
+  <p class="note">We fine-tuned Qwen3-1.7B (LoRA, 5,805 examples) on the old→new mapping for 80% of sections, using different wording from the benchmark.
+    The question is whether that knowledge transfers to the 20% of sections it never saw, and what else breaks.</p>
+  <div id="loraChart" class="lora"></div>
+</section>
+
+<section id="data" class="block">
+  <div class="kicker">Audit · the data Indian legal chatbots are fine-tuned on</div>
+  <h2>The training data is frozen before July 2024.</h2>
+  <div id="auditTbl"></div>
+  <h3>Even the Supreme Court is mid-transition (citations per year, 9,686 judgments)</h3>
+  <div id="scChart"></div>
+  <p class="note">Most old-code citations by courts are <b>correct</b>: offences committed before 1 July 2024 are still tried under the IPC.
+    That is why sanhita doesn't just say “wrong”; it says <i>when</i> each code applies.</p>
+</section>
+
+<section class="block">
+  <div class="kicker">Under the hood</div>
+  <h2>How sanhita reads a citation</h2>
+  <ol class="how">
+    <li><b>Parse.</b> A citation grammar for how Indians actually write law: <span class="mono">u/s 302 r/w 34 IPC</span>,
+      <span class="mono">Sections 447, 506 read with Section 34</span>, <span class="mono">S. 161(2) Cr.P.C.</span>,
+      <span class="mono">धारा 420 भारतीय दंड संहिता</span>. Measured on <span id="exN"></span> real citation strings from Supreme Court judgments:
+      <b id="exF1"></b>.</li>
+    <li><b>Map.</b> Every old section → its new section(s) via NCRB's official correspondence tables, including splits (498A → BNS 85 + 86) and omissions (124A sedition).</li>
+    <li><b>Detect carry-over.</b> If a new-code section is cited but the surrounding words match the <em>old</em> section with that number far better, it's the classic carry-over error.</li>
+    <li><b>Respect time.</b> An IPC citation for a 2023 offence is correct; a BNS citation for it is not.</li>
+  </ol>
+  <pre class="code">pip install -e .
+sanhita "Murder is punishable under BNS 302."      # → CARRYOVER: you mean BNS 103
+sanhita --map IPC 420                             # → BNS 318  Cheating
+echo "$CHATBOT_REPLY" | sanhita -                 # exit 0 clean · 1 outdated · 2 wrong</pre>
+</section>
+
+<footer>
+  <p><b>Not legal advice.</b> sanhita checks citations against the official correspondence tables; it does not judge whether a section fits the facts of a case.
+    Mapping and statute text: <a href="https://huggingface.co/datasets/AravArun/dhara-indian-criminal-law">Dhara</a> (CC-BY-4.0), from NCRB's tables.
+    Built by Rishikesh · MIT licensed · <a href="https://github.com/rishikeshn-eng/sanhita">source &amp; reproduction</a>.</p>
+</footer>
+</div>
+<script src="sanhita.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
